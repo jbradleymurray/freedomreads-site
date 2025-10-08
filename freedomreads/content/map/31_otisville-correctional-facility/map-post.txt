@@ -1,0 +1,36 @@
+Title: Otisville Correctional Facility
+
+----
+
+Prisonlocation:
+
+lat: 41.4791263
+lon: -74.5294297
+number: "57"
+city: Town of Mount Hope
+region: New York
+country: United States
+countryCode: us
+postcode: "10963"
+address: Sanitorium Avenue
+osm: 8788863353
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 16
+
+----
+
+Libraryimg: - file://ytLZ6nDlNSUJyfGV
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: 200SKuyd2Z15P1nK

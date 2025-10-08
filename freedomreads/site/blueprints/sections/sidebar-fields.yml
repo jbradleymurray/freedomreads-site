@@ -1,0 +1,37 @@
+type: group
+fields:
+	pagefeature:
+		type: toggle
+		label: Link to Another Page?
+		help: Turn this on when using the sidebar to feature another page. The heading and description will pull from the page hero text / title and introduction.
+		default: true
+		text:
+			- "no"
+			- "yes"
+	lineB:
+		type: line
+	sbheading:
+		label: Sidebar Heading
+		type: text
+		placeholder: Heading
+		when: 
+			pagefeature: false
+	sbdescription:
+		label: Sidebar Description
+		type: textarea
+		size: small
+		placeholder: Description
+		buttons:
+			- italic
+			- bold
+			- link
+		when: 
+			pagefeature: false
+	selectbutton:
+		type: group
+		when: 
+			pagefeature: true
+		extends: blocks/button
+		fields:
+			external: 
+				type: hidden

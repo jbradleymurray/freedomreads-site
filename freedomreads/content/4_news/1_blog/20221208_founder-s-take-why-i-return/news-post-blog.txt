@@ -1,0 +1,33 @@
+Title: Founder’s Take: Why I Return
+
+----
+
+Featureimg: - file://tgZBXXhxyKUetNkK
+
+----
+
+Introduction: Twenty-six years ago today, on December 8, 1996, I confessed to carjacking a man. In some ways, everything that I’ve done since then has been moving towards a kind of amends. Sometimes books are the opposite of violence, opening up the possibility for another tomorrow. I started Freedom Reads, not just to place beautiful, handcrafted wooden shelves with five hundred of the best books you can find on prison housing units all across this country, I started it to return to prisons with something more than the violence that first brought me there. 
+
+----
+
+Blocks: [{"content":{"text":"<p>Sometimes a person in prison will ask me a question that forces me to slow down, to breathe deeply, to think. This happened a few days ago, towards the end of a conversation in an upstate New York prison called Great Meadow Correctional Facility. The brother in the back asked what I sacrifice to return to these prisons. He didn’t mean what I sacrifice as a poet; he didn’t mean what I sacrifice as a father, husband, son. He wondered what I sacrificed as someone who first entered a prison in handcuffs and walked away from a courtroom where I might have gotten life owing only 9 years of what might remain of mine.  </p><p>I thought of my oldest son. I remember teaching him to read, first just a few sentences at a time, then whole pages. We started with Doctor Seuss and moved on until I was reading him Herman Melville’s <em>Moby Dick</em>. It was the year he turned five that I first began teaching him to read. One of his classmates, overhearing a conversation between his mother and father, had learned of my time in prison and told my son, “you know your father went to jail for stealing a car.” My boy wept. He wasn’t but five and couldn’t understand how I could be the father he knew and the one who’d held the pistol and taken what wasn’t mine. I didn’t tell the man at Great Meadow when he asked that though I sacrifice much to return, I am reminded how books were the vehicle to turn all the ways I’d made others suffer, from my victims to my mother to the people who a long time ago wanted to believe in me, into something that matters. And it was books, again, that helped me and my oldest connect, even though we didn’t know it then. </p><p>Over the past two months, the success of Freedom Reads has let us know that what we’re doing matters to the men, women, and children inside. I’ve written about bringing something beautiful into prisons in the <u><a href=\"https://www.nytimes.com/2022/11/25/opinion/prison-books-library.html\" target=\"_blank\"><em>New York Times</em></a></u>. Described how we’ve opened more than 50 Freedom Libraries in nineteen prisons across seven states. I mean we’ve built libraries in jails, in detention centers, in men’s prisons, in women’s prisons. We’ve built libraries for the staff inside many of those places. We’ve opened up libraries in Massachusetts, in Louisiana, in Illinois; we’ve opened libraries in Maine, in New York, in Colorado, and in Connecticut. And yet, we haven’t opened a library in Great Meadow.  </p><p>That night, I was there as a poet. But a tall man with a shaved head, who sat on the front row and was ready to talk about every book, said to me —“I’ve been following your story in <em>Poets &amp; Writers</em>, when are we going to get one of those Freedom Libraries here?''</p><p>Great Meadow is the reminder — there is more to do, and every single donation makes it easier for me to respond to the question of sacrifice with honesty: I return, because so many people in this world believe that opening a good book can reveal possibilities and joys and there was a time when I needed that more than anything else. So I return. And with your support, every time someone says can Freedom Reads bring a library here, we’ll be able to say: No doubt about it.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"1a760969-ba43-41a2-8966-5a07a9b51da7","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes, Showing Up
+
+----
+
+Published: 2022-12-08 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Founder & CEO of Freedom Reads'
+
+----
+
+Uuid: V9VzYn9UcuEFzgnw

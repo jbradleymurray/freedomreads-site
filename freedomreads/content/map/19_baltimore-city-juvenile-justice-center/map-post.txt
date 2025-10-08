@@ -1,0 +1,36 @@
+Title: Baltimore City Juvenile Justice Center
+
+----
+
+Prisonlocation:
+
+lat: 39.293421
+lon: -76.6081455
+number: "300"
+city: Baltimore
+region: Maryland
+country: United States
+countryCode: us
+postcode: "21202"
+address: North Gay Street
+osm: 3432396686
+
+----
+
+Prisontype: Youth
+
+----
+
+Librarycount: 11
+
+----
+
+Libraryimg: - file://cLKmspnRRJ2OTaTd
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: ECnmrKBMP0mgHyrE

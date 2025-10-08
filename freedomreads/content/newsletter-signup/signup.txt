@@ -1,0 +1,32 @@
+Title: Newsletter Signup
+
+----
+
+Headcopy: Stay up to date with our monthly newsletter
+
+----
+
+Messagesuccess:
+
+**Thank you for subscribing.**
+You’re all set to receive the next monthly newsletter at
+
+----
+
+Messageerror: We’re sorry, there was an error processing your signup request. Please double-check your email, or try again later.
+
+----
+
+Messageunsubscribed: You are still unsubscribed. To resubscribe, please contact us.
+
+----
+
+Messageprivacy: By submitting this form, you are agreeing to our (link: privacy-policy text: Privacy Policy ) and granting Freedom Reads permission to email you. You may unsubscribe via the link found at the bottom of every email.
+
+----
+
+Messageexists: looks like it’s already subscribed to our newsletter. Please reach out to (link: mailto:media@freedomreads.org text: media@freedomreads.org) if you’re having trouble receiving our emails!
+
+----
+
+Uuid: Ik3A1GOYVI2s9OQr

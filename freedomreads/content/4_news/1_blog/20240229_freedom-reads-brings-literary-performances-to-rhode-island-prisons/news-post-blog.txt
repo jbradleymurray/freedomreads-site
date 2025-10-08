@@ -1,0 +1,33 @@
+Title: Freedom Reads Brings Literary Performances to Rhode Island Prisons
+
+----
+
+Featureimg: - file://cZxVWSB3TFTYhwGe
+
+----
+
+Introduction: Freedom Reads put on literary events at Rhode Island prisons for the first time last week. Freedom Reads Founder & CEO Reginald Dwayne Betts performed his one-man show, *FELON: An American Washi Tale*. Following the show, Dwayne and Freedom Reads Program Coordinator Steven Parkhurst, who served over 26 years at Rhode Island’s Adult Correctional Institution (ACI), had a wide-ranging conversation about the experience of incarceration and the importance of literature and literary events in transforming the lives of incarcerated people.
+
+----
+
+Blocks: [{"content":{"text":"<p><strong>From Steven: </strong>Exactly five years had passed since I was released from the Rhode Island ACI to serve the remainder of my sentences in Connecticut. The correctional officers who had watched me age on the Inside, eight hour shifts at a time, greeted me at both the men’s and women’s facilities with, “Hey, glad to see you are doing good.” But, the moments that were the hardest were seeing the men at Medium Security go back to their cells when I was free to walk out the front door. I grew up alongside them, most of us teenagers when we met. Now over three decades have elapsed, with less hair and a ton of grays as evidence of our time served.</p><p>The men and women had signed copies of Dwayne’s book, <em>FELON</em>, and memories of one of their own showing back up the way Freedom Reads shows up in prisons around the country to do the work we do around books that build community and change lives. </p><p>I take photos, like the one above, beside a Department of Corrections sign outside the razor wire and without a prison issued uniform and handcuffs at every prison I visit with Freedom Reads. I take them, both because I can, and to honor the 30 years spent looking out cell windows at freedom.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"a9ba068d-7ac3-4981-9827-4c9b341e22b9","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Performances, Showing Up
+
+----
+
+Published: 2024-02-29 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Steven Parkhurst
+  authoraffiliation: Program Coordinator at Freedom Reads
+
+----
+
+Uuid: IPNxta19oqjHNiiB

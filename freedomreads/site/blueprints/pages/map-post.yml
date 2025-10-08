@@ -1,0 +1,39 @@
+title: Map Item
+num: '{{page.getStateIndex}}'
+columns:
+	- width: 2/3
+		fields:
+			prisonlocation:
+				label: Location
+				type: locator
+				required: true
+				liststyle: columns
+				required: true
+				center:
+					lat: 39.8097343
+					lon: -98.5556199
+				zoom: 
+					default: 4
+	- width: 1/3
+		fields:
+			prisontype:
+				label: Type of Prison
+				type: select
+				default: Men’s
+				options:
+					- Men’s
+					- Women’s
+					- Youth
+			librarycount:
+				label: Number of Libraries
+				type: number
+				min: 1
+			libraryimg:
+				label: Image
+				type: files
+				multiple: false
+			libraryquote:
+				label: Quote
+				type: textarea
+				buttons:
+					- italic

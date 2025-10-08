@@ -1,0 +1,36 @@
+Title: Massachusetts Correctional Institution at Norfolk
+
+----
+
+Prisonlocation:
+
+lat: 42.1191636
+lon: "-71.304152728517"
+number: "2"
+city: Norfolk
+region: Massachusetts
+country: United States
+countryCode: us
+postcode: "02056"
+address: Clark Street
+osm: 11026335
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 21
+
+----
+
+Libraryimg: - file://7ococwnyRTti7RLX
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: rnJoaPEyfPMBSgIm

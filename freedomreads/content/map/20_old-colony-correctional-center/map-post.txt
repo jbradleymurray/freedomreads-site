@@ -1,0 +1,35 @@
+Title: Old Colony Correctional Center
+
+----
+
+Prisonlocation:
+
+lat: 41.94920245
+lon: "-70.955750944103"
+city: Bridgewater
+region: Massachusetts
+country: United States
+countryCode: us
+postcode: "02324"
+address: Boulevard
+osm: 495047842
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 2
+
+----
+
+Libraryimg: - file://dpSvvAkoeb0SQmF0
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: mCz74x9ORLOA38ol

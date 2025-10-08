@@ -1,0 +1,33 @@
+Title: Founder's Take: Freedom Begins With Us
+
+----
+
+Featureimg: - file://d2fKSLve50FiRn5E
+
+----
+
+Introduction: The paradox of incarceration is that if you’ve been inside, you desperately want to believe that the time you spent in those cells matters. You understand that you did more than weep in those cells, more than endure suffering. You know that you’ve nurtured anger and then figured out how to let it go, if you’re lucky. You know that you’ve discovered ways to forgive yourself, often long before the people in the world knew your name. You know you spent more hours than you know figuring out how to apologize, and then even more hours afraid to do it. And sadly, you know the world holds that work in slight regard.
+
+----
+
+Blocks: [{"content":{"text":"<p>If you’re lucky, you’ve learned what it means to lead. You’ve coached sports teams, you’ve coordinated book clubs, you partnered with religious leaders. Some of us became leaders. We became managers, caregivers, dogtrainers, paralegals. My friend Terell Kelly spent years training others on how to use complicated machinery. Others spent years in the shoe shop learning how to turn pieces of leather into footwear. Friends of mine have spent decades in the kitchen training others how to be pastry chefs and line cooks. Prison might be a horrible world, but it is a world nonetheless and is not less so because there isn’t permission to name the things you’ve done on a resume.<br><br>I think about who makes up Freedom Reads. There are two worlds of us. Those who come from the most elite institutions that you can name and those who come from the most infamous. I, myself, can say I have official membership in both, carrying a state number given to me by the Virginia Department of Corrections in my head and also carrying an attorney’s number given by the State of Connecticut Bar. Both are six digits and, to be honest, both have value to me. My name is my name, and because I have a bunch of them, I’ve decided not to abandon any of them, even during the times that they make me weep.<br><br>But this is the point. Here at Freedom Reads, we are working to build a culture that says more than what we do matters. When we say we show up, we mean that we show up. And that we show up knowing that the merit and worth of who we are ain’t ever been predicated on the schools we graduated from. Those schools have helped shape us, whether they be community colleges or state schools or Yale Law School, where I learned to deeply enjoy the rich intellectual engagement that I’d gotten nowhere else on Earth. But I choose to remember the rivers that guided me through the turbulence over prison, because that past is what brought me to the halls of every elite institution I’ve set foot in, including my mother’s embrace after all those years of sorrow.<br><br>We show up, because the places that we survived have given us what we needed to get here. And we show up because we know, whether it be Yale or Harvard or Prince George’s Community College or Sussex 1 State Prison or any prison we might name, that many others who walked those same halls suffered so much that they disappeared. We show up as a reminder of who might have been saved.<br><br>Nobody ever said it was going to be easy. Just that it would be. And if we are who we say we are, we’ll keep doing what we’ve been doing – showing up as a model for what is possible when you measure a person by the marrow. That’s the fascinating thing about all of this.<br><br>Ask anyone. I am a loudmouth, irascible, temperamental, and prone to weeping. But I love with the best of them. And I believed that we could turn an idea into a mission into a set of wings that would carry anyone who desires it to freedom. And yes, such a dream is always a hard sell. But so is democracy. So is hope. So is forgiveness. And so is mercy. So we keep on, because these words can easily become a puzzle that will allow you to find the name of every single person who has touched a Freedom Library, who has helped make this dream a reality. That’s what Jason Reynolds says is the magic of the 26 letters of the alphabet, you can take them and tell whatever story you want. The story we tell is that Freedom begins with a book – and an essential part of that is knowing that freedom begins with us, no matter where we’ve been - because freedom is a destination and a journey, but it is not an artifact of the past.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"cb91cba6-8b65-480d-8146-597412514bd7","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes, Showing Up
+
+----
+
+Published: 2024-05-31 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Freedom Reads Founder & CEO'
+
+----
+
+Uuid: cJmUQDQn6R8DYXug

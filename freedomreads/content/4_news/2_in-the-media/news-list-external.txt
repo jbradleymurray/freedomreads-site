@@ -1,0 +1,3056 @@
+Title: In the Media
+
+----
+
+Listing:
+
+- 
+  title: >
+    People who build bookcases for prisons
+    have their own story to tell
+  link: >
+    https://www.ctpublic.org/news/2025-09-24/prison-books-reading-libraries-education-bookcases-freedom-reads-ct
+  author: Kevin Chang Barnum
+  publication: Connecticut Public Radio
+  publishdate: 2025-09-24
+  description: >
+    Inside a workshop in Hamden,
+    Connecticut, Michael Byrd and a
+    co-worker are standing at their
+    workstations. They’re sanding thin
+    slabs of wood — the first step in
+    building a bookcase.
+  thumbnail:
+    - file://q7EawS13RwXpFvpX
+  newstags: Freedom Library, Openings
+- 
+  title: >
+    Five Summer Reads from the Freedom
+    Library
+  link: >
+    https://www.mellon.org/article/five-summer-reads-from-freedom-library
+  author: Anaya Patel
+  publication: Mellon Foundation
+  publishdate: 2025-08-14
+  description: >
+    As the end of summer rolls in and life
+    settles into a slower rhythm, it’s a
+    good time to pick up a new read. Whether
+    you’re cooling off with an ice-cold
+    drink or staying inside to escape the
+    heat, a thoughtful read can be a perfect
+    companion.
+  thumbnail:
+    - file://ygrdRt51xsjhX9rt
+  newstags: Freedom Library
+- 
+  title: >
+    Nana Kwame Adjei-Brenyah has won the
+    2025 Inside Literary Prize.
+  link: >
+    https://lithub.com/nana-kwame-adjei-brenyah-has-won-the-2025-inside-literary-prize/
+  author: ' Literary Hub'
+  publication: ' Literary Hub'
+  publishdate: 2025-07-11
+  description: >
+    At a ceremony on Thursday night, Nana
+    Kwame Adjei-Brenyah’s Chain-Gang
+    All-Stars was awarded the second annual
+    Inside Literary Prize, the first-ever
+    US-based literary award to be judged by
+    currently incarcerated people.
+  thumbnail:
+    - file://tJuMxILOIgCsg7Yn
+  newstags: Freedom Library, Inside Literary Prize
+- 
+  title: >
+    Winner of the 2025 Inside Literary Prize
+    Revealed
+  link: >
+    https://www.kirkusreviews.com/news-and-features/articles/winner-of-the-2025-inside-literary-prize-revealed/
+  author: Michael Schaub
+  publication: KIRKUS
+  publishdate: 2025-07-11
+  description: >
+    Nana Kwame Adjei-Brenyah has won the
+    2025 Inside Literary Prize, an award
+    judged by incarcerated readers, for his
+    novel Chain-Gang All-Stars.
+  thumbnail:
+    - file://7mcBFWSjiVCthCVU
+  newstags: Inside Literary Prize
+- 
+  title: "Inside prison walls, here's how a book program is changing lives"
+  link: >
+    https://www.nbcnews.com/news/latino/prison-book-program-freedom-reads-rcna216474
+  author: Albinson Linares
+  publication: NBC News
+  publishdate: 2025-07-05
+  description: >
+    Accessing reading material in prisons is
+    hard, but Freedom Reads co-founder
+    Reginald Betts, a former inmate, went
+    beyond books, creating libraries made by
+    former prisoners.
+  thumbnail:
+    - file://Aex5afbAbHP2nf8U
+  newstags: Freedom Library, Inside Literary Prize
+- 
+  title: ' Leer en la cárcel para entender y conectar: "Los libros cambian el clima de la prisión"'
+  link: >
+    https://www.telemundo.com/noticias/noticias-telemundo/estados-unidos/eeuu-libros-prisiones-freedom-reads-rcna214542
+  author: Albinson Linares
+  publication: Telemundo Noticias
+  publishdate: 2025-07-02
+  description: >
+    La organización Freedom Reads ha
+    instalado 498 bibliotecas en 50
+    prisiones para jóvenes y adultos en
+    todo EE.UU., que incluyen libros en
+    español. "Esto abre tu mente y hace que
+    quieras cambiar", dice una reclusa que
+    forma parte de las actividades de
+    lectura.
+  thumbnail:
+    - file://4eQMbSIg9qKTf9eE
+  newstags: Inside Literary Prize
+- 
+  title: >
+    New ‘Freedom Libraries’ bring
+    literature and hope to Ohio prisons
+  link: >
+    https://www.wosu.org/2025-06-20/new-freedom-libraries-bring-literature-and-hope-to-ohio-prisons
+  author: Kendall Crawford
+  publication: WOSU
+  publishdate: 2025-06-20
+  description: >
+    Freedom Reads opened 20 Freedom
+    Libraries and brought the 2025 Inside
+    Literary prize to two Ohio prisons.
+  thumbnail:
+    - file://51PaTjWUNfKRhyrb
+  newstags: >
+    Freedom Library, Showing Up, Inside
+    Literary Prize, Openings
+- 
+  title: >
+    Poet Reginald Dwayne Betts celebrates
+    Juneteenth, second annual Inside
+    Literary Prize
+  link: >
+    https://ny1.com/nyc/all-boroughs/the-rush-hour/2025/06/19/poet-reginald-dwayne-betts-celebrates-juneteenth--second-annual-inside-literary-prize
+  author: Annika Pergament
+  publication: Spectrum News NY1
+  publishdate: 2025-06-19
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts speaks with NY1's Annika Pergament about Juneteenth, Freedom Libraries, and the Inside Literary Prize."
+  thumbnail:
+    - file://QRr4bxzOTfM3pmXT
+  newstags: Freedom Library, Shibumi, Showing Up
+- 
+  title: >
+    Hand-crafted bookcases are filling
+    prisons. They’re made in CT by
+    formerly incarcerated workers
+  link: >
+    https://www.ctpublic.org/news/2025-06-04/prison-reading-literacy-incarceration-bookcases-freedom-reads-ct
+  author: Kevin Chang Barnum
+  publication: Connecticut Public Radio
+  publishdate: 2025-06-04
+  description: >
+    The Freedom Reads team shares what it
+    means to return to prisons where they
+    served time with beautiful, handcrafted
+    bookcases and literature.
+  thumbnail:
+    - file://ApCPVRWWF9jTg3X0
+  newstags: Freedom Library, Showing Up
+- 
+  title: "Dozens Of 'Freedom Libraries' Built At 2 State Prisons In New Jersey"
+  link: >
+    https://patch.com/new-jersey/newarknj/dozens-freedom-libraries-built-2-state-prisons-new-jersey
+  author: Eric Kiefer
+  publication: The Patch
+  publishdate: 2025-05-22
+  description: >
+    Freedom Reads opened 37 new Freedom
+    Libraries and brought the Inside
+    Literary Prize 2025 at two New Jersey
+    prisons this May.
+  thumbnail:
+    - file://DLWNSjIHsP2f32cs
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    New Jersey Department of Corrections
+    Partners with Freedom Reads to Bring
+    Libraries and the Inside Literary Prize
+    to New Jersey Prisons
+  link: >
+    https://www.tapinto.net/towns/phillipsburg/sections/around-new-jersey/articles/new-jersey-department-of-corrections-partners-with-freedom-reads-to-bring-libraries-and-the-inside-literary-prize-to-new-jersey-prisons
+  author: ""
+  publication: TAPinto
+  publishdate: 2025-05-21
+  description: >
+    Freedom Reads opened 37 Freedom
+    Libraries across Northern State Prison
+    and Edna Mahan Correctional Facility in
+    New Jersey this May. The team also
+    brought the 2025 Inside Literary Prize
+    to both prisons.
+  thumbnail:
+    - file://X85DzZMztbJzfvk1
+  newstags: Inside Literary Prize, Showing Up
+- 
+  title: 'NJ Prisons Launch 37 Freedom Libraries & Celebrate 2nd Year of the Inside Literary Prize'
+  link: >
+    https://morristownminute.town.news/g/morristown-nj/n/301920/nj-prisons-launch-37-freedom-libraries-celebrates-3rd-year-inside-literary
+  author: Eric Blair
+  publication: Morristown Minute
+  publishdate: 2025-05-21
+  description: >
+    Freedom Reads opened Freedom Libraries
+    and brought the Inside Literary Prize to
+    two New Jersey prisons this May.
+  thumbnail:
+    - file://DLWNSjIHsP2f32cs
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    New Jersey launches new library system
+    for state prisons
+  link: 'https://www.shorenewsnetwork.com/2025/05/20/new-jersey-launches-new-library-system-for-state-prisons/#google_vignette'
+  author: ""
+  publication: Shore News Network
+  publishdate: 2025-05-20
+  description: >
+    Freedom Reads opened 37 Freedom
+    Libraries and brought the Inside
+    Literary Prize to two New Jersey prisons
+    last week.
+  thumbnail:
+    - file://6xK9zEN7SNxdTlGA
+  newstags: Inside Literary Prize, Showing Up
+- 
+  title: >
+    A literary prize is awarded by prison
+    inmates. This Arizona woman was on the
+    judging committee
+  link: >
+    https://www.kjzz.org/the-show/2025-05-12/a-book-prize-is-awarded-by-prison-inmates-this-arizona-woman-was-on-the-selection-committee
+  author: Sam Dingman
+  publication: KJZZ Phoenix
+  publishdate: 2025-05-12
+  description: "Crystal “Alex” Capilla, 2024 Inside Literary Prize judge and member of the 2025 Inside Literary Prize Selection Committee, spoke to KJZZ Phoenix from ASPC - Perryville in Arizona about what it meant to serve as a judge for last year's Prize and about this year's shortlisted titles."
+  thumbnail:
+    - file://JmmTNMSzKqxwEs4Q
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: Our Favorite Books for Every Type of Mom
+  link: >
+    https://www.nytimes.com/2025/05/07/books/review/mothers-day-books.html
+  author: ""
+  publication: The New York Times
+  publishdate: 2025-05-07
+  description: "*Doggerel*, the latest collection of poetry from Freedom Reads Founder & CEO Reginald Dwayne Betts, is featured in *The New York Times*' recommendations on books for Mother's Day."
+  thumbnail:
+    - file://DG3Ei5ip56rLr0YI
+  newstags: ""
+- 
+  title: >
+    Can We Offer You A Little Dignity And
+    Candor?
+  link: >
+    https://thepickup.com/can-we-offer-you-a-little-dignity-and-candor
+  author: Meredith Boe
+  publication: The Pickup
+  publishdate: 2025-05-06
+  description: "Recap of Freedom Reads Founder & CEO Reginald Dwayne Betts' keynote at the Tulsa LitFest."
+  thumbnail:
+    - file://Z5rNgsKFtkEokyVM
+  newstags: ""
+- 
+  title: >
+    Jazz Poetry Month At City of Asylum /
+    Alphabet City, North Side
+  link: >
+    https://www.wzum.org/wzum-in-the-community/2025/5/jazz-poetry-month-at-city-of-asylum-alphabet-city-north-side-p5hbd
+  author: ""
+  publication: WZUM
+  publishdate: 2025-05-02
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts will participate in Jazz Poetry Month at the City of Asylum in Pittsburgh this May.'
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: >
+    Princeton’s ‘Freedom Libraries’
+    Deliver Books to Incarcerated Readers
+  link: >
+    https://paw.princeton.edu/article/princetons-freedom-libraries-deliver-books-incarcerated-readers
+  author: Alison Bowen
+  publication: Princeton Alumni Weekly
+  publishdate: 2025-05-02
+  description: >
+    Freedom Reads, with support from the
+    Princeton University Library, opened
+    nine Freedom Libraries at Garden State
+    Correctional Facility in New Jersey last
+    year.
+  thumbnail:
+    - file://LuMDBmGYQt2BhLOw
+  newstags: Freedom Library, Openings
+- 
+  title: >
+    Incarcerated people in CT to judge
+    nationwide book competition
+  link: >
+    https://www.ctpublic.org/news/2025-05-02/incarcerated-people-in-ct-to-judge-nationwide-book-competition
+  author: Eddy Martinez
+  publication: Connecticut Public Radio
+  publishdate: 2025-05-02
+  description: >
+    The Freedom Reads team brought the 2025
+    Inside Literary Prize to Cybulski and
+    Carl Robinson Correctional Institutions
+    in Connecticut last week.
+  thumbnail:
+    - file://Vdfn5eM8BSyuaKFv
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    12 quintessential May events, from the
+    Pittsburgh Marathon to the Pierogi
+    Festival
+  link: >
+    https://nextpittsburgh.com/events/12-quintessential-pittsburgh-may-events/
+  author: Jennifer Baron
+  publication: NEXT Pittsburgh
+  publishdate: 2025-04-30
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts will be giving a poetry reading at Pittsburgh's Jazz Poetry Month this May."
+  thumbnail:
+    - file://StGHjD3U8VDKvKCU
+  newstags: ""
+- 
+  title: >
+    Freedom Reads Libraries Expand at
+    Decatur Correctional Center
+  link: >
+    https://nowdecatur.com/2025/04/28/freedom-reads-libraries-expand-at-decatur-correctional-center/
+  author: Lindsay Romano
+  publication: NowDecatur
+  publishdate: 2025-04-28
+  description: >
+    Freedom Reads opened 22 Freedom
+    Libraries and brought the Inside
+    Literary Prize 2025 to Illinois prisons.
+  thumbnail:
+    - file://do2stF1echKwM7YK
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    Tulsa LitFest features poet Reginald
+    Dwayne Betts
+  link: >
+    https://www.fox23.com/news/tulsa-litfest-features-poet-reginald-dwayne-betts/article_e18d66ad-495c-48aa-924d-cbc271c075e8.html
+  author: ""
+  publication: Fox23 News
+  publishdate: 2025-04-26
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts performed his solo show at the Tulsa LitFest in Oklahoma.'
+  thumbnail:
+    - file://gQlOeFh3QNU1ZQRR
+  newstags: ""
+- 
+  title: >
+    22 libraries open in two Illinois prison
+    facilities, IDOC announces
+  link: >
+    https://www.wcia.com/news/state-news/22-libraries-open-in-two-illinois-prison-facilities-idoc-announces/
+  author: Bradley Zimmerman
+  publication: WCIA
+  publishdate: 2025-04-24
+  description: >
+    Freedom Reads opened 22 Freedom
+    Libraries across Illinois River and
+    Decatur Correctional Center, and brought
+    the Inside Literary Prize to Decatur and
+    Western Correctional Centers.
+  thumbnail:
+    - file://GREwfRlEXqplwdqD
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    Poems That Lean Into Calm and Joy Amid
+    Life’s Chaos
+  link: >
+    https://www.nytimes.com/2025/04/23/books/review/new-poetry-collections.html
+  author: Stephanie Burt
+  publication: The New York Times
+  publishdate: 2025-04-23
+  description: '*Doggerel*, the latest poetry collection by Freedom Reads Founder & CEO Reginald Dwayne Betts, is featured in this *New York Times* piece on recent collections.'
+  thumbnail:
+    - file://7iulL6D0zZZIiH2W
+  newstags: ""
+- 
+  title: >
+    Reginald Dwayne Betts headlines Tulsa
+    LitFest with performance, talks
+  link: >
+    https://www.newson6.com/story/6807737edf28be8b0f5d1aa2/tulsa-litfest-reginald-dwayne-betts-green-country
+  author: Zachary Sabel
+  publication: News On 6
+  publishdate: 2025-04-22
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts will be the keynote speaker for this year's Tulsa LitFest in Oklahoma."
+  thumbnail:
+    - file://6fv8WFPUb9WUBYOu
+  newstags: ""
+- 
+  title: "How Black poets built the 'centifugal force' in modern American literature"
+  link: >
+    https://www.latimes.com/entertainment-arts/books/story/2025-04-14/cave-canem-festival-of-books-2025
+  author: Manuel Betancourt
+  publication: Los Angeles Times
+  publishdate: 2025-04-14
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts was quoted in the *Los Angeles Times*' feature on the Cave Canem poetry retreat, and its 30th anniversary."
+  thumbnail:
+    - file://8WVV1wmx8jtTUSjP
+  newstags: ""
+- 
+  title: >
+    A Pandemic Puppy Inspired Reginald
+    Dwayne Betts’s New Book
+  link: >
+    https://www.nytimes.com/2025/04/03/books/review/reginald-dwayne-betts-doggerel.html
+  author: Scott Heller
+  publication: The New York Times
+  publishdate: 2025-04-03
+  description: |
+    Freedom Reads Founder & CEO Reginald Dwayne Betts talked books he loves, Freedom Reads, and his new poetry collection, *Doggerel*, in *The New York Times*' "By the Book" series.
+  thumbnail:
+    - file://3vaqQRx9MLusq76M
+  newstags: ""
+- 
+  title: >
+    John Himmelman, Reginald Dwayne Betts
+    take a populist approach to poetry in
+    new books
+  link: >
+    https://www.npr.org/2025/03/28/1241388973/nprs-book-of-the-day-the-boy-who-lived-in-a-shell-doggerel
+  author: Andrew Limbong
+  publication: NPR
+  publishdate: 2025-03-28
+  description: "*Doggerel*, the latest book of poetry by Freedom Reads Founder & CEO Reginald Dwayne Betts, is featured on NPR's Book of the Day podcast."
+  thumbnail:
+    - file://XX4DmoY93YudBIHz
+  newstags: ""
+- 
+  title: >
+    A Showcase for Formerly Incarcerated
+    Artists Grows in Brooklyn
+  link: >
+    https://www.nytimes.com/2025/03/27/arts/design/center-for-art-advocacy-brooklyn-prisoners.html?searchResultPosition=1
+  author: Hilarie M. Sheets
+  publication: The New York Times
+  publishdate: 2025-03-27
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts' books will be displayed in the Center for Art and Advocacy's new public exhibition and education space."
+  thumbnail:
+    - file://lol9rXP4GuJVuBLT
+  newstags: ""
+- 
+  title: 'Center for Poets and Writers: cultivating a literary community in Tulsa'
+  link: >
+    https://www.news9.com/story/67e3fe524f808efeae4ea52f/center-for-poets-and-writers-american-theater-company-litfest
+  author: Brooke Cox
+  publication: News9
+  publishdate: 2025-03-26
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts will give the keynote and a local prison reading at this years Tulsa LitFest.'
+  thumbnail:
+    - file://32JlNXWPy5e36xm7
+  newstags: ""
+- 
+  title: "Reginald Dwayne Betts discusses his new collection of poems, 'Doggerel'"
+  link: >
+    https://www.npr.org/2025/03/10/nx-s1-5189518/reginald-dwayne-betts-discusses-his-new-collection-of-poems-doggerel
+  author: Michel Martin
+  publication: NPR
+  publishdate: 2025-03-10
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts discussed his latest collection of poetry, *Doggerel*, on NPR's Morning Edition with Michel Martin."
+  thumbnail:
+    - file://aLyCsWzJBGS3w89O
+  newstags: Shibumi
+- 
+  title: >
+    Reginald Betts Has Proven Life Can Be
+    Grand Post-Prison
+  link: >
+    https://www.levelman.com/reginald-betts-has-proven-life-can-be-grand-post-prison/
+  author: 'Delaney Nickerson & Adeniyi Omisore'
+  publication: LEVEL
+  publishdate: 2025-03-07
+  description: "LEVEL writes about the 20th anniversary of Freedom Reads Founder & CEO Reginald Dwayne Betts' release from prison and his latest book of poetry, *Doggerel*."
+  thumbnail:
+    - file://g6llRsr2GOGRi84m
+  newstags: ""
+- 
+  title: "Poet Reginald Dwayne Betts' New Poetry Collection; Bronx-Based Poet-Activist On Queer Black Life; Manhattan's Dutch, British and Indigenous History"
+  link: >
+    https://www.wnyc.org/story/poet-reginald-dwayne-betts-new-poetry-collection-bronx-based-poet-activist-queer-black-life-manhattans-dutch-british-and-indigenous-history
+  author: Alison Stewart
+  publication: WNYC
+  publishdate: 2025-03-04
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts speaks with Alison Stewart at WNYC about his latest book of poetry, *Doggerel*, and reads the poem "White Peonies."'
+  thumbnail:
+    - file://5390WIKroW3hxLD1
+  newstags: ""
+- 
+  title: 'March 4, 2025 - Reginald Dwayne Betts, Margaret Cho, and the Vinfen Film Festival'
+  link: >
+    https://www.wgbh.org/podcasts/the-culture-show/march-4-2025-reginald-dwayne-betts-margaret-cho-and-the-vinfen-film-festival
+  author: Jared Bowen
+  publication: WGBH
+  publishdate: 2025-03-04
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts chatted with "The Culture Show" host Jared Bowen about his latest book, *Doggerel*, his recent *New York Times* op-ed, and his poetry journey that started in prison.'
+  thumbnail:
+    - file://SGzzov7wE4DiNXA6
+  newstags: ""
+- 
+  title: >
+    Poet reflects on 20 years since release
+    from prison in new book
+  link: >
+    https://ny1.com/nyc/all-boroughs/the-rush-hour/2025/03/04/poet-reflects-on-20-years-since-release-from-prison-in-new-book
+  author: Annika Pergament
+  publication: Spectrum News NY1
+  publishdate: 2025-03-04
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts spoke with NY1's Annika Pergament about the 20th anniversary of his release from prison and his new book, *Doggerel*."
+  thumbnail:
+    - file://dpx2VrWXmSYeaBRa
+  newstags: Shibumi
+- 
+  title: What We Owe The Dogs We ​“Own”
+  link: >
+    https://www.newhavenindependent.org/article/what_we_owe_the_dogs_we_own
+  author: Laura Glesby
+  publication: New Haven Independent
+  publishdate: 2025-03-03
+  description: 'The New Haven Independent examines *Doggerel*, the latest poetry collection by Freedom Reads Founder & CEO Reginald Dwayne Betts.'
+  thumbnail:
+    - file://Icz09E49R9UzUKsc
+  newstags: ""
+- 
+  title: 'Black History Month Program: An Evening with Poet Reginald Dwayne Betts, Author of Doggerel'
+  link: >
+    https://patch.com/connecticut/stamford/calendar/event/20250305/6e48696f-7860-4fcc-9291-466433c0a8b7/black-history-month-program-an-evening-with-poet-reginald-dwayne-betts-author-of-doggerel
+  author: Camilla Herrera
+  publication: Patch
+  publishdate: 2025-02-25
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts will discuss his new poetry collection, *Doggerel*, at the Ferguson Library in Stamford on March 5.'
+  thumbnail:
+    - file://whUL2tCz20s0i3Ot
+  newstags: ""
+- 
+  title: >
+    Morning Prayers at Harvard Memorial
+    Church
+  link: 'https://soundcloud.com/memorial-church/reginald-dwayne-betts-feb-24-2025-morning-prayers?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'
+  author: Reginald Dwayne Betts
+  publication: Harvard Memorial Church
+  publishdate: 2025-02-24
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts spoke at Morning Prayers at the Harvard Memorial Church.'
+  thumbnail:
+    - file://o6gj1CuwbkY9YdRK
+  newstags: ""
+- 
+  title: >
+    I Teach at Harvard. Store Managers See
+    Me as a Threat.
+  link: >
+    https://www.nytimes.com/2025/02/23/opinion/black-prison-forgiveness.html
+  author: Reginald Dwayne Betts
+  publication: The New York Times
+  publishdate: 2025-02-23
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts writes for *The New York Times* about forgiveness and a recent experience he had while looking to purchase a new bicycle.'
+  thumbnail:
+    - file://F0B5Ee5vXU6zRYm0
+  newstags: ""
+- 
+  title: >
+    Prepub Preview | A Year of Titles To
+    Watch
+  link: >
+    https://www.libraryjournal.com/story/Prepub-Preview-A-Year-of-Titles-to-Watch
+  author: Barbara Hoffert
+  publication: Library Journal
+  publishdate: 2025-02-15
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts' upcoming book, *Doggerel*, is featured on *Library Journal*'s titles to watch list."
+  thumbnail:
+    - file://MbOXXpAAIf2Vpm1o
+  newstags: ""
+- 
+  title: Jethro’s Corner
+  link: >
+    https://www.theatlantic.com/books/archive/2025/02/reginald-dwayne-betts-jethros-corner/681611/
+  author: Reginald Dwayne Betts
+  publication: The Atlantic
+  publishdate: 2025-02-09
+  description: "Jethro's Corner, a poem from Freedom Reads Founder & CEO Reginald Dwayne Betts's upcoming book, *Doggerel*, was featured as *The Atlantic*'s Poem for Sunday."
+  thumbnail:
+    - file://naNgOAFo7x6ainta
+  newstags: ""
+- 
+  title: >
+    Here are the finalists for the second
+    annual Inside Prize.
+  link: >
+    https://lithub.com/here-are-the-finalists-for-the-second-annual-inside-prize/
+  author: Brittany Allen
+  publication: Literary Hub
+  publishdate: 2025-01-31
+  description: >
+    The four shortlisted titles for Inside
+    Literary Prize 2025 are announced.
+  thumbnail:
+    - file://tJuMxILOIgCsg7Yn
+  newstags: Inside Literary Prize, Showing Up
+- 
+  title: >
+    Finalists for the Inside Literary Prize
+    Revealed
+  link: >
+    https://www.kirkusreviews.com/news-and-features/articles/finalists-for-the-inside-literary-prize-revealed/
+  author: Michael Schaub
+  publication: Kirkus Reviews
+  publishdate: 2025-01-30
+  description: >
+    Freedom Reads, National Book Foundation,
+    and Center for Justice Innovation
+    announced the four shortlisted books for
+    the 2025 Inside Literary Prize.
+  thumbnail:
+    - file://udC5mp76lhrR486F
+  newstags: ""
+- 
+  title: 2025 Inside Literary Prize Shortlist
+  link: >
+    https://locusmag.com/2025/01/2025-inside-literary-prize-shortlist/
+  author: ""
+  publication: Locus Mag
+  publishdate: 2025-01-30
+  description: >
+    Freedom Reads, National Book Foundation,
+    and Center for Justice Innovation
+    announced the four shortlisted titles
+    for the second annual Inside Literary
+    Prize.
+  thumbnail: [ ]
+  newstags: Inside Literary Prize
+- 
+  title: |
+    Reginald Dwayne Betts on Martin Luther King Jr.'s "Letter from Birmingham Jail"
+  link: >
+    https://www.c-span.org/program/qa/reginald-dwayne-betts-on-martin-luther-king-jrs-letter-from-birmingham-jail/655053
+  author: 'Q&A Podcast with Peter Slen'
+  publication: C-SPAN
+  publishdate: 2025-01-29
+  description: |
+    Freedom Reads Founder & CEO Reginald Dwayne Betts reflects on reading Dr. Martin Luther King Jr.'s "Letter from Birmingham Jail" for the first time in solitary confinement.
+  thumbnail:
+    - file://ateiClNYgSDEiPyg
+  newstags: ""
+- 
+  title: ' The Stacks with Traci Thomas'
+  link: >
+    https://www.ivoox.com/en/the-stacks-with-traci-thomas-audios-mp3_rf_138051276_1.html
+  author: Michelle Glogovac
+  publication: My Simplified Life Podcast
+  publishdate: 2025-01-23
+  description: 'Traci Thomas, host of The Stacks podcast, shouts out Freedom Reads and Founder & CEO Reginald Dwayne Betts in this podcast interview.'
+  thumbnail:
+    - file://YIfDoKdjBopDQFeH
+  newstags: ""
+- 
+  title: >
+    What Martin Luther King Jr.’s Legacy
+    Means Today
+  link: >
+    https://www.oprahdaily.com/entertainment/a63433380/reginald-dwayne-betts-mlk-essay/
+  author: Reginald Dwayne Betts
+  publication: Oprah Daily
+  publishdate: 2025-01-20
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts writes about the legacy of Dr. Martin Luther King Jr. and what Dr. King taught him.'
+  thumbnail:
+    - file://HGj2Ct8XI5a83db5
+  newstags: ""
+- 
+  title: "Examining the significance of 'Letter from Birmingham Jail'"
+  link: >
+    https://ny1.com/nyc/all-boroughs/the-rush-hour/2025/01/17/examining-the-significance-of--letter-from-birmingham-jail-
+  author: Annika Pergament
+  publication: Spectrum News NY1
+  publishdate: 2025-01-17
+  description: |
+    Freedom Reads Founder & CEO Reginald Dwayne Betts joined Annika Pergament on The Rush Hour to discuss Dr. Martin Luther King Jr.'s "Letter from Birmingham Jail" and Dwayne's afterword to HarperCollins' newly published commemorative edition of the letter.
+  thumbnail:
+    - file://m53NDYOoaiCgziuU
+  newstags: ""
+- 
+  title: A Return to the Beloved Community
+  link: >
+    https://www.harvardmagazine.com/2025/01/reginald-dwayne-betts-mlk-day
+  author: ""
+  publication: Harvard Magazine
+  publishdate: 2025-01-16
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts spoke about the legacy of Dr. Martin Luther King Jr. at Cambridge Public Library.'
+  thumbnail:
+    - file://eAifs4v1tpJW84P1
+  newstags: ""
+- 
+  title: When regrets become wings
+  link: >
+    https://youtu.be/S6Q8Yp_-hKc?si=8aFI9VDIf_GnVxWd
+  author: Reginald Dwayne Betts
+  publication: TedX
+  publishdate: 2025-01-10
+  description: 'In 2024, Freedom Reads Founder & CEO Reginald Dwayne Betts spoke about prison, regrets, hope, and books for TEDx at Green Rock Correctional Center in Virginia.'
+  thumbnail:
+    - file://COi4KyIK9cfQ3KBU
+  newstags: Shibumi
+- 
+  title: 'Bookshelf: Commemorative publication of King’s famous letter timed for MLK Day'
+  link: >
+    https://www.ajc.com/things-to-do/bookshelf-commemorative-publication-of-kings-famous-letter-timed-for-mlk-day/VMGYX4QQK5ENJMPIVXZT5SCS4Q/
+  author: Suzanne Van Atten
+  publication: The Atlanta Journal-Constitution
+  publishdate: 2025-01-10
+  description: |
+    HarperCollins is releasing a beautiful, commemorative edition of Dr. King's "Letter from Birmingham Jail" featuring an afterword by Freedom Reads Founder & CEO Reginald Dwayne Betts.
+  thumbnail:
+    - file://R4AzsnpPdMt9qYaX
+  newstags: ""
+- 
+  title: 'A Constant Reinvention of Language: Looking Ahead to 2025 in Poetry'
+  link: >
+    https://lithub.com/a-constant-reinvention-of-language-looking-ahead-to-2025-in-poetry/
+  author: >
+    Rebecca Morgan Frank and Christopher
+    Spaide
+  publication: LitHub
+  publishdate: 2025-01-02
+  description: 'LitHub features *Doggerel*, the forthcoming book of poetry by Freedom Reads Founder & CEO Reginald Dwayne Betts, in their upcoming 2025 poetry round-up.'
+  thumbnail:
+    - file://LpXSaI7cl3NqKOQE
+  newstags: ""
+- 
+  title: 'The Lives They Lived: James Earl Jones'
+  link: >
+    https://www.nytimes.com/interactive/2024/12/20/magazine/james-earl-jones-voice.html
+  author: Reginald Dwayne Betts
+  publication: The New York Times
+  publishdate: 2024-12-20
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts wrote about James Earl Jones for *The New York Times Magazine*'s Lives They Lived series."
+  thumbnail:
+    - file://c6fMvZgiTDWppZAb
+  newstags: ""
+- 
+  title: 'Fifteen Questions: Reginald Dwayne Betts on Vulnerability, Collective Memory, and Freedom Reads'
+  link: >
+    https://www.thecrimson.com/article/2024/12/6/reginald-dwayne-betts-fifteen-questions/
+  author: Ciana J. King
+  publication: The Harvard Crimson
+  publishdate: 2024-12-06
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts spoke with *Fifteen Minutes*, the magazine of the Harvard Crimson, about literature, poetry, prison, and freedom.'
+  thumbnail:
+    - file://a6CcNdBCucJkGd8P
+  newstags: ""
+- 
+  title: >
+    The power of books in prison with poet
+    Reginald Dwayne Betts
+  link: >
+    https://www.ctpublic.org/show/disrupted/2024-12-06/the-power-of-books-in-prison-with-poet-reginald-dwayne-betts
+  author: >
+    Kevin Chang Barnum, Robyn Doyon-Aitken ,
+    Khalilah Brown-Dean, Meg Dalton, Megan
+    Fitzgerald
+  publication: Connecticut Public Radio
+  publishdate: 2024-12-06
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts sat down with Connecticut Public Radio's Khalilah Brown-Dean for the Disrupted podcast. Plus, the podcast visited Freedom Reads headquarters to speak with the Freedom Reads team about Freedom Libraries, the power of books, and returning to prisons."
+  thumbnail:
+    - file://2hQlnex0qj9HaVTp
+  newstags: Freedom Library, Showing Up
+- 
+  title: 'Spring 2025 Fiction & Nonfiction Preview: Poetry'
+  link: >
+    https://www.publishersweekly.com/pw/by-topic/new-titles/adult-announcements/article/96684-spring-2025-fiction-nonfiction-preview-poetry.html
+  author: Maya Popa
+  publication: Publishers Weekly
+  publishdate: 2024-12-06
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts' upcoming poetry collection, *Doggerel*, is featured in Publishers Weekly's spring 2025 preview."
+  thumbnail:
+    - file://DUFj0pAMdvwrTSsM
+  newstags: ""
+- 
+  title: >
+    In ‘Gladiator II,’ Denzel Washington
+    again blurs the line between hero and
+    villain
+  link: >
+    https://www.msnbc.com/opinion/msnbc-opinion/denzel-washington-gladiator-2-macrinus-inspiration-rcna181918
+  author: Robyn Autry
+  publication: MSNBC
+  publishdate: 2024-11-30
+  description: |
+    Freedom Reads Founder & CEO Reginald Dwayne Betts is mentioned in a piece about how Denzel Washington's adolescence informed his role in the "Gladiator II" movie.
+  thumbnail:
+    - file://HX9alZRb5umYvRKD
+  newstags: ""
+- 
+  title: "African Exodus, Cuckoo, March Forth, More in PAC NYC's 2025 Programming"
+  link: >
+    https://playbill.com/article/african-exodus-cuckoo-march-forth-more-in-pac-nycs-2025-programming
+  author: Molly Higgins
+  publication: Playbill
+  publishdate: 2024-11-20
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts is performing a solo show, entitled *March Forth*, at the Perelman Performing Arts Center (PAC NYC) on March 4, 2025, 20 years to the day since his release from prison.'
+  thumbnail:
+    - file://43xOlyympXvNR513
+  newstags: ""
+- 
+  title: From behind bars, to passing the bar
+  link: >
+    https://www.abajournal.com/web/article/from-behind-bars-to-passing-the-bar-these-lawyers-began-their-career-paths-in-prison
+  author: Danielle Braff
+  publication: ABA Journal
+  publishdate: 2024-10-29
+  description: "ABA Journal writes about Freedom Reads Founder & CEO Reginald Dwayne Betts' journey from prison to Yale Law School."
+  thumbnail:
+    - file://XXhdnbMhswmitSq6
+  newstags: ""
+- 
+  title: 'Dwayne Betts Brings One-Man Show, ‘Felon: An American Washi Tale,’ to NU Chicago'
+  link: >
+    https://chicagodefender.com/dwayne-betts-brings-one-man-show-felon-an-american-washi-tale-to-nu-chicago/
+  author: Tacuma Roeback
+  publication: Chicago Defender
+  publishdate: 2024-10-24
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts brings his solo show, *FELON: An American Washi Tale*, to Northwestern University’s Abbott Hall this week.'
+  thumbnail:
+    - file://v6JtslmahA4Xs0nr
+  newstags: ""
+- 
+  title: >
+    Dwayne Betts Is Proof That A Book Can
+    Change Your Life
+  link: https://megaphone.link/ESP5984051233
+  author: 'Kate & Charlie Gibson'
+  publication: The Book Case from ABC News
+  publishdate: 2024-10-24
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts shares how Freedom Libraries disrupt the austerity of prison and bring dignity to the space.'
+  thumbnail:
+    - file://ED4kxYLz7xZRGDjm
+  newstags: Freedom Library, Shibumi
+- 
+  title: I Am Free When I Read
+  link: >
+    https://countryroadsmagazine.com/art-and-culture/literature/freedom-reads/
+  author: Jacqueline DeRobertis-Braun
+  publication: Country Roads Magazine
+  publishdate: 2024-10-23
+  description: "An in-depth feature on Freedom Reads, this *Country Roads Magazine* piece centers on Freedom Reads' work and impact in Louisiana."
+  thumbnail:
+    - file://nqieBuTyBvq5SeIc
+  newstags: Showing Up, Freedom Library
+- 
+  title: >
+    Artist Titus Kaphar is leaving his mark
+    on Philadelphia
+  link: >
+    https://www.inquirer.com/entertainment/movies/titus-kaphar-exhibiting-forgiveness-sundance-film-20241018.html
+  author: Bedatri D. Choudhury
+  publication: The Philadelphia Inquirer
+  publishdate: 2024-10-18
+  description: "Artist Titus Kaphar's film, *Exhibiting Forgiveness*, is out in theaters. Freedom Reads partnered with Kaphar to screen the film at the California Institution for Men before it was released in theaters."
+  thumbnail:
+    - file://DzVP0VGqPlxHygCk
+  newstags: ""
+- 
+  title: 3 CT prisons will get new libraries
+  link: >
+    https://www.wshu.org/connecticut-news/2024-09-30/ct-prisons-new-libraries-freedom-reads
+  author: Sara Anastasi
+  publication: WSHU
+  publishdate: 2024-09-30
+  description: >
+    Freedom Reads, with support from the
+    Connecticut Health and Educational
+    Facilities Authority (CHEFA) and
+    Senators Murphy and Blumenthal, opened
+    42 Freedom Libraries in Connecticut
+    prisons this month.
+  thumbnail: [ ]
+  newstags: Freedom Library, Openings
+- 
+  title: >
+    Virginia authors shine at Library of
+    Virginia literary gala
+  link: >
+    https://richmondfreepress.com/news/2024/sep/26/virginia-authors-shine-at-library-of-virginia-literary-gala/
+  author: Paula Phounsavath
+  publication: Richmond Free Press
+  publishdate: 2024-09-26
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts was awarded the Library of Virginia's honorary Patron of Letters degree at this year's 27th Annual Virginia Literary Awards."
+  thumbnail:
+    - file://eEmTgSnx4r3iwu9R
+  newstags: ""
+- 
+  title: >
+    National nonprofit opens 42 small
+    libraries in three CT prisons
+  link: >
+    https://www.stamfordadvocate.com/journalinquirer/article/ct-prisons-freedom-reads-libraries-19791492.php
+  author: Eric Bedner
+  publication: Stamford Advocate
+  publishdate: 2024-09-25
+  description: >
+    With support from the Connecticut Health
+    and Educational Facilities Authority
+    (CHEFA) and Connecticut Senators Murphy
+    and Blumenthal, Freedom Reads is opening
+    42 Freedom Libraries across three
+    Connecticut prisons this month.
+  thumbnail:
+    - file://nQ1kqSDeAB9g5yiV
+  newstags: Freedom Library, Openings
+- 
+  title: 'Shelf Life: Rachel Kushner'
+  link: >
+    https://www.elle.com/culture/books/a61949838/rachel-kushner-book-recommendations-2024/
+  author: Riza Cruz
+  publication: Elle
+  publishdate: 2024-09-04
+  description: 'Author Rachel Kushner spoke with *Elle* about her book picks for every occasion, and her support of Freedom Reads.'
+  thumbnail:
+    - file://O8CIhIjQNJ57Klyv
+  newstags: ""
+- 
+  title: >
+    Books Saved Reginald Dwayne Betts In
+    Prison – Now, He’s Behind The
+    Literature Prize Voted On By
+    Incarcerated Readers
+  link: >
+    https://www.service95.com/inside-literary-prize-bringing-books-to-prisons/
+  author: Seun Matiluko
+  publication: Service95
+  publishdate: 2024-08-21
+  description: 'Freedom Reads Founder & CEO Reginald Dwyane Betts on the impact of books in prison, founding Freedom Reads, and launching the inaugural Inside Literary Prize.'
+  thumbnail:
+    - file://gCLkyAwXfB1BKxDk
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    Author’s Princeton ties bring N.J. its
+    first Freedom Libraries
+  link: >
+    https://www.princeton.edu/news/2024/08/14/authors-princeton-ties-bring-nj-its-first-freedom-libraries
+  author: Jamie Saxon
+  publication: Princeton University
+  publishdate: 2024-08-14
+  description: >
+    With support from the Princeton
+    University Library, Freedom Reads opened
+    its first Freedom Libraries in New
+    Jersey earlier this year at Garden State
+    Correctional Facility.
+  thumbnail:
+    - file://75VxqxR0kLjtm7L5
+  newstags: Freedom Library, Openings
+- 
+  title: 'Inside Literary Prize: And the Winner Is....'
+  link: >
+    https://www.innovatingjustice.org/publications/inside-prize-2024-winner
+  author: Matt Watkins
+  publication: >
+    New Thinking, from the Center for
+    Justice Innovation
+  publishdate: 2024-08-14
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts and inaugural Inside Literary Prize winner Imani Perry speak at the Inside Literary Prize award ceremony.'
+  thumbnail:
+    - file://81DGYMgJ616kTRvz
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    Le Inside Literary Prize 2024 est
+    décerné à Imani Perry
+  link: >
+    https://www.livreshebdo.fr/article/le-inside-literary-prize-2024-est-decerne-imani-perry
+  author: Léon Cattan
+  publication: Livres Hebdo
+  publishdate: 2024-08-08
+  description: >
+    Imani Perry is the winner of the
+    inaugural Inside Literary Prize, the
+    first major US-book award judged
+    exclusively by incarcerated individuals.
+  thumbnail:
+    - file://KviSox1GUwUHFxkz
+  newstags: ""
+- 
+  title: A book prize picked by prisoners
+  link: >
+    https://www.dallasnews.com/opinion/commentary/2024/08/08/a-book-prize-picked-by-prisoners/
+  author: Tyra Damm
+  publication: The Dallas Morning News
+  publishdate: 2024-08-08
+  description: '*The Dallas Morning News* spoke with Lori Feathers, Dallas bookstore owner and collaborator in launching the Inside Literary Prize, about the inaugural award.'
+  thumbnail:
+    - file://TkXAcn59JQgJSKRb
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    Inaugural Inside Literary Prize Empowers
+    Incarcerated Readers
+  link: >
+    https://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/95669-inaugural-inside-literary-prize-empowers-incarcerated-readers.html
+  author: Sophia Stewart
+  publication: Publishers Weekly
+  publishdate: 2024-08-07
+  description: 'The inaugural Inside Literary Prize, judged by over 200 incarcerated readers in prisons across the country, was awarded on August 1 to Imani Perry for her book, *South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation*.'
+  thumbnail:
+    - file://hLuyDDJ8os5ohSAf
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    Imani Perry Wins Literary Prize Judged
+    by Incarcerated Individuals
+  link: >
+    https://nycaribnews.com/imani-perry-wins-literary-prize-judged-by-incarcerated-individuals/
+  author: Mell P
+  publication: The New York Carib News
+  publishdate: 2024-08-07
+  description: "Imani Perry won this year's inaugural Inside Literary Prize, the first major US-book award judged entirely by incarcerated readers."
+  thumbnail:
+    - file://if0XcvVb1ZRdJa0T
+  newstags: ""
+- 
+  title: >
+    Reginald Dwayne Betts, Dungeons and
+    Dragons, and Olympics art
+  link: >
+    https://www.wgbh.org/podcasts/the-culture-show/august-7-2024-reginald-dwayne-betts-dungeons-and-dragons-and-olympics-art
+  author: Jared Bowen
+  publication: GBH
+  publishdate: 2024-08-07
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts joined GBH's Jared Bowen on The Culture Show to talk about the inaugural Inside Literary Prize."
+  thumbnail:
+    - file://XN0GXUewprowX8A9
+  newstags: Inside Literary Prize, Showing Up
+- 
+  title: >
+    Incarcerated Judges Select First Winner
+    Of Inside Literary Prize
+  link: >
+    https://www.blackenterprise.com/incarcerated-judges-announce-first-winner-of-u-s-book-prize/
+  author: Nahlah Abdur-Rahman
+  publication: Black Enterprise
+  publishdate: 2024-08-05
+  description: 'Imani Perry was awarded the inaugural Inside Literary Prize, the first major US-book award judged entirely by incarcerated people, for her book, *South to America: a Journey Below the Mason-Dixon to Understand the Soul of a Nation*.'
+  thumbnail:
+    - file://F8w1E6YezYmYEJq9
+  newstags: Inside Literary Prize, Showing Up
+- 
+  title: >
+    Inside Literary Prize awarded to Imani
+    Perry
+  link: >
+    https://brooklyneagle.com/articles/2024/08/03/inside-literary-prize-awarded-to-imani-perry/
+  author: Robert Abruzzese
+  publication: The Brooklyn Eagle
+  publishdate: 2024-08-03
+  description: 'Imani Perry won the inaugural Inside Literary Prize, the first major US-based book awarded judged exclusively by incarcerated people, for her book, *South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation*.'
+  thumbnail:
+    - file://TkXAcn59JQgJSKRb
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    Imani Perry Wins Inaugural Inside
+    Literary Prize
+  link: >
+    https://www.kirkusreviews.com/news-and-features/articles/imani-perry-wins-inaugural-inside-literary-prize/
+  author: Michael Schaub
+  publication: Kirkus Reviews
+  publishdate: 2024-08-02
+  description: >
+    Imani Perry won the inaugural Inside
+    Literary Prize, the first ever US-based
+    book award judged exclusively by
+    incarcerated people.
+  thumbnail:
+    - file://14g0YJFv6Atb72zf
+  newstags: Inside Literary Prize, Showing Up
+- 
+  title: >
+    The first US Book Prize judged entirely
+    by incarcerated people has announced a
+    winner.
+  link: >
+    https://lithub.com/the-first-us-book-prize-judged-entirely-by-incarcerated-people-has-announced-a-winner/
+  author: Brittany Allen
+  publication: Lit Hub
+  publishdate: 2024-08-02
+  description: >
+    Author Imani Perry won the inaugural
+    Inside Literary Prize, an effort
+    launched by Freedom Reads, the National
+    Book Foundation, the Center for Justice
+    Innovation, and Dallas bookstore owner
+    Lori Feathers, at a ceremony at The New
+    York Public Library.
+  thumbnail:
+    - file://TkXAcn59JQgJSKRb
+  newstags: Inside Literary Prize, Showing Up
+- 
+  title: "First annual 'Inside Literary Prize' judged by incarcerated people"
+  link: >
+    https://ny1.com/nyc/all-boroughs/the-rush-hour/2024/08/01/first-annual--inside-literary-prize--awarded-by-incarcerated-people?cid=share_twitter
+  author: Annika Pergament
+  publication: Spectrum News NY1
+  publishdate: 2024-08-01
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts spoke with Annika Pergament, host of NY1's The Rush Hour, about the Inside Literary Prize, the first major US-based book award judged exclusively by incarcerated people, and the upcoming award ceremony."
+  thumbnail:
+    - file://znpvROfNzWDAj9G3
+  newstags: Inside Literary Prize, Showing Up
+- 
+  title: >
+    Library of Virginia names finalists for
+    2024 Literary Awards
+  link: >
+    https://richmondfreepress.com/news/2024/aug/01/library-of-virginia-names-finalists-for-2024-literary-awards/
+  author: ""
+  publication: Richmond Free Press
+  publishdate: 2024-08-01
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts will receive the Library of Virginia's honorary Patron of Letters degree this fall."
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: "Inside Literary Prize: Shakopee Women's Prison"
+  link: >
+    https://www.innovatingjustice.org/publications/inside-prize-podcast
+  author: Matt Watkins
+  publication: >
+    New Thinking, from the Center for
+    Justice Innovation
+  publishdate: 2024-08-01
+  description: "The Center for Justice Innovation's Matt Watkins sat in on the Inside Literary Prize book discussion with the Inside Literary Prize judges incarcerated at Minnesota Correctional Facility - Shakopee."
+  thumbnail:
+    - file://nPDB08S9ebniScYP
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: 'Inside Literary Prize: First major book award judged by incarcerated people'
+  link: >
+    https://brooklyneagle.com/articles/2024/07/15/first-major-book-award-judged-by-incarcerated-people/
+  author: Robert Abruzzese
+  publication: Brooklyn Daily Eagle
+  publishdate: 2024-07-15
+  description: >
+    On August 1, Freedom Reads, the National
+    Book Foundation, and the Center for
+    Justice Innovation, with support from
+    Lori Feathers, will announce the winner
+    of the inaugural Inside Literary Prize.
+  thumbnail:
+    - file://57dtivj1cs74bqYm
+  newstags: ""
+- 
+  title: >
+    Freedom Reads founder Betts to receive
+    top honor from Library of Virginia
+  link: >
+    https://richmondfreepress.com/news/2024/jul/11/freedom-reads-founder-betts-to-receive-top-honor-from-library-of-virginia/
+  author: ""
+  publication: Richmond Free Press
+  publishdate: 2024-07-11
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts is slated to receive the Library of Virginia's honorary Patron of Letters degree, the institution's highest honor, this September."
+  thumbnail:
+    - file://tugKQCS9j5DQao4M
+  newstags: ""
+- 
+  title: >
+    Inside America’s Least Probable Prison
+    Experiment
+  link: 'https://www.ft.com/content/dad8db0b-1e3f-4d39-8ccf-3bcd4eafd4ac?accessToken=zwAAAZBuXNQMkdPa2NsLHj9NOdOMzzvNTq_UrA.MEQCIEeNN1B07cLEDLc3ZP0ROWFQ_ork4yt8pfwk62CEnfkDAiAb2RNp0Vck2n0HvUEiaHjuY9EEj80qDjz_KtkwutmCHw&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=77fc1f9d-f7cd-432b-a94c-8cfcf22cf360'
+  author: Madison Darbyshire
+  publication: Financial Times
+  publishdate: 2024-06-29
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts is quoted in the Financial Times' deep dive on the implementation of the Puppies Behind Bars program at Green Haven Correctional Facility, a maximum security prison in New York."
+  thumbnail:
+    - file://5aNEtRyKvkDF1gjv
+  newstags: ""
+- 
+  title: >
+    Incarcerated Colorado women first to
+    judge national book writing contest
+  link: >
+    https://www.9news.com/article/news/local/storytellers/incarcerated-colorado-women-judge-book-writing-contest/73-0cae8ffe-d017-4229-98f6-07351a4a8895
+  author: Evan Kruegel
+  publication: 9 News Denver
+  publishdate: 2024-06-22
+  description: >
+    Hear from Inside Literary Prize judge
+    Shantel at La Vista Correctional
+    Facility in Colorado and Freedom Reads
+    Communications Manager Steven Parkhurst
+    about the power of reading and books
+    inside prison.
+  thumbnail:
+    - file://vdIxiCP8BPqcMqm7
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: Poet Dwayne Betts reflects on Juneteenth
+  link: >
+    https://ny1.com/nyc/all-boroughs/the-rush-hour/2024/06/18/poet-dwayne-betts-reflects-on-juneteenth
+  author: Annika Pergament
+  publication: Spectrum News NY1
+  publishdate: 2024-06-18
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts joined Annika Pergament on Spectrum News NY1's Rush Hour to reflect on Juneteenth."
+  thumbnail:
+    - file://GaNawT6gUnjt9Hno
+  newstags: ""
+- 
+  title: >
+    Injustice and the "Letter from
+    Birmingham Jail" (with Dwayne Betts)
+  link: >
+    https://www.econtalk.org/injustice-and-the-letter-from-birmingham-jail-with-dwayne-betts/
+  author: ""
+  publication: EconTalk
+  publishdate: 2024-06-03
+  description: |
+    Freedom Reads Founder & CEO Reginald Dwayne Betts speaks about the time he read Martin Luther King Jr.'s "Letter from Birmingham Jail" from prison, and his upcoming introduction to a new volume of King's letter.
+  thumbnail:
+    - file://FU9jJLAoM6oKzpIu
+  newstags: ""
+- 
+  title: >
+    Justice Department official visits
+    Connecticut promoting expanded
+    access-to-justice initiatives
+  link: >
+    https://legalnewsline.com/stories/660238782-justice-department-official-visits-connecticut-promoting-expanded-access-to-justice-initiatives
+  author: ""
+  publication: Legal Newsline
+  publishdate: 2024-05-31
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts met with Director Rachel Rossi of the Justice Department's Office for Access to Justice to discuss initiatives for reentry and access to counsel."
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: >
+    In Connection with Felon Theater
+    Project, Freedom Reads Partners with
+    Princeton University to Open Libraries
+    in NJ Prisons
+  link: >
+    https://arts.princeton.edu/news/2024/05/in-connection-with-felon-theater-project-freedom-reads-partners-with-princeton-university-to-open-libraries-in-nj-prisons/
+  author: ""
+  publication: Princeton University
+  publishdate: 2024-05-28
+  description: 'Freedom Reads opened nine Freedom Libraries in New Jersey through the support of the Princeton University Library, extending a partnership with Princeton University that began in 2021 with the adaption of Freedom Reads Founder & CEO Reginald Dwayne Betts’ poetry collection *FELON* into a solo show, *FELON: An American Washi Tale*.'
+  thumbnail:
+    - file://yQOxQtg44caRykwZ
+  newstags: ""
+- 
+  title: >
+    National Nonprofit Partners with
+    University to Open Libraries in New
+    Jersey Prisons
+  link: >
+    https://www.towntopics.com/wordpress/2024/05/22/national-nonprofit-partners-with-university-to-open-libraries-in-new-jersey-prisons/
+  author: Anne Levin
+  publication: Town Topics
+  publishdate: 2024-05-22
+  description: >
+    With supports from Princeton University
+    Library, Freedom Reads opened 9 Freedom
+    Libraries in cellblocks at Garden State
+    Correctional Facility in New Jersey.
+  thumbnail:
+    - file://7vx1R2sHsPp9JogJ
+  newstags: Openings
+- 
+  title: "First 'Freedom Libraries' in NJ Open at Garden State Correctional Facility"
+  link: >
+    https://www.tapinto.net/towns/bordentown/sections/government/articles/first-freedom-libraries-in-nj-open-at-garden-state-correctional-facility
+  author: Elizabeth A Meyers
+  publication: TAPintoBordentown
+  publishdate: 2024-05-19
+  description: >
+    Freedom Reads, with support from the
+    Princeton University Library, opened 9
+    Freedom Libraries in Garden State
+    Correctional Facility in New Jersey.
+  thumbnail:
+    - file://6DDyskzw290n9dV2
+  newstags: Openings
+- 
+  title: >
+    Inmates tell their own stories to bridge
+    the gap to the outside world
+  link: >
+    https://cardinalnews.org/2024/05/15/inmates-tell-their-own-stories-to-bridge-the-gap-to-the-outside-world/
+  author: Grace Mamon
+  publication: Cardinal News
+  publishdate: 2024-05-15
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts was among 28 speakers at the first TEDx Talk event held inside a Virginia prison — about 20 of the speakers were currently incarcerated at the prison.'
+  thumbnail:
+    - file://BfhVNB7qr0Yom2UP
+  newstags: ""
+- 
+  title: >
+    Literature To Life Adds I AM NOT YOUR
+    PERFECT MEXICAN DAUGHTER To Its Roster
+  link: >
+    https://www.broadwayworld.com/off-off-broadway/article/Literature-To-Life-Adds-An-I-AM-NOT-YOUR-PERFECT-MEXICAN-DAUGHTER-To-Its-Roster-20240515
+  author: A.A. Cristi
+  publication: Broadway World
+  publishdate: 2024-05-15
+  description: 'Freedom Reads is partnering with Literature to Life to co-produce an adaptation of *I Am Not Your Perfect Mexican Daughter* by Erika L. Sánchez.'
+  thumbnail:
+    - file://Ye4KaEc1xssJrrxO
+  newstags: Performances
+- 
+  title: >
+    CT nonprofit receives $400,000 grant to
+    build more small libraries in prisons
+  link: >
+    https://www.ctinsider.com/journalinquirer/article/ct-prisons-libraries-freedom-reads-19437278.php
+  author: Eric Bedner
+  publication: CT Insider
+  publishdate: 2024-05-07
+  description: "The Connecticut Health and Educational Facilities Authority (CHEFA) awarded Freedom Reads a $400,000 Enterprise Capital Grant to expand and continue Freedom Reads' work in Connecticut prisons."
+  thumbnail:
+    - file://yk2Jj2BuA7xNW2nD
+  newstags: Freedom Library
+- 
+  title: >
+    Freedom Reads donates thousands of books
+    to Virginia prisons
+  link: >
+    https://www.wvtf.org/news/2024-05-07/freedom-reads-donates-thousands-of-books-to-virginia-prisons
+  author: Sandy Hausman
+  publication: 'WVTF - Virginia Public Radio'
+  publishdate: 2024-05-07
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts speaks with Virginia Public Radio's Sandy Hausman about the Freedom Library, the carefully curated 500-book collection, and why this work matters."
+  thumbnail:
+    - file://UPASZ586B53HNyVm
+  newstags: Freedom Library, Showing Up
+- 
+  title: >
+    Prison literacy program ‘Freedom
+    Reads’ offers inmate expression outlet
+  link: >
+    https://www.fox9.com/news/prison-literacy-program-freedom-reads
+  author: Rob Olson
+  publication: Fox 9
+  publishdate: 2024-05-03
+  description: 'Poet Randall Horton joined Freedom Reads at Minnesota Correctional Facility - Shakopee during the Inside Literary Prize tour.'
+  thumbnail:
+    - file://Jkb9glpUzLvrJJh8
+  newstags: Showing Up, Inside Literary Prize
+- 
+  title: >
+    Marking National Poetry Month with poet
+    Reginald Dwayne Betts
+  link: >
+    https://ny1.com/nyc/all-boroughs/the-rush-hour/2024/04/23/marking-national-poetry-month-with-poet-reginal-dwayne-betts
+  author: Annika Pergament
+  publication: Spectrum News NY1
+  publishdate: 2024-04-23
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts spoke about the power of poetry with  NY1's Annika Pergament to celebrate National Poetry Month."
+  thumbnail:
+    - file://84MctFwNA4snDy5g
+  newstags: Performances
+- 
+  title: 'Shelf Life: Leila Mottley'
+  link: >
+    https://www.elle.com/culture/books/a60457221/leila-mottley-book-recommendations-2024/
+  author: Riza Cruz
+  publication: Elle
+  publishdate: 2024-04-16
+  description: 'New York Times bestselling author Leila Mottley spoke to *Elle* about her most memorable reads, and her support of Freedom Reads.'
+  thumbnail:
+    - file://MKmcdQ7CLBpFhrX8
+  newstags: ""
+- 
+  title: >
+    In prison, books were Navalny’s hold
+    on the world. I know what that’s like.
+  link: >
+    https://www.washingtonpost.com/opinions/2024/04/10/navalny-books-prison-reading-freedom/
+  author: Reginald Dwayne Betts
+  publication: The Washington Post
+  publishdate: 2024-04-10
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts on how books sustained him in solitary confinement.'
+  thumbnail:
+    - file://iqRKxtLX1oVwrh9B
+  newstags: Why Reading Matters
+- 
+  title: >
+    Denver will get dystopian in Kali
+    Fajardo-Anstine’s next book
+  link: >
+    https://www.cpr.org/2024/04/09/a-dystopian-denver-in-kali-fajardo-anstines-next-book/
+  author: Ryan Warner
+  publication: Colorado Public Radio
+  publishdate: 2024-04-09
+  description: >
+    Author Kali Fajardo-Anstine reflects on
+    going inside La Vista Correctional
+    Facility in Colorado as part of the
+    Inside Literary Prize tour.
+  thumbnail:
+    - file://anxISaqVDZyxmOdN
+  newstags: Inside Literary Prize
+- 
+  title: 'Inside Literary Prize Tour kicks off: A unique literary recognition judged by incarcerated individuals'
+  link: >
+    https://brooklyneagle.com/articles/2024/04/01/inside-literary-prize-tour-literary-recognition-judged-by-prisoners/
+  author: Robert Abruzzese
+  publication: Brooklyn Daily Eagle
+  publishdate: 2024-04-01
+  description: >
+    The inaugural Inside Literary Prize
+    tour, featuring literary performances
+    and book judging in 12 prisons across
+    six states, kicked off in April.
+  thumbnail:
+    - file://QiHtG0XN9i0QJ96O
+  newstags: Inside Literary Prize
+- 
+  title: 'No Bodies: Artists in Conversation Panel at Real Art Ways'
+  link: >
+    https://patch.com/connecticut/hartford/no-bodies-artists-conversation-panel-real-art-ways
+  author: Nancy Sasso Janis
+  publication: Patch
+  publishdate: 2024-03-11
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts will appear in conversation with artist Carlos Estévez, sculptor Susan Clinard, designer Neville Wisdom, and curator Alva Greenberg about the No Bodies: Clothing as Disruptor exhibition, in which Dwayne is a featured artist.'
+  thumbnail:
+    - file://JSqHL6KSoIzizvkn
+  newstags: ""
+- 
+  title: >
+    La. lawmakers eye regular session start;
+    NOLA library publishes collection by
+    local writers
+  link: >
+    https://www.wwno.org/show/louisiana-considered/2024-03-08/la-lawmakers-eye-regular-session-start-nola-library-publishes-collection-by-local-writers
+  author: Ryan Vasquez
+  publication: WWNO
+  publishdate: 2024-03-08
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts spoke with Louisiana Considered's Karen Henderson about the importance of bringing literature and beauty into prison."
+  thumbnail:
+    - file://dw7G44mSZuNgwaCp
+  newstags: ""
+- 
+  title: >
+    Freedom libraries open in Buckingham
+    County. Where are they?
+  link: >
+    https://www.farmvilleherald.com/2024/03/freedom-libraries-open-in-buckingham-county/
+  author: Staff Report
+  publication: The Farmville Herald
+  publishdate: 2024-03-08
+  description: >
+    Freedom Reads opened 32 Freedom
+    Libraries in Buckingham and Dillwyn
+    Correctional Centers in Virginia on
+    March 5 and 6, bringing the total number
+    of Freedom Libraries in Virginia prisons
+    to 56.
+  thumbnail:
+    - file://JHmckLVEB1S9TduA
+  newstags: Openings, Freedom Library
+- 
+  title: "'Freedom Libraries' coming to Buckingham County DOC facilities"
+  link: >
+    https://www.cbs19news.com/story/50532883/freedom-libraries-coming-to-buckingham-county-doc-facilities
+  author: ""
+  publication: CBS19 News
+  publishdate: 2024-03-05
+  description: 'Freedom Reads opened 32 Freedom Libraries at Dillwyn and Buckingham Correctional Centers in Virginia, and Freedom Reads Founder & CEO Reginald Dwayne Betts performed his one-man show, FELON: An American Washi Tale, inside at both prisons.'
+  thumbnail:
+    - file://R35vrYtGPFXYQfTQ
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    Nonprofit opens 32 ‘Freedom
+    Libraries’ at VA correctional centers
+  link: >
+    https://www.dcnewsnow.com/news/local-news/virginia/nonprofit-opens-32-freedom-libraries-at-va-correctional-centers/
+  author: Gabby Allen
+  publication: DC News Now
+  publishdate: 2024-03-04
+  description: 'Freedom Reads opened 32 Freedom Libraries in cell blocks at Dillwyn and Buckingham Correctional Centers in Virginia, and Freedom Reads Founder & CEO Reginald Dwayne Betts performed his solo show, FELON: An American Washi Tale, at both prisons.'
+  thumbnail:
+    - file://QcmF7s8UUyKPBhY1
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    Nonprofit Freedom Reads opens 32
+    ‘Freedom Libraries’ in VADOC’s
+    Buckingham County facilities
+  link: >
+    https://www.wric.com/news/local-news/non-profit-freedom-reads-opens-32-freedom-libraries-in-vadocs-buckingham-county-facilities/
+  author: Kendal McAuley
+  publication: ABC8News
+  publishdate: 2024-03-04
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts performed his solo show, FELON: An American Washi Tale, and the Freedom Reads team opened 32 Freedom Libraries, at Dillwyn and Buckingham Correctional Centers in Virginia to commemorate the 19th anniversary of Dwayne's release from prison."
+  thumbnail:
+    - file://QcmF7s8UUyKPBhY1
+  newstags: Openings, Freedom Library
+- 
+  title: 'Spotlight: Freedom Reads Social Impact Fellowship'
+  link: >
+    https://gradfutures.princeton.edu/news/2024/spotlight-freedom-reads-social-impact-fellowship
+  author: Pria Garcelle
+  publication: GradFUTURES
+  publishdate: 2024-03-02
+  description: "Pria Garcelle, a Princeton University GradFUTURES Social Impact Fellow with Freedom Reads, reflects on Freedom Reads' team trip to Montgomery, Alabama to visit the Equal Justice Initiative's Legacy Museum and National Memorial for Peace and Justice."
+  thumbnail:
+    - file://f7P6CTGSeteLMkgy
+  newstags: ""
+- 
+  title: >
+    How one poet is bringing literature to
+    prisons, and how you can help
+  link: >
+    https://www.wgbh.org/culture/2024-02-26/how-one-poet-is-bringing-literature-to-prisons-and-how-you-can-help
+  author: Jared Bowen
+  publication: WGBH
+  publishdate: 2024-02-26
+  description: "Freedom Reads Founder & CEO Reginald Dwayne Betts spoke with WGBH's Jared Bowen, host of *The Culture Show*, about access to literature in prisons and how books inspire, fuel conversation, and create shared experience."
+  thumbnail:
+    - file://VgIuD5Iewjqpb8qO
+  newstags: Showing Up, Freedom Library, Shibumi
+- 
+  title: >
+    Poet and lawyer works to change life in
+    prisons
+  link: 'https://ny1.com/nyc/all-boroughs/the-rush-hour/2024/02/21/poet-and-lawyer-works-to-change-life-in-prisons#'
+  author: Annika Pergament
+  publication: Spectrum News NY1
+  publishdate: 2024-02-21
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts spoke with NY1’s Annika Pergament about the origin of Freedom Reads, the power of literature behind bars, and his experience in solitary confinement. Dwayne also read from his acclaimed book of poetry, *FELON*.'
+  thumbnail:
+    - file://AfZ7T82u4zbq7Quk
+  newstags: Showing Up, Freedom Library, Shibumi
+- 
+  title: >
+    Freedom Reads program brightening lives
+    of incarcerated New Yorkers
+  link: 'https://spectrumlocalnews.com/nys/hudson-valley/news/2024/02/09/freedom-reads-program-brightens-lives-of-incarcerated-new-yorkers#'
+  author: Brooke Reilly
+  publication: Spectrum News 1
+  publishdate: 2024-02-09
+  description: >
+    Spectrum News chatted with library
+    patrons at Otisville Correctional
+    Facility in New York about the Freedom
+    Library and how reading helps them
+    imagine new possibilities for their
+    lives.
+  thumbnail:
+    - file://vhUtKMFCJw9T7Pzf
+  newstags: Showing Up, Freedom Library
+- 
+  title: >
+    A look at efforts to beef up libraries
+    in Mass. prisons and jails
+  link: >
+    https://www.wbur.org/radioboston/2024/02/06/libraries-books-massachusetts-prisons-jails
+  author: Simón Rios and Amanda Beland
+  publication: WBUR
+  publishdate: 2024-02-06
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts spoke about access to literature in Massachusetts prisons, the 500-book Freedom Library collection, and the Inside Literary Prize.'
+  thumbnail:
+    - file://k87VLzfTPLnRYIQq
+  newstags: Freedom Library
+- 
+  title: Dr. King Honored by Leaders at BAM
+  link: >
+    https://ourtimepress.com/dr-king-honored-by-leaders-at-bam/
+  author: ""
+  publication: Our Time Press
+  publishdate: 2024-01-19
+  description: 'Reginald Dwayne Betts, Freedom Reads Founder & CEO, delivered an inspirational keynote address at the Brooklyn Academy of Music’s annual tribute to Dr. Martin Luther King Jr.'
+  thumbnail:
+    - file://fI2YfOMOwmfNNQgJ
+  newstags: ""
+  publish-date: 2024-01-19
+- 
+  title: >
+    Cleveland Public Library to host talk
+    with prison literacy activist, author
+  link: >
+    https://signalcleveland.org/cleveland-public-library-to-host-prison-literacy-activist-author/
+  author: Stephanie Casanova
+  publication: Signal Cleveland
+  publishdate: 2024-01-18
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts will speak about the barriers to accessing books in prison at a Cleveland Public Library event.'
+  thumbnail:
+    - file://GTH6ZX1YpYcGlTBx
+  newstags: ""
+- 
+  title: 'Gloria Estefan, Martin Sheen, Mitt Romney & More Headline ‘The Thread,’ New Documentary Series From Life Stories About Purpose-Driven Lives'
+  link: >
+    https://deadline.com/video/the-thread-youtube-documentary-series-life-stories-trailer-debut/
+  author: Matthew Carey
+  publication: Deadline
+  publishdate: 2024-01-17
+  description: '*The Thread*, a documentary series by Life Stories about living a purpose driven life, will feature author, poet, and Freedom Reads Founder & CEO Reginald Dwayne Betts among other influential Americans.'
+  thumbnail: [ ]
+  newstags: ""
+  publish-date: 2024-01-17
+- 
+  title: BAM Hosts 38th Annual MLK Day Event
+  link: >
+    https://www.bkreader.com/featured-news/bam-hosts-38th-annual-mlk-day-event-8114518
+  author: Brianna Robles
+  publication: BKReader
+  publishdate: 2024-01-16
+  description: 'At the Brooklyn Academy of Music’s annual tribute to Dr. Martin Luther King Jr., Freedom Reads Founder & CEO Reginald Dwayne Betts “expressed how mercy is the wish of many Black and Brown people who are incarcerated.”'
+  thumbnail:
+    - file://SahLjmb2jjDvbn1q
+  newstags: ""
+- 
+  title: >
+    BAM hosts 38th Annual Brooklyn tribute
+    to Dr. Martin Luther King, Jr.
+  link: >
+    https://amsterdamnews.com/news/2024/01/16/bam-hosts-38th-annual-brooklyn-tribute-to-dr-martin-luther-king-jr/
+  author: AmNews Staff Reports
+  publication: New York Amsterdam News
+  publishdate: 2024-01-16
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts delivered the keynote address at the Brooklyn Academy of Music’s tribute to Dr. Martin Luther King Jr.'
+  thumbnail:
+    - file://mGmjhbIYirwUnL95
+  newstags: ""
+- 
+  title: "'Look at where we are now': BAM honors Martin Luther King Jr. at annual tribute event"
+  link: >
+    https://www.brooklynpaper.com/bam-martin-luther-king-jr-tribute/
+  author: Isabel Song Beer
+  publication: Brooklyn Paper
+  publishdate: 2024-01-16
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts delivered the keynote address at the Brooklyn Academy of Music’s tribute to Dr. Martin Luther King Jr.'
+  thumbnail:
+    - file://jF975wVAc8CrFIDI
+  newstags: ""
+- 
+  title: >
+    How to celebrate Martin Luther King Jr.
+    Day in Brooklyn
+  link: >
+    https://www.brooklynpaper.com/celebrate-mlk-day-brooklyn/
+  author: Isabel Song Beer
+  publication: Brooklyn Paper
+  publishdate: 2024-01-10
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts is slated to give the keynote address at Brooklyn Academy of Music’s annual tribute to Martin Luther King Jr.'
+  thumbnail:
+    - file://QEqKg9JUTfHcv4IZ
+  newstags: ""
+- 
+  title: Freedom Reads puts on a play at CTF
+  link: >
+    https://www.cdcr.ca.gov/insidecdcr/2024/01/03/freedom-reads-puts-on-a-play-at-ctf/
+  author: Lt. Wil Landrum
+  publication: >
+    California Department of Corrections and
+    Rehabilitation
+  publishdate: 2024-01-03
+  description: 'Freedom Reads presented a one-person adapted performance of *The Latehomecomer*, a novel by Kao Kalia Yang, at Correctional Training Facility.'
+  thumbnail:
+    - file://WyCVVYQL33WQ7CP4
+  newstags: Performances, Showing Up
+- 
+  title: 'The Lives They Lived: Harry Belafonte'
+  link: >
+    https://www.nytimes.com/interactive/2023/12/22/magazine/harry-belafonte-death.html
+  author: Reginald Dwayne Betts
+  publication: The New York Times Magazine
+  publishdate: 2023-12-22
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts penned this in memoriam piece on Harry Belafonte, reflecting how he used his power of celebrity to create change for Black Americans.'
+  thumbnail:
+    - file://Z8EWD3oE4zzLeBST
+  newstags: ""
+- 
+  title: "'Freedom begins with a book': incarcerated people to judge new US literary award"
+  link: >
+    https://www.theguardian.com/books/2023/dec/11/inside-literary-prize-prisons-book-award
+  author: Olivia Empson
+  publication: The Guardian
+  publishdate: 2023-12-11
+  description: >
+    Freedom Reads, the National Book
+    Foundation, and the Center for Justice
+    Innovation launch the Inside Literary
+    Prize; one judge and two authors
+    shortlisted for the prize discuss the
+    initiative’s impact.
+  thumbnail:
+    - file://DsaUMoiJL76jDSCK
+  newstags: Inside Literary Prize
+- 
+  title: >
+    300 Incarcerated People to Judge New US
+    Literary Award
+  link: >
+    https://thecrimereport.org/2023/12/11/300-incarcerated-people-to-judge-new-us-literary-award/
+  author: TCR Staff
+  publication: The Crime Report
+  publishdate: 2023-12-11
+  description: "Freedom Reads, the National Book Foundation, and the Center for Justice Innovation launch the Inside Literary Prize, the nation's first literary award judged by currently incarcerated readers."
+  thumbnail: [ ]
+  newstags: Inside Literary Prize
+- 
+  title: >
+    The 10 Best Literary Rediscoveries of
+    2023
+  link: >
+    https://slate.com/culture/2023/12/best-books-2023-reprints-novels-childrens-plays.html
+  author: Dan Kois
+  publication: Slate
+  publishdate: 2023-12-07
+  description: '*Redaction* by artist Titus Kaphar and Freedom Reads Founder & CEO and poet Reginald Dwayne Betts makes this best literary rediscoveries list.'
+  thumbnail:
+    - file://AYop0aA2nXMDcUd4
+  newstags: ""
+- 
+  title: >
+    A Dallas bookstore owner wanted to
+    engage inmates in reading. A national
+    book prize was the result
+  link: >
+    https://www.keranews.org/arts-culture/2023-12-05/a-dallas-bookstore-owner-wanted-to-engage-inmates-in-reading-a-national-book-prize-was-the-result
+  author: Jerome Weeks
+  publication: KERA News
+  publishdate: 2023-12-05
+  description: >
+    Lori Feathers, co-owner of Interabang
+    Books, discusses the inspiration for the
+    Inside Literary Prize launched by
+    Freedom Reads, the National Book
+    Foundation, and the Center for Justice
+    Innovation.
+  thumbnail:
+    - file://LVCIJlGpdTs2ZNyo
+  newstags: Inside Literary Prize
+- 
+  title: >
+    A New Literary Prize Taps a Jury Living
+    Behind Bars
+  link: >
+    https://www.nytimes.com/2023/12/04/books/inside-literary-prize.html
+  author: Wilson Wong
+  publication: The New York Times
+  publishdate: 2023-12-04
+  description: |
+    Freedom Reads, the National Book Foundation, and the Center for Justice Innovation launch the Inside Literary Prize, the nation's first literary award judged by currently incarcerated readers and bequeathed onto the "dopest book of the year."
+  thumbnail:
+    - file://EF2xoC4p6LUI3ShQ
+  newstags: Inside Literary Prize
+- 
+  title: >
+    New Book Award To Be Judged By Prison
+    Inmates
+  link: >
+    https://www.kirkusreviews.com/news-and-features/articles/new-book-award-to-be-judged-by-prison-inmates/
+  author: Michael Schaub
+  publication: Kirkus Reviews
+  publishdate: 2023-12-04
+  description: >
+    Freedom Reads, the National Book
+    Foundation, and the Center for Justice
+    Innovation, with support from Lori
+    Feathers, launched the Inside Literary
+    Prize, the first US-based book award to
+    be judged exclusively by currently
+    incarcerated people.
+  thumbnail:
+    - file://abvhWUfDfENCkkHX
+  newstags: Inside Literary Prize
+- 
+  title: Lighting the Way
+  link: >
+    https://americanlibrariesmagazine.org/2023/11/01/lighting-the-way/
+  author: Allison Sivak
+  publication: American Libraries Magazine
+  publishdate: 2023-11-01
+  description: >
+    Randall Horton, Co-Founder of Radical
+    Reversal, and Reginald Dwayne Betts,
+    Founder of Freedom Reads, discuss their
+    work, censorship, and access to
+    literature in prisons.
+  thumbnail:
+    - file://9qvFHQ3C2462tRcu
+  newstags: ""
+- 
+  title: >
+    Three Yalies honored with Alumni
+    Association Public Service Awards for
+    community impact
+  link: >
+    https://yaledailynews.com/blog/2023/10/31/three-yalies-honored-with-alumni-association-public-service-awards-for-community-impact/
+  author: Landon Bishop
+  publication: Yale Daily News
+  publishdate: 2023-10-31
+  description: 'Reginald Dwayne Betts, Freedom Reads Founder & CEO, received the Yale Alumni Association Public Service Award along with two other alums.'
+  thumbnail:
+    - file://2Fc21bcV5YXNiJSI
+  newstags: ""
+- 
+  title: >
+    How Two Social Innovation Interns Made
+    Their Mark at Freedom Reads, a Startup
+    Nonprofit
+  link: >
+    https://city.yale.edu/stories/2023/9/16/freedom-reads
+  author: Lisa Beebe
+  publication: TSAI City Yale
+  publishdate: 2023-09-19
+  description: >
+    Yale students and social innovation
+    interns Meara and Ana reflect on their
+    internship experience at Freedom Reads.
+  thumbnail:
+    - file://TdwGnvpjWHoPBtZ9
+  newstags: ""
+- 
+  title: >
+    Morgan Stanley and the Centri Tech
+    Foundation Announce Winners of the 2023
+    Social Justice Innovation Awards
+  link: >
+    https://www.morganstanley.com/press-releases/morgan-stanley-and-centri-tech-foundation-announce-winners
+  author: ""
+  publication: Morgan Stanley
+  publishdate: 2023-09-19
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts received Morgan Stanley and Centri Tech Foundation’s 2023 Social Justice Innovation Award, recognizing innovative approaches to complex societal issues.'
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: '“I Always Wanted to Be a Witness”: Dwayne Betts on House of Unending'
+  link: >
+    https://www.interviewmagazine.com/music/i-always-wanted-to-be-a-witness-dwayne-betts-on-house-of-unending
+  author: Malik Peay
+  publication: Interview Magazine
+  publishdate: 2023-09-14
+  description: 'Reginald Dwayne Betts, Freedom Reads Founder & CEO, discusses his new album of poems, *House of Unending*, and the loneliness associated with incarceration.'
+  thumbnail:
+    - file://uV6yzlsNWMsCoFpQ
+  newstags: ""
+- 
+  title: 'Longform Episode 549: Reginald Dwayne Betts'
+  link: >
+    https://longform.org/posts/longform-podcast-549-reginald-dwayne-betts
+  author: >
+    Aaron Lammer, Max Linsky, and Evan
+    Ratliff
+  publication: Vox Media
+  publishdate: 2023-09-13
+  description: 'The Longform podcast chats with Freedom Reads Founder & CEO Reginald Dwayne Betts about his time inside, poetry and writing, and the origin of Freedom Reads.'
+  thumbnail:
+    - file://YrmBUA7BHeGa3iji
+  newstags: Freedom Library, Showing Up
+- 
+  title: 'Good Writing in a Bad Place: How One Incarcerated Writer Feeds His Craft'
+  link: >
+    https://lithub.com/good-writing-in-a-bad-place-how-one-incarcerated-writer-feeds-his-craft/
+  author: Robert Lee Williams
+  publication: Literary Hub
+  publishdate: 2023-08-28
+  description: >
+    Robert Lee Williams recounts his journey
+    at Sullivan Correctional Facility to
+    hone his literary craft by
+    reconstructing his own Freedom Library.
+  thumbnail:
+    - file://m9tg5sEo9waVYWpZ
+  newstags: ""
+- 
+  title: Reading Dostoevsky Behind Bars
+  link: >
+    https://freakonomics.com/podcast/reading-dostoevsky-behind-bars/
+  author: Steven D. Levitt
+  publication: Freakonomics Radio Network
+  publishdate: 2023-08-18
+  description: 'Steven D. Levitt, co-author of* Freakonomics*, interviews Freedom Reads Founder & CEO Reginald Dwayne Betts about life and why he believes hope can be found in a bookcase.'
+  thumbnail:
+    - file://QutlA4Ih0o6DtJxR
+  newstags: Freedom Library, Showing Up
+- 
+  title: >
+    The Nonprofit Building High-Design
+    Libraries in Prisons
+  link: >
+    https://www.surfacemag.com/articles/freedom-reads-libraries-in-prisons/
+  author: Ryan Waddoups
+  publication: Surface Mag
+  publishdate: 2023-08-14
+  description: >
+    A look at the hand-crafted, curved
+    design of Freedom Libraries and what the
+    design decisions mean to those inside.
+  thumbnail:
+    - file://hORlCzWDH1FO6qz6
+  newstags: Design, Freedom Library
+- 
+  title: >
+    Formerly incarcerated people have become
+    major voices for reforming a broken
+    criminal justice system
+  link: >
+    https://www.wgbh.org/news/national/2022-04-01/formerly-incarcerated-people-have-become-major-voices-for-reforming-a-broken-criminal-justice-system
+  author: Callie Crossley
+  publication: WGBH
+  publishdate: 2023-08-07
+  description: >
+    Callie Crossley reports on the efforts
+    of formerly incarcerated individuals to
+    spearhead the movement for prison reform
+    in the U.S.
+  thumbnail:
+    - file://N16MBRSLPZ3zwAu2
+  newstags: ""
+- 
+  title: >
+    How this MacArthur genius is turning
+    empty prison cells into redesigned
+    libraries
+  link: >
+    https://www.fastcompany.com/90932746/a-macarthur-genius-just-redesigned-prison-libraries
+  author: Abigail Glasgow
+  publication: Fast Company
+  publishdate: 2023-08-04
+  description: >
+    A vignette of how Freedom Libraries are
+    intentionally designed and crafted to
+    bring not just books but beauty into the
+    constrained environment of a
+    correctional facility.
+  thumbnail:
+    - file://PbRJ06ai8qqADq5O
+  newstags: Design, Freedom Library
+- 
+  title: "With 'Freedom Libraries,' teens in Baltimore's youth detention center now have their pick of books"
+  link: >
+    https://www.baltimoresun.com/2023/07/06/with-freedom-libraries-teens-in-baltimores-youth-detention-center-now-have-their-pick-of-books/
+  author: Darcy Costello
+  publication: The Baltimore Sun
+  publishdate: 2023-07-06
+  description: >
+    Teens in Baltimore’s youth detention
+    center receive a Freedom Library and
+    reflect on what they’re reading, the
+    power of books, and their hopes for the
+    future.
+  thumbnail:
+    - file://Xw22UhFPs4HSoTEq
+  newstags: Freedom Library, Openings
+- 
+  title: >
+    CT Poet and lawyer to release spoken
+    word album about his incarceration
+  link: >
+    https://www.stamfordadvocate.com/entertainment/article/reginald-dwayne-betts-house-of-unending-ct-18168160.php
+  author: Joel Lang
+  publication: Stamford Advocate
+  publishdate: 2023-06-27
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts on his spoken word poetry album, *House of Unending*.'
+  thumbnail:
+    - file://qsZYDycAONew6Vgj
+  newstags: ""
+- 
+  title: WBAL Report on Freedom Reads
+  link: >
+    https://vimeo.com/834792090/09ca0476f4?share=copy
+  author: ""
+  publication: WBAL
+  publishdate: 2023-06-09
+  description: >
+    Vincent Schiraldi, Maryland Secretary of
+    Juvenile Services, spoke about the
+    impact of Freedom Reads at a Freedom
+    Library opening at the Dorsey Run
+    Correctional Facility in Jessup, MD.
+  thumbnail:
+    - file://UZ9VwCokm8e1xgfe
+  newstags: ""
+- 
+  title: >
+    Books ignite the belief in a positive
+    future
+  link: >
+    https://www.wypr.org/show/on-the-record/2023-06-08/books-ignite-the-belief-in-a-positive-future
+  author: 'Sheilah Kast & Melissa Gerr'
+  publication: WYPR
+  publishdate: 2023-06-08
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts and Maryland Secretary of Juvenile Services Vincent Schiraldi discuss the impact of books ahead of Freedom Library openings in Maryland juvenile and correctional facilities.'
+  thumbnail:
+    - file://8gapMROK7O3ztRJa
+  newstags: Openings, Freedom Library, Showing Up
+- 
+  title: "Maryland's first Freedom Libraries to open in adult and youth correctional facilities"
+  link: >
+    https://www.cbsnews.com/baltimore/news/marylands-first-freedom-libraries-open-adult-and-youth-correctional-facilities/
+  author: ""
+  publication: CBS News Baltimore
+  publishdate: 2023-06-07
+  description: >
+    Freedom Reads opens 15 Freedom Libraries
+    in Maryland, bringing 7,500 books to
+    incarcerated readers.
+  thumbnail:
+    - file://4K9SyKw3AlhQ1mOH
+  newstags: Showing Up, Openings, Freedom Library
+- 
+  title: >
+    Freedom Reads Donates Books to St.
+    Brides and Indian Creek Correctional
+    Center
+  link: >
+    https://www.youtube.com/watch?v=ZhYm2d84JEI
+  author: ""
+  publication: Virginia Department of Corrections
+  publishdate: 2023-06-05
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts speaks at the opening of Freedom Libraries at St. Brides Correctional Center in Chesapeake, Virginia.'
+  thumbnail:
+    - file://vuWIe7nHa7sqvzj9
+  newstags: Openings, Freedom Library
+- 
+  title: "Former Virigina inmate installs 500-book 'Freedom Libraries' in Chesapeake prison housing units"
+  link: >
+    https://www.pilotonline.com/2023/06/04/former-virginia-inmate-installs-500-book-freedom-libraries-in-chesapeake-prison-housing-units/
+  author: Gavin Stone
+  publication: The Virginian Pilot
+  publishdate: 2023-06-04
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts reflects on opening 24 Freedom Libraries inside the same system where he was formerly incarcerated.'
+  thumbnail:
+    - file://4cjaxtdyGRJTwxah
+  newstags: Openings, Freedom Library
+- 
+  title: The Poet Writing on Prison Underwear
+  link: >
+    https://www.newyorker.com/magazine/2023/05/15/the-poet-writing-on-prison-underwear
+  author: Adam Iscoe
+  publication: The New Yorker
+  publishdate: 2023-05-08
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts discusses how he uses paper made out of donated prison underwear to express a truth about the state of incarceration in America.'
+  thumbnail:
+    - file://arcOqXj4t7ZoAA96
+  newstags: ""
+- 
+  title: "UVa 'Visiting Room Project' provides a look into life behind bars"
+  link: >
+    https://dailyprogress.com/news/local/uva-visiting-room-project-provides-a-look-into-life-behind-bars/article_d8c8d922-d3fe-11ed-b789-4be9e26a0e1e.html
+  author: ""
+  publication: The Daily Progress
+  publishdate: 2023-04-05
+  description: 'Reginald Dwayne Betts, Freedom Reads Founder & CEO, will give the keynote speech at the University of Virginia School of Law’s event featuring “The Visiting Room Project.”'
+  thumbnail:
+    - file://mcfEMsacXkatisOK
+  newstags: ""
+- 
+  title: >
+    National nonprofit brings books to
+    Incarcerated Mainers
+  link: >
+    https://www.newscentermaine.com/article/news/education/freedom-reads-national-nonprofit-reginald-dwayne-betts-brings-books-to-maine-correctional-center-windham/97-18a0f5a1-8075-419e-98a0-394159c28a68
+  author: Chloe Teboe
+  publication: News Center Maine
+  publishdate: 2023-03-27
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts reflects on the power of books and Freedom Libraries to create community.'
+  thumbnail:
+    - file://jhdNI6BOzlLC6BFP
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    Emerson Prison Initiative to hold
+    conference about the benefits of college
+    in prison
+  link: >
+    https://berkeleybeacon.com/emerson-prison-initiative-to-hold-conference-about-the-benefits-of-college-in-prison/
+  author: Maddie Khaw
+  publication: The Berkeley Beacon
+  publishdate: 2023-03-22
+  description: 'Reginald Dwayne Betts, Founder & CEO of Freedom Reads, will deliver the keynote address to the Emerson Prison Initiative Conference.'
+  thumbnail:
+    - file://fWrVadhLMOizEJe5
+  newstags: ""
+- 
+  title: >
+    To reach incarcerated individuals, this
+    book had to bend the rules of design
+  link: >
+    https://www.fastcompany.com/90866319/to-reach-incarcerated-individuals-this-book-had-to-bend-the-rules-of-design
+  author: Zachary Petit
+  publication: Fast Company
+  publishdate: 2023-03-17
+  description: 'James Goggin and Forest Young discuss the design features of *Redaction*, a book by poet Reginald Dwayne Betts and painter Titus Kaphar, that invite the reader to interact in a real way with the question of mass incarceration in America.'
+  thumbnail:
+    - file://GWygpva6FEX08tVs
+  newstags: ""
+- 
+  title: "Freedom Reads sets up 'micro-libraries' at Windham prison"
+  link: >
+    https://www.pressherald.com/2023/03/15/freedom-reads-sets-up-micro-libraries-at-windham-prison/
+  author: Mikayla Patel
+  publication: The Forecaster
+  publishdate: 2023-03-15
+  description: "Freedom Reads opened eight Freedom Libraries in Maine this week at the Maine Correctional Center in Windham, the Women's Center, and the Southern Maine Women's Reentry Center."
+  thumbnail:
+    - file://GScFOhGIlxaCA911
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    Freedom Reads empowers incarcerated
+    people
+  link: >
+    https://www.cdcr.ca.gov/insidecdcr/2023/03/14/freedom-reads-empowers-incarcerated-people/
+  author: Terri Hardi
+  publication: >
+    California Department of Corrections and
+    Rehabilitation
+  publishdate: 2023-03-14
+  description: "Freedom Reads opened libraries at Valley State Prison and Central California Women's Facility, bringing books and beauty to the people inside."
+  thumbnail:
+    - file://34ioPx3UMlqsZG8F
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    Glimpses of Prison Life, Through TikTok
+    and TV
+  link: >
+    https://www.themarshallproject.org/2023/03/09/prison-tiktok-social-media-piper-kerman
+  author: 'Lawrence Bartley & Donald Washington, Jr.'
+  publication: 'Vice News & The Marshall Project'
+  publishdate: 2023-03-09
+  description: 'The work of Freedom Reads is featured in episode six of *Inside Story*, exploring the everyday lives of those currently and formerly incarcerated.'
+  thumbnail:
+    - file://12AHSA1ltWSqYtqm
+  newstags: Showing Up
+- 
+  title: "Reginald Dwayne Betts and Titus Kaphar's 'Redaction'"
+  link: >
+    https://www.wnyc.org/story/dwayne-betts-and-titus-kaphars-redaction/
+  author: Alison Stewart
+  publication: WNYC
+  publishdate: 2023-02-28
+  description: 'Freedom Reads Founder & CEO and poet Reginald Dwayne Betts and artist Titus Kaphar discuss their book, *Redaction*, and the collision of art and poetry in the realm of mass incarceration in America.'
+  thumbnail:
+    - file://rjugpDlHJIIACNPL
+  newstags: ""
+- 
+  title: 11 new books to read right now.
+  link: >
+    https://lithub.com/11-new-books-to-read-right-now/
+  author: Katie Yee
+  publication: Literary Hub
+  publishdate: 2023-02-28
+  description: '*Redaction*, a book of poetry by Freedom Reads Founder & CEO Reginald Dwayne Betts in collaboration with artist Titus Kaphar, was featured on Literary Hub’s books to read list.'
+  thumbnail:
+    - file://xWqoDwviES6rVnJy
+  newstags: ""
+- 
+  title: "New book 'Redaction' humanizes redacted lawsuits through portraits and poems"
+  link: >
+    https://www.npr.org/2023/02/28/1160157991/new-book-redaction-humanizes-redacted-lawsuits-through-portraits-and-poems
+  author: Juana Summers
+  publication: NPR
+  publishdate: 2023-02-28
+  description: 'Artist Titus Kaphar and poet Reginald Dwayne Betts discuss their new, interactive art book, *Redaction*.'
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: 'BIN Exclusive: Reginald Dwayne Betts Talks Power Of Literature'
+  link: 'https://www.iheart.com/podcast/1248-black-information-network-89094154/episode/bin-exclusive-reginald-dwayne-betts-talks-109456649/?cmp=web_share&embed=true'
+  author: Esther Dillard
+  publication: Black Information Network
+  publishdate: 2023-02-23
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts discusses how the literature in Freedom Libraries can help the lives of those currently incarcerated.'
+  thumbnail: [ ]
+  newstags: Freedom Library, Showing Up
+- 
+  title: >
+    Titus Kaphar and Dwayne Betts team up to
+    turn art project into book
+  link: >
+    https://www.goodmorningamerica.com/culture/video/titus-kaphar-dwayne-betts-team-turn-art-project-97410908
+  author: Michael Strahan
+  publication: Good Morning America
+  publishdate: 2023-02-23
+  description: 'Michael Strahan chats with artist Titus Kaphar and poet and Freedom Reads Founder & CEO Reginald Dwyane Betts on their recent art book, *Redaction*.'
+  thumbnail:
+    - file://jK6uZSbFunrcpNqo
+  newstags: ""
+- 
+  title: "At Rikers Island, New York's brutal jail, a kaleidoscope of suffering"
+  link: >
+    https://www.washingtonpost.com/books/2023/02/22/rikers-oral-history-betts-book/
+  author: Reginald Dwayne Betts
+  publication: The Washington Post
+  publishdate: 2023-02-22
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts reviews *Rikers: An Oral History*, which gives an account of the jail from the perspective of the incarcerated people, employees, and officials who live and work there.'
+  thumbnail:
+    - file://fJzMbK7yYFPL1bcE
+  newstags: ""
+- 
+  title: >
+    “Felon” Solo Show, Related Events
+    Highlight Need for Reading in Prisons
+  link: >
+    https://www.towntopics.com/wordpress/2023/02/22/felon-solo-show-related-events-highlight-need-for-reading-in-prisons/
+  author: Wendy Greenberg
+  publication: Town Topics
+  publishdate: 2023-02-22
+  description: 'An overview of *FELON: An American Washi Tale*, a solo show by Freedom Reads Founder & CEO Reginald Dwayne Betts, and the importance of books in prison.'
+  thumbnail:
+    - file://cTmMcPFOKA6dyVSn
+  newstags: Performances
+- 
+  title: >
+    An acclaimed CT poet was incarcerated as
+    a teen. Now Reginald Dwyane Betts is
+    helping those confined in a Connecticut
+    youth prison to read
+  link: >
+    https://www.newsbreak.com/news/2932042322415-an-acclaimed-ct-poet-was-incarcerated-as-a-teen-now-reginald-dwayne-betts-is-helping-those-confined-in-a-connecticut-youth-prison-to-read
+  author: Susan Dunne
+  publication: Hartford Courant
+  publishdate: 2023-02-21
+  description: 'Freedom Reads opened three Freedom Libraries at the Manson Youth Institution in Cheshire, CT accompanied by Freedom Reads Founder Reginald Dwayne Betts’ spoken word performance of his acclaimed book, *Felon*.'
+  thumbnail:
+    - file://JeQxaVsbDt3CstVR
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    A letter to a CT journalist helped set a
+    prisoner free. The Prison Letters
+    Project could benefit many more inmates.
+  link: >
+    https://www.courant.com/2023/02/21/a-letter-to-a-ct-journalist-helped-set-a-prisoner-free-the-prison-letters-project-could-benefit-many-more-inmates/
+  author: Ed Stannard
+  publication: Hartford Courant
+  publishdate: 2023-02-21
+  description: >
+    Freedom Reads hosts the database for the
+    Yale Law School Prison Letters Project
+    which aims to read and respond to all
+    letters received from incarcerated
+    individuals.
+  thumbnail:
+    - file://XNdMgulmzi6jTzYO
+  newstags: ""
+- 
+  title: >
+    6 New Books You Should Read This
+    February
+  link: >
+    https://www.vulture.com/article/good-new-books-to-read-february-2023.html
+  author: J. Howard Rosier
+  publication: Vulture
+  publishdate: 2023-02-20
+  description: '*Redaction*, a book of poetry created by Freedom Reads Founder & CEO Reginald Dwayne Betts in collaboration with artist Titus Kaphar, was featured on Vulture’s books to read list.'
+  thumbnail:
+    - file://jT88HLMesXOyY8av
+  newstags: ""
+- 
+  title: "The Mellon Foundation Is Giving Out $125 Million in Grants for Creative Projects Addressing the 'Dehumanization' of U.S. Criminal Justice"
+  link: >
+    https://news.artnet.com/art-world/mellon-foundation-125-million-grantmaking-mass-incarceration-projects-2256678
+  author: Taylor Dafoe
+  publication: ArtNet
+  publishdate: 2023-02-16
+  description: >
+    Freedom Reads is one of several
+    recipients of the Mellon Foundation’s
+    new grant that seeks to address the U.S.
+    criminal legal system’s
+    “dehumanization, stereotyping, and
+    silencing.”
+  thumbnail:
+    - file://blQrG4YmkhscJi43
+  newstags: ""
+- 
+  title: "'Imagining Freedom' will give $125 million to art projects focused on incarceration"
+  link: >
+    https://www.npr.org/2023/02/15/1156687073/mellon-foundation-imagining-freedom-mass-incarceration
+  author: Anastasia Tsioulcas
+  publication: NPR
+  publishdate: 2023-02-09
+  description: >
+    Freedom Reads is a recipient of the
+    Mellon Foundation’s new “Imagining
+    Freedom” grant which supports projects
+    addressing the systemic dehumanization
+    of incarcerated people.
+  thumbnail:
+    - file://nRRX7VrLFFiilRHe
+  newstags: ""
+- 
+  title: On John Edgar Wideman
+  link: >
+    https://www.nybooks.com/articles/2023/02/09/on-john-edgar-wideman/
+  author: Reginald Dwayne Betts
+  publication: The New York Review
+  publishdate: 2023-02-09
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts responds to the article "A Dream of a Great Burning," a retrospective on John Edgar Wideman.'
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: >
+    Freedom Libraries empower prison
+    residents
+  link: >
+    https://www.cdcr.ca.gov/insidecdcr/2023/01/24/freedom-libraries-empower-prison-residents/
+  author: ""
+  publication: 'California Department of Corrections & Rehabilitation'
+  publishdate: 2023-01-24
+  description: "Freedom Reads will open 17 Freedom Libraries inside Valley State Prison and Central California Women's Facility, bringing books and beauty to both incarcerated people and staff."
+  thumbnail:
+    - file://f0WqHiPh8uUgevsV
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    Dwayne Betts on Beauty, Prison, and
+    Redaction
+  link: 'https://www.econtalk.org/dwayne-betts-on-beauty-prison-and-redaction/#audio-highlights'
+  author: Russ Roberts
+  publication: EconTalk
+  publishdate: 2023-01-23
+  description: 'Reginald Dwayne Betts discusses the mission of Freedom Reads and *Redaction*, his latest book of poetry in collaboration with artist Titus Kaphar.'
+  thumbnail:
+    - file://xWqoDwviES6rVnJy
+  newstags: ""
+- 
+  title: "Las nuevas 'Bibliotecas de la Libertad' en instituciones de California pretenden empoderar a las personas encarceladas"
+  link: >
+    https://universoabierto.org/2023/01/20/las-nuevas-bibliotecas-de-la-libertad-en-instituciones-de-california-pretenden-empoderar-a-las-personas-encarceladas/
+  author: Jeff Macomber
+  publication: Universo Abierto
+  publishdate: 2023-01-18
+  description: "La organización Freedom Reads abrió minibibliotecas en la prisión estatal de Valley (VSP) y en centro para mujeres de California Central (CCWF), llevando libros y belleza a las personas que estaban dentro. (The Freedom Reads organization opened mini libraries at Valley State Prison (VSP) and the Central California Women's Facility (CCWF), bringing books and beauty to the people inside.)"
+  thumbnail:
+    - file://L46YpbIy262cZTZq
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    Reginald Dwayne Betts on Politics,
+    Poetry, and the MacArthur Fellowship
+  link: >
+    https://www.libraryjournal.com/story/reginald-dwayne-betts-on-politics-poetry-and-the-macarthur-fellowship
+  author: Reginald Dwayne Betts
+  publication: Library Journal
+  publishdate: 2023-01-12
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts discusses his approach to poetry, politics, and his MacArthur Fellowship.'
+  thumbnail:
+    - file://vYZbiBvPe9g1EfXW
+  newstags: ""
+- 
+  title: >
+    New Haven-based program is helping to
+    empower inmates through literature
+  link: >
+    https://www.wshu.org/connecticut-news/2022-12-19/new-haven-based-program-is-helping-to-empower-inmates-through-literature
+  author: Molly Ingram
+  publication: WSHU
+  publishdate: 2022-12-19
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts discusses the inspiration for Freedom Reads, the literature featured in Freedom Libraries, and what’s next for the organization.'
+  thumbnail:
+    - file://ae9Kz4uxEqzQgdRA
+  newstags: Freedom Library
+- 
+  title: 'John Legend is Helping Build A Library In Louisiana State Penitentiary: Here Is How You Can Help'
+  link: >
+    https://moguldom.com/428720/john-legend-is-helping-build-a-library-in-louisiana-state-penitentiary-here-is-how-you-can-help/
+  author: Isheka N. Harrison
+  publication: Moguldom
+  publishdate: 2022-11-30
+  description: >
+    John Legend supports Freedom Reads and a
+    Freedom Library opening at the Louisiana
+    State Penitentiary.
+  thumbnail:
+    - file://eDKMg5dBNeFBPoNB
+  newstags: ""
+- 
+  title: The Search for Beauty in a Prison Cell
+  link: >
+    https://www.nytimes.com/2022/11/25/opinion/prison-books-library.html
+  author: Reginald Dwayne Betts
+  publication: The New York Times
+  publishdate: 2022-11-25
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts writes on regaining his freedom after eight years of incarceration and why he feels an urgency to bring beauty to those left behind.'
+  thumbnail:
+    - file://kLmNqGLaniB8lZpR
+  newstags: Shibumi
+- 
+  title: Holding a Gun
+  link: >
+    https://www.nybooks.com/articles/2022/11/24/holding-a-gun-reginald-dwayne-betts-serhiy-zhadan/
+  author: Reginald Dwayne Betts and Serhiy Zhadan
+  publication: The New York Review
+  publishdate: 2022-11-24
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts in conversation via letters with Serhiy Zhadan, Ukrainian poet and novelist.'
+  thumbnail:
+    - file://oPjxgtLEQwbjYPQb
+  newstags: ""
+- 
+  title: 'Between the Lines: PW Talks with Titus Kaphar and Reginald Dwayne Betts'
+  link: >
+    https://www.publishersweekly.com/pw/by-topic/new-titles/adult-announcements/article/91008-between-the-lines-pw-talks-with-titus-kaphar-and-reginald-dwayne-betts.html
+  author: Natalie Zacek
+  publication: Publishers Weekly
+  publishdate: 2022-11-23
+  description: 'Artist Titus Kaphar and poet and Freedom Reads Founder & CEO Reginald Dwayne Betts discuss their latest collaborative collection, *Redaction*.'
+  thumbnail:
+    - file://R6ASiscoJa1WB6g3
+  newstags: ""
+- 
+  title: "More 'freedom libraries' arrive in Louisiana state prisons: 'If we build it, they will come'"
+  link: >
+    https://www.theadvocate.com/baton_rouge/news/nonprofit-returns-to-louisiana-to-install-prison-libraries/article_0c21ef3e-652d-11ed-9cb1-3b2f3153e0df.html
+  author: Jacqueline DeRobertis
+  publication: The Advocate
+  publishdate: 2022-11-21
+  description: >
+    James Washington, Freedom Reads Library
+    Fabrication Supervisor embedded with the
+    Revival Workshop in New Orleans,
+    reflects on giving back to those
+    incarcerated after serving 25 years.
+  thumbnail:
+    - file://jsL5v6EZS3HuAnlw
+  newstags: Openings, Freedom Library
+- 
+  title: "The years that we've lost"
+  link: >
+    https://yalealumnimagazine.org/articles/5578-the-years-that-we-ve-lost
+  author: Dylan Walsh
+  publication: Yale Alumni Magazine
+  publishdate: 2022-11-01
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts reflects on his journey and how the years behind bars inform his life now.'
+  thumbnail:
+    - file://gjLMqeQ9Gp7u1pEx
+  newstags: ""
+- 
+  title: Freedom Reads
+  link: >
+    https://www.pw.org/content/freedom_reads_0
+  author: Alissa Greenberg
+  publication: 'Poets & Writers'
+  publishdate: 2022-11-01
+  description: >
+    An in-depth look into Freedom Reads,
+    including Literary Ambassadors, events,
+    and Book Circles.
+  thumbnail:
+    - file://RYmWU9mBZjhVCECD
+  newstags: ""
+- 
+  title: "Rikers jail gets book donation from group led by ex-prisoner; 'Trying to show up in a way that matters'"
+  link: >
+    https://www.nydailynews.com/new-york/nyc-crime/ny-new-libraries-rikers-island-jail-reginald-dewayne-betts-20221029-vbtpdggsqfacdmdh3ndm64kycy-story.html
+  author: Graham Rayman
+  publication: New York Daily News
+  publishdate: 2022-10-29
+  description: >
+    Freedom Reads brings beauty in the form
+    of 2,500 books into the Robert N.
+    Davoren Center on Rikers Island.
+  thumbnail:
+    - file://bHW4tZ4cocrMke3w
+  newstags: Freedom Library, Openings
+- 
+  title: 'From the Studio: Reginald Dwayne Betts'
+  link: >
+    https://www.spokanepublicradio.org/show/from-the-studio/2022-10-24/from-the-studio-reginald-dwayne-betts
+  author: E. J. Iannelli
+  publication: Spokane Public Radio
+  publishdate: 2022-10-24
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts speaks on poetry, activism, and Freedom Reads.'
+  thumbnail:
+    - file://hNtYHf60odzr3Yry
+  newstags: Showing Up
+- 
+  title: >
+    Prison Letters Project Responds to
+    Incarcerated People
+  link: >
+    https://law.yale.edu/yls-today/news/prison-letters-project-responds-incarcerated-people
+  author: ""
+  publication: Yale Law School
+  publishdate: 2022-09-19
+  description: >
+    Freedom Reads hosts the database for the
+    Prison Letters Project, a new initiative
+    seeking to ensure every letter from
+    incarcerated people in prison is read
+    and answered.
+  thumbnail:
+    - file://265fHAuRZ4IWCfmV
+  newstags: ""
+- 
+  title: >
+    How I Became a Prison Poet — And So
+    Much More
+  link: 'https://prisonjournalismproject.org/2022/09/14/writing-discussion-reginald-dwayne-betts/?utm_source=Social&utm_medium=Twitter&utm_campaign=SPROUTSOCIAL'
+  author: Kate McQueen
+  publication: Prison Journalism Project
+  publishdate: 2022-09-14
+  description: 'Reginald Dwayne Betts, Freedom Reads Founder & CEO and award-winning author and poet, chatted with the Prison Journalism Project about growing as a writer from behind bars.'
+  thumbnail:
+    - file://c3kMD5WSHtZGUQAW
+  newstags: ""
+- 
+  title: Plan the Visit (with Dwayne Betts)
+  link: >
+    https://crooked.com/podcast/plan-the-visit-with-dwayne-betts/
+  author: Deray Mckesson
+  publication: Pod Save the People
+  publishdate: 2022-08-30
+  description: "Deray Mckesson interviews Reginald Dwayne Betts on Freedom Reads' innovative work bringing literature into America's prisons."
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: >
+    Reginald Dwayne Betts Explains Origins
+    of Freedom Reads
+  link: >
+    https://www.c-span.org/video/?c5048398/reginald-dwayne-betts-explains-origins-freedom-reads
+  author: About Books podcast
+  publication: C-SPAN
+  publishdate: 2022-08-07
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts discusses the origin of Freedom Reads and the importance of books.'
+  thumbnail:
+    - file://grBfc0XSnIwmVM6l
+  newstags: ""
+- 
+  title: The Last Archivist
+  link: >
+    https://omny.fm/shows/the-last-archive/introducing-the-last-archivist
+  author: Jill Lepore
+  publication: The Last Archive
+  publishdate: 2022-08-04
+  description: 'Jill Lepore chats with Reginald Dwayne Betts, Founder & CEO of Freedom Reads, about opening Freedom Libraries in prisons across the country.'
+  thumbnail:
+    - file://nBC9t6l1zfFckocN
+  newstags: Freedom Library
+- 
+  title: >
+    Finding Freedom Through the Power of the
+    Page
+  link: >
+    https://provincetownindependent.org/arts-minds/2022/07/20/finding-freedom-through-the-power-of-the-page/
+  author: Abbey Dwight
+  publication: The Provincetown Independent
+  publishdate: 2022-07-20
+  description: >
+    A look into Reginald Dwayne Betts’
+    story, poetry, and the founding of
+    Freedom Reads.
+  thumbnail:
+    - file://hNtYHf60odzr3Yry
+  newstags: ""
+- 
+  title: 'Dwayne Betts on his mission: Living a life of second chances'
+  link: >
+    https://www.cbsnews.com/news/dwayne-betts-on-his-mission-living-a-life-of-second-chances/
+  author: Erin Moriarty
+  publication: CBS Sunday Morning
+  publishdate: 2022-07-10
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts gives an account of his life and how taking a second chance on himself led him on the path to founding Freedom Reads.'
+  thumbnail:
+    - file://a1ruC0ajOW1S4lQR
+  newstags: Freedom Library, Showing Up, Shibumi
+- 
+  title: 'From the archives: Author and activist Reginald Dwayne Betts on the power of books'
+  link: >
+    https://www.mprnews.org/episode/2022/07/05/from-the-archives-author-and-activist-reginald-dwayne-betts-on-the-power-of-books
+  author: Kerri Miller and Kelly Gordon
+  publication: MPR News
+  publishdate: 2022-07-05
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts speaks about the work of Freedom Reads and the power of books to confront what prison does to the spirit.'
+  thumbnail:
+    - file://Aglr4bamQvFyKsyY
+  newstags: Why Reading Matters
+- 
+  title: >
+    ‘Our Access Point to the Humanity We
+    Cannot Touch’
+  link: >
+    https://americanlibrariesmagazine.org/blogs/the-scoop/our-access-point-to-the-humanity-we-cannot-touch/
+  author: Terra Dankowski
+  publication: American Libraries Magazine
+  publishdate: 2022-06-26
+  description: 'Reginald Dwayne Betts, Freedom Reads Founder & CEO, participated in the ALA’s discussion on "Defending the Fifth Freedom: Protecting the Right to Read for Incarcerated Individuals."'
+  thumbnail:
+    - file://MPPDF0dVjvgA4QpC
+  newstags: ""
+- 
+  title: >
+    Luis J. Rodriguez, Reginald Dwayne Betts
+    among winners of L.A. Times Book Prizes
+  link: >
+    https://today.usc.edu/luis-j-rodriguez-reginald-dwayne-betts-among-winners-of-l-a-times-book-prizes/
+  author: Alison Farias
+  publication: USC Today
+  publishdate: 2022-04-23
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts won the Innovator’s Award for his work advocating for increased access to books, writers, and performing artists in prison.'
+  thumbnail:
+    - file://LhFcG5HFanvXSoqa
+  newstags: ""
+- 
+  title: >
+    This road to redemption began with a
+    poetry book slipped under a prison cell
+    door
+  link: >
+    https://www.washingtonexaminer.com/opinion/columnists/this-road-to-redemption-began-with-a-poetry-book-slipped-under-a-prison-cell-door
+  author: Salena Zito
+  publication: Washington Examiner
+  publishdate: 2022-04-17
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts details the origin of Freedom Reads, which began with a book of poetry.'
+  thumbnail:
+    - file://JeQxaVsbDt3CstVR
+  newstags: Freedom Library, Shibumi
+- 
+  title: "Freedom Library exhibit highlights Reginald Dwayne Betts' work bringing books inside prisons"
+  link: >
+    https://www.wbur.org/hereandnow/2022/03/23/reginald-dwayne-betts-freedom-library
+  author: 'Tonya Mosley & Samantha Raphelson'
+  publication: WBUR
+  publishdate: 2022-03-23
+  description: 'Here and Now interviews Freedom Reads Founder & CEO Reginald Dwayne Betts on the design and function of the Freedom Library, featured at a National Building Museum exhibit.'
+  thumbnail:
+    - file://a6EFaaeUlz3YdMt8
+  newstags: Freedom Library
+- 
+  title: "'Freedom Libraries' aim to transform prisons 500 books at a time"
+  link: >
+    https://www.washingtonpost.com/dc-md-va/2022/03/16/freedom-libraries-prison-national-building-museum/
+  author: Jasmine Hilton
+  publication: The Washington Post
+  publishdate: 2022-03-16
+  description: >
+    Freedom Reads’ signature Freedom
+    Library is featured at the National
+    Building Museum’s “Justice is
+    Beauty” exhibit.
+  thumbnail:
+    - file://7sETbRnCUca14MGS
+  newstags: Freedom Library
+- 
+  title: 'Two stories from Louisiana prisons: A cause for alarm and a pathway toward empowerment'
+  link: >
+    https://www.wwno.org/show/louisiana-considered/2022-03-14/two-stories-from-louisiana-prisons-a-cause-for-alarm-and-a-pathway-toward-empowerment
+  author: 'Karen Henderson & Alana Schreiber'
+  publication: WWNO
+  publishdate: 2022-03-14
+  description: >
+    Karen Henderson interviews Beth
+    Schwartzapfel on the findings of a
+    recent ProPublica investigation and
+    Reginald Dwayne Betts on his journey
+    towards founding Freedom Reads.
+  thumbnail:
+    - file://dw7G44mSZuNgwaCp
+  newstags: ""
+- 
+  title: "He went from prison to a MacArthur Fellow. Here's how he's trying to help Louisiana inmates"
+  link: >
+    https://www.theadvocate.com/baton_rouge/news/crime_police/article_bf66770a-96a1-11ec-b181-5bf50c44e0b3.html
+  author: Jacqueline DeRobertis
+  publication: The Advocate
+  publishdate: 2022-03-02
+  description: >
+    Troy Barnes, a carpenter who helps build
+    Freedom Libraries, reflects on returning
+    to Louisiana State Penitentiary with the
+    Freedom Reads team to open a Freedom
+    Library.
+  thumbnail:
+    - file://AueaEhavX2IbbF4G
+  newstags: Freedom Library, Openings
+- 
+  title: Is There Such a Thing as Black Thought?
+  link: >
+    https://www.nytimes.com/2022/02/24/magazine/black-thought-black-no-more.html
+  author: Reginald Dwayne Betts
+  publication: The New York Times
+  publishdate: 2022-02-24
+  description: >
+    A deep dive into the life and work of
+    Tariq Trotter, and a look into his
+    current project, a musical reimagination
+    of George S. Schuyler’s satirical
+    novel “Black No More.”
+  thumbnail:
+    - file://Yx8L55qSACERr62O
+  newstags: ""
+- 
+  title: >
+    Freedom Libraries Open in Two Louisiana
+    Prisons
+  link: >
+    https://www.lobservateur.com/2022/02/21/freedom-libraries-open-in-two-louisiana-prisons/
+  author: ""
+  publication: "L'Observateur"
+  publishdate: 2022-02-21
+  description: >
+    Freedom Reads opened two Freedom
+    Libraries in Louisiana, one at Louisiana
+    State Penitentiary at Angola and the
+    other at Elayn Hunt Correctional Center.
+  thumbnail: [ ]
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    Nonprofit organization opens Freedom
+    Libraries in two Louisiana prisons
+  link: >
+    https://www.brproud.com/news/local-news/nonprofit-organization-opens-freedom-libraries-in-two-louisiana-prisons/
+  author: Stacie Richard
+  publication: BRProud
+  publishdate: 2022-02-21
+  description: >
+    Freedom Reads opened two Freedom
+    Libraries, one at Louisiana State
+    Penitentiary at Angola and the other at
+    Elayn Hunt Correctional Center.
+  thumbnail:
+    - file://Vqd9TyA0N8rD7U4b
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    Reginald Dwayne Betts shares stories
+    from his “writing life"
+  link: >
+    https://yaledailynews.com/blog/2022/02/18/reginald-dwayne-betts-shares-stories-from-his-writing-life/
+  author: Dante Motley
+  publication: Yale News
+  publishdate: 2022-02-18
+  description: >
+    Reginald Dwayne Betts discusses his
+    foreward to “The Sentences That Create
+    Us,” a writing guide for incarcerated
+    people.
+  thumbnail:
+    - file://swsFqNDxKZNDqS5H
+  newstags: ""
+- 
+  title: 'Prison to Possibility: With Reginald Dwayne Betts'
+  link: >
+    https://podcasts.apple.com/us/podcast/prison-to-possibility-with-reginald-dwayne-betts/id1412905534?i=1000551430991
+  author: Michael Steele
+  publication: The Michael Steele Podcast
+  publishdate: 2022-02-17
+  description: 'Michael Steele interviews Freedom Reads Founder & CEO Reginald Dwayne Betts on his life journey and how he believes Freedom Reads can create true change.'
+  thumbnail:
+    - file://sid9BxGEGxennCXy
+  newstags: ""
+- 
+  title: >
+    MASS Design Group and Freedom Reads to
+    Install Libraries in 1,000 Prisons
+    Across America
+  link: >
+    https://www.architecturaldigest.com/story/mass-design-group-freedom-reads-install-libraries-1000-prisons-across-america
+  author: Eva Fedderly
+  publication: Architectural Digest
+  publishdate: 2022-02-11
+  description: >
+    MASS Design Group discusses the design
+    history, features, and intention behind
+    the final form of Freedom Reads’
+    signature Freedom Libraries.
+  thumbnail:
+    - file://cUjQgRFFpATnuKJG
+  newstags: Design, Freedom Library
+- 
+  title: Books carry inmates beyond the bars
+  link: >
+    https://www.csmonitor.com/Commentary/the-monitors-view/2021/1221/Books-carry-inmates-beyond-the-bars
+  author: Editorial Board
+  publication: The Christian Science Monitor
+  publishdate: 2021-12-21
+  description: >
+    The Christian Science Monitor Editorial
+    Board notes the importance of libraries
+    and books in prisons in the context of
+    the founding of Freedom Reads.
+  thumbnail:
+    - file://4wut7aoCG7qRewmz
+  newstags: ""
+- 
+  title: >
+    Prison cell thought to be Malcolm X’s
+    has been reinvented as a library for
+    inmates, part of massive new campaign
+  link: >
+    https://thehill.com/changing-america/enrichment/education/584876-prison-cell-thought-to-be-malcolm-xs-has-been/
+  author: Shirin Ali
+  publication: The Hill
+  publishdate: 2021-12-08
+  description: >
+    Freedom Reads is set to open the first
+    Freedom Library at MCI-Norfolk
+    Correctional Facility in Malcolm X’s
+    former cell.
+  thumbnail:
+    - file://Egf6sDawMojUvhZB
+  newstags: Openings, Freedom Library
+- 
+  title: >
+    Reginald Dwayne Betts is on a quest to
+    build 1,000 micro-libraries in prisons
+    across the U.S.
+  link: >
+    https://www.wbur.org/radioboston/2021/12/01/reginald-dwayne-betts-libraries
+  author: Tiziana Dearing and Cynthia Betubiza
+  publication: WBUR
+  publishdate: 2021-12-04
+  description: >
+    A dive into Freedom Reads’ mission,
+    the Freedom Library, and the future of
+    the organization.
+  thumbnail:
+    - file://vYZbiBvPe9g1EfXW
+  newstags: Freedom Library
+- 
+  title: "Louisiana releases Henry Montgomery, but so many 'juvenile lifers' remain behind bars"
+  link: >
+    https://www.msnbc.com/opinion/louisiana-releases-henry-montgomery-so-many-juvenile-lifers-remain-behind-n1284186
+  author: Reginald Dwayne Betts
+  publication: MSNBC
+  publishdate: 2021-11-19
+  description: >
+    Reginald Dwayne Betts writes about the
+    plight of juveniles incarcerated for
+    life sentences, and calls for the parole
+    board to consider parole for more folks
+    as they did for Henry Montgomery.
+  thumbnail:
+    - file://Kb4Tcm86Bx54l7TH
+  newstags: ""
+- 
+  title: 'Locked up to libraries: Man uses the power of books to make an impact on people after being in prison'
+  link: >
+    https://www.wtnh.com/news/connecticut/new-haven/locked-up-to-libraries-man-uses-the-power-of-books-to-make-an-impact-on-people-after-being-in-prison/
+  author: Keith Kountz
+  publication: WTNH
+  publishdate: 2021-11-01
+  description: "How books changed Freedom Reads Founder & CEO Reginald Dwayne Betts' life in prison, and the path to founding Freedom Reads."
+  thumbnail:
+    - file://t1261rQqktYMzWIx
+  newstags: Freedom Library
+- 
+  title: "'It feels like the start of something': Reginald Dwayne Betts on his groundbreaking prison library project"
+  link: >
+    https://www.theguardian.com/books/2021/oct/08/reginald-dwayne-betts-macarthur-genius-grant-freedom-reads
+  author: Adrian Horton
+  publication: The Guardian
+  publishdate: 2021-10-08
+  description: 'Reginald Dwayne Betts spoke with *The Guardian* about the MacArthur grant and what it means for the future of Freedom Reads.'
+  thumbnail:
+    - file://dRvJ6MarPGHwVTkV
+  newstags: Freedom Library
+- 
+  title: An Obligation to Dignity
+  link: >
+    https://www.harvardmagazine.com/2021/10/reginald-dwayne-betts-on-poetry-and-prison
+  author: Lydialyle Gibson
+  publication: Harvard Magazine
+  publishdate: 2021-10-06
+  description: 'A glimpse into Freedom Reads Founder & CEO Reginald Dwayne Betts’ life, the founding of Freedom Reads, and the importance of beauty in prison.'
+  thumbnail:
+    - file://Z0msh5PTefTPT0Pn
+  newstags: ""
+- 
+  title: A Canon for the American Prisoner
+  link: >
+    https://www.nybooks.com/online/2021/10/05/a-canon-for-the-american-prisoner/
+  author: John J. Lennon
+  publication: The New York Review
+  publishdate: 2021-10-05
+  description: 'Incarcerated journalist John J. Lennon in conversation with Freedom Reads Founder & CEO Reginald Dwayne Betts.'
+  thumbnail:
+    - file://uBc7f60Nyy0hds8n
+  newstags: ""
+- 
+  title: 'Head of the Class: Nearly Half Of The 2021 MacArthur "Genius" Grant Winners Are Black'
+  link: >
+    https://www.essence.com/news/black-macarthur-foundation-2021-winners/
+  author: Kevin L. Clark
+  publication: Essence
+  publishdate: 2021-09-30
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts was awarded the MacArthur fellowship and ‘genius’ grant.'
+  thumbnail:
+    - file://hSeEo6Imq4E3Jgp0
+  newstags: ""
+- 
+  title: 'Finding Freedom In Words: Lawyer Poet Reginald Dwayne Betts Receives MacArthur Fellowship'
+  link: >
+    https://www.wyomingpublicmedia.org/2021-09-29/finding-freedom-in-words-lawyer-poet-reginald-dwayne-betts-receives-macarthur-fellowship
+  author: Samantha Raphelson
+  publication: NPR
+  publishdate: 2021-09-29
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts on receiving the MacArthur fellowship, his journey, and the origin of Freedom Reads.'
+  thumbnail:
+    - file://a6EFaaeUlz3YdMt8
+  newstags: ""
+- 
+  title: >
+    Here are this year’s MacArthur fellows
+    and ‘genius grant’ recipients
+  link: >
+    https://www.pbs.org/newshour/nation/here-are-this-years-macarthur-fellows-and-genius-grant-recipients
+  author: Don Babwin
+  publication: PBS NewsHour
+  publishdate: 2021-09-28
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts was awarded the MacArthur fellowship and ‘genius’ grant.'
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: From Jail To Law School To Genius Grant
+  link: >
+    https://abovethelaw.com/2021/09/from-jail-to-law-school-to-genius-grant/
+  author: Kathryn Rubino
+  publication: Above the Law
+  publishdate: 2021-09-28
+  description: 'Lawyer, poet, and Freedom Reads Founder & CEO Reginald Dwayne Betts and Executive Director of the Florida Rights Restoration Coalition Desmond Meade received MacArthur Foundation ‘genius’ grants.'
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: >
+    Reginald Dwayne Betts, New Haven poet,
+    lawyer and advocate for the
+    incarcerated, receives MacArthur
+    Foundation ‘genius’ grant
+  link: >
+    https://www.courant.com/2021/09/28/reginald-dwayne-betts-new-haven-poet-lawyer-and-advocate-for-the-incarcerated-receives-macarthur-foundation-genius-grant/
+  author: Eliza Fawcett
+  publication: Hartford Courant
+  publishdate: 2021-09-28
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts was awarded the MacArthur Foundation fellowship and ‘genius’ grant.'
+  thumbnail:
+    - file://4wut7aoCG7qRewmz
+  newstags: ""
+- 
+  title: >
+    Reginald Dwayne Betts on Living Between
+    the Poles of Yale-Educated Lawyer and
+    Prison-Educated Poet
+  link: >
+    https://lithub.com/reginald-dwayne-betts-on-living-between-the-poles-of-yale-educated-lawyer-and-prison-educated-poet/
+  author: Brad Listi
+  publication: Literary Hub
+  publishdate: 2021-07-21
+  description: 'Otherppl host Brad Listi chats with Reginald Dwayne Betts about his journey from incarceration to law school, and his poetry collection, *FELON*.'
+  thumbnail:
+    - file://vYZbiBvPe9g1EfXW
+  newstags: ""
+- 
+  title: >
+    We Must Give All Prisoners Access to
+    Resources to Pursue College Education
+  link: >
+    https://time.com/6052113/prisoners-college-education/
+  author: Reginald Dwayne Betts
+  publication: TIME Magazine
+  publishdate: 2021-05-27
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts argues for expanded access to education in prisons.'
+  thumbnail:
+    - file://n4UIZqNIXQasqSFB
+  newstags: ""
+- 
+  title: >
+    Reginald Dwayne Betts On Incarceration,
+    Chauvin Verdict — And Poetry
+  link: >
+    https://www.stlpr.org/show/st-louis-on-the-air/2021-04-21/reginald-dwayne-betts-on-incarceration-chauvin-verdict-and-poetry
+  author: Evie Hemphill
+  publication: St. Louis Public Radio
+  publishdate: 2021-04-21
+  description: >
+    Reginald Dwayne Betts speaks about his
+    journey, the power of books, and the
+    Yale Law School Million Book Project
+    (now Freedom Reads).
+  thumbnail:
+    - file://vYZbiBvPe9g1EfXW
+  newstags: ""
+- 
+  title: >
+    If we truly believe in redemption and
+    second chances, parole should be
+    celebrated
+  link: >
+    https://www.washingtonpost.com/opinions/2021/04/04/vincent-lamont-martin-parole-celebrate/
+  author: Reginald Dwayne Betts
+  publication: The Washington Post
+  publishdate: 2021-04-04
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts writes about the importance of parole and second chances.'
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: "In his journey from jail to Yale Law, felon-turned-poet writes 'to remember who I am'"
+  link: >
+    https://www.startribune.com/in-his-journey-from-jail-to-yale-law-felon-turned-poet-writes-to-remember-who-i-am/600030677/
+  author: Rohan Preston
+  publication: Star Tribune
+  publishdate: 2021-03-06
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts speaks to his journey through incarceration, poetry, and the Million Book Project, now Freedom Reads.'
+  thumbnail:
+    - file://YrmBUA7BHeGa3iji
+  newstags: ""
+- 
+  title: >
+    Sen. Winfield Previews Legislative
+    Session; Poetry and Prison Reform with
+    Dwayne Betts
+  link: >
+    https://www.ctpublic.org/show/disrupted/2021-01-06/sen-winfield-previews-legislative-session-poetry-and-prison-reform-with-dwayne-betts
+  author: >
+    Catie Talarski, Daniela Luna, Khalilah
+    Brown-Dean
+  publication: Disrupted
+  publishdate: 2021-01-06
+  description: 'Freedom Reads Founder & CEO Reginald Dwayne Betts shares his story and how he is working to get more books into prisons across the country.'
+  thumbnail:
+    - file://9IygZilsUa6oJOCv
+  newstags: ""
+- 
+  title: ""
+  link: ""
+  author: ""
+  publication: ""
+  publishdate: ""
+  description: ""
+  thumbnail: [ ]
+  newstags: ""
+- 
+  title: ""
+  link: ""
+  author: ""
+  publication: ""
+  publishdate: ""
+  description: ""
+  thumbnail: [ ]
+  newstags: ""
+
+----
+
+Introduction: Highlights of Freedom Reads and its work in the media.
+
+----
+
+Uuid: RHjbPh49OXt0ooAX

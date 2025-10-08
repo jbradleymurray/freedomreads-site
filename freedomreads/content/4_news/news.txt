@@ -1,0 +1,29 @@
+Title: News
+
+----
+
+Hero: 
+
+----
+
+Herotext: 
+
+----
+
+Introduction: From blogs to press releases to newsletters, and Freedom Reads in the media to other news of interest, stay up to date with Freedom Reads.
+
+----
+
+Mediacontact:
+
+Ivan Dominguez 
+(email: ivan@freedomreads.org text: ivan@freedomreads.org)
+phone number TBD
+
+Madeline Sklar
+(email: madelines@freedomreads.org text: madelines@freedomreads.org)
+phone number TBD
+
+----
+
+Uuid: iE5LWNDdIRChw0jf

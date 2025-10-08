@@ -1,0 +1,33 @@
+Title: Inside Literary Prize Books Sent to Judges
+
+----
+
+Featureimg: - file://L0jJPtDMhUAdvtPl
+
+----
+
+Introduction: In January, the Freedom Reads team packed and shipped out the four shortlisted books for the Inside Literary Prize to each of our 300 judges on the inside in 12 prisons. Five additional sets of the shortlisted books were also sent to each of the prisons for those who are not participating as judges. In addition, we are also providing copies of the books to correctional staff, to include staff in the communities being built around reading.
+
+----
+
+Blocks: [{"content":{"text":"<p>The Inside Literary Prize, launched by Freedom Reads, the <a href=\"https://www.nationalbook.org/\" target=\"_blank\" title=\"National Book Foundation\">National Book Foundation</a>, and the <a href=\"https://www.innovatingjustice.org/\" target=\"_blank\" title=\"Center for Justice Innovation\">Center for Justice Innovation</a> with support from Lori Feathers, is the first US-based literary prize judged exclusively by incarcerated people.</p><p>The books under consideration include<em> </em><a href=\"https://www.nationalbook.org/books/the-rabbit-hutch/\" target=\"_blank\" title=\"The Rabbit Hutch\"><em>The Rabbit Hutch</em></a> by Tess Gunty, <a href=\"https://www.nationalbook.org/books/the-haunting-of-hajji-hotak-and-other-stories/\" target=\"_blank\" title=\"The Haunting of Hajji Hotak\"><em>The Haunting of Hajji Hotak and Other Stories</em></a> by Jamil Jan Kochai, <a href=\"https://www.nationalbook.org/books/south-to-america-a-journey-below-the-mason-dixon-to-understand-the-soul-of-a-nation/\" target=\"_blank\" title=\"South to America\"><em>South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation</em></a> by Imani Perry, and <a href=\"https://www.nationalbook.org/books/best-barbarian/\" target=\"_blank\" title=\"Best Barbarian\"><em>Best Barbarian</em></a><em> </em>by Roger Reeves.</p><p>This spring, Inside Literary Prize organizers will travel to each prison to lead live discussions, conduct voting, and host literary readings with acclaimed authors previously honored by the National Book Awards.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"346ae98c-8edd-4aab-b821-fddde95daeb5","isHidden":false,"type":"text"},{"content":{"image":["file://SXXf3wqD5YmyoFLP"],"layout":"contentwidth","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"6dbd4464-3f5c-4d9f-9a53-d82999f64c83","isHidden":false,"type":"image"}]
+
+----
+
+Newstags: Inside Literary Prize
+
+----
+
+Published: 2024-01-30 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Freedom Reads
+  authoraffiliation: ""
+
+----
+
+Uuid: YmouR5vQsRvVPIql

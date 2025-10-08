@@ -1,0 +1,33 @@
+Title: Founder's Take: Seeing Your Reflection in a Sentence
+
+----
+
+Featureimg: - file://CsJ5KgOWP9c1DMV7
+
+----
+
+Introduction: Everyone who has ever been given a state number has a story of a cell door closing. And too often the stories that make it out from behind those closed cell doors are of sorrow. The sorrow of so many become the substance of films and of folklore, of the narratives of men like Malcolm X or Nathan McCall or Petey Greene or Merle Haggard or a half‑a‑dozen men in Bruce Springsteen songs. So many of us with debts no honest man can pay. I think of Susan Burton or Angela Davis or the many women I’ve met as I’ve walked back into prisons, their names less well known, but their struggles no less visceral. And yet, the thing less known than all those stories is how often an open book leads to shifting someone’s life—even for simply the span of time it takes to get from that first page to the last.
+
+----
+
+Blocks: [{"content":{"text":"<p>Over five states and Puerto Rico, the Freedom Reads team went Inside and watched as groups of men and women engaged in a vitally important literary duty: they came together and got into why books mattered. They read deeply and debated fiercely four finalist works—<em>Chain‑Gang All‑Stars</em> by Nana Kwame Adjei‑Brenyah, <em>This Other Eden</em> by Paul Harding, <em>On a Woman’s Madness</em> by Astrid Roemer (translated by Lucy Scott), and <em>Blackouts</em> by Justin Torres. These books offered language for trauma, reflections on injustice, and new ways of seeing ourselves and our lives. And in July, <em>Chain‑Gang All‑Stars</em> was named the winner of the 2025 Inside Literary Prize. We were the first organization to go inside a Puerto Rican prison and bring this particular joy for books. And they told us: it mattered that they could read. It mattered that they could judge. It mattered that they could be heard.</p><p>One of the most profound things to witness is someone confessing to seeing their reflection in a sentence. Jason Reynolds says the magical thing about the English language—any language, really, but he was talking about English—is that we say it all, every word in every book, with just 26 letters. To find your regrets, your hopes, your people on the page—that’s the miracle. And now, I get to ask you to help us keep this miracle going. If you believe that freedom begins with a book, support Freedom Reads today.</p><p><strong>Reginald Dwayne Betts</strong><br>Freedom Reads Founder &amp; CEO</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"a46518e8-3d67-4b8e-8cdb-b806c8dae6ba","isHidden":false,"type":"text"},{"content":{"buttontext":"Donate","external":"false","link":"page://tVVrSfjy1VOgr8nU"},"id":"6cdb223a-01ab-488e-b737-d72f4ba1f1cf","isHidden":false,"type":"button"}]
+
+----
+
+Newstags: Founder's Takes, Inside Literary Prize
+
+----
+
+Published: 2025-07-31 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Founder & CEO, Freedom Reads'
+
+----
+
+Uuid: 061K6qKzz6LaxEND

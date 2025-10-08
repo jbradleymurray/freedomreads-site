@@ -1,0 +1,36 @@
+Title: Albion Correctional Facility
+
+----
+
+Prisonlocation:
+
+lat: 43.24446845
+lon: '-78.214113161831'
+number: "3595"
+city: Town of Albion
+region: New York
+country: United States
+countryCode: us
+postcode: "14411"
+address: State School Road
+osm: 105225938
+
+----
+
+Prisontype: Women’s
+
+----
+
+Librarycount: 2
+
+----
+
+Libraryimg: 
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: 6VruWFrMHG1pp3oX

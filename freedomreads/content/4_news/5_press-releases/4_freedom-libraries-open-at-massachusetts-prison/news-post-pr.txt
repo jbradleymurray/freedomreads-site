@@ -1,0 +1,44 @@
+Title: Freedom Libraries Open at Massachusetts Prison
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: National Non-Profit Freedom Reads Returns to MCI-Norfolk, home of the first Freedom Library
+
+----
+
+Blocks: [{"content":{"text":"<p>The national non-profit <a href=\"https://freedomreads.org/\" target=\"_blank\">Freedom Reads</a> announced today they have opened an additional 15 Freedom Libraries at MCI-Norfolk, a medium-security facility located in Norfolk, Massachusetts. MCI-Norfolk is the home of the first-ever Freedom Library, which was opened in Malcolm X’s former prison cell in November 2021. With these new openings, most incarcerated individuals at MCI-Norfolk have access to a Freedom Library.</p><p>The Freedom Libraries, the brainchild of 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts, who was sentenced to nine years in prison at age 16, are spaces in prisons to encourage the full realization of self. The libraries are handcrafted out of wood and curved to contrast the straight lines and bars of prisons as well as to evoke Martin Luther King Jr.’s line about the “arc of the universe” bending “toward justice.” Centering beauty and dignity, the Freedom Libraries seek to create a space in prisons to encourage community and the exploration of new possibilities.</p><p>Betts’ nonprofit is a first-of-its-kind organization that empowers people through literature to imagine new possibilities for their lives. Books in the Freedom Library have been carefully curated through consultations with thousands of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved but indispensable. The libraries include contemporary poets, novelists, and essayists, alongside classic works from Homer’s <em>The Odyssey</em> to the <em>Narrative of the Life of Frederick Douglass</em>, that remind us the book has long been a freedom project.</p><p>“There is something special about returning to MCI-Norfolk, the home of our first ever Freedom Library, to bring library access to every incarcerated person in the facility,” said Reginald Dwayne Betts, Founder &amp; CEO of Freedom Reads. “We are grateful that the Massachusetts Department of Correction continues to share our mission to bring the written word to those incarcerated, inspiring people to imagine new possibilities for their lives, and is reaffirming their commitment to creating a space for community, beauty, and inquiry.”</p><p>“We are delighted to continue our partnership with Freedom Reads as they return to MCI-Norfolk to install 15 additional mini-libraries,\" said MCI-Norfolk Superintendent Nelson Alves. \"This partnership not only reflects our commitment to fostering a culture of education and reading but also emphasizes the importance of building a sense of community within correctional facilities.”</p><p>“The gift of Freedom Reads libraries to our facilities have been an invaluable source of learning and inspiration,\" said Assistant Deputy Commissioner Abbe Nelligan. \"We look forward to the further expansion of these mini-libraries at North Central Correctional Institution and MCI-Shirley where these libraries will positively impact all through equitable and regular access to powerful works.\"</p><p><em>Update: This press release was updated to reflect that most incarcerated individuals at MCI-Norfolk now have access to a Freedom Library.</em></p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"f9b5044c-f746-424f-87af-87920608a8fa","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Openings, Freedom Library
+
+----
+
+Published: 2023-12-14 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Ivan Dominguez
+  position: 'Chief Communications Officer & Director of Development'
+  organization: Freedom Reads
+  email: ivan@freedomreads.org
+  phone: ""
+
+----
+
+Posted: https://www.newswire.com/news/freedom-libraries-open-at-massachusetts-prison-22197147
+
+----
+
+Uuid: hCBWz3uNdZ4Hai5C

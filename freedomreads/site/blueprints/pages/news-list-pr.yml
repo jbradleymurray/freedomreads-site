@@ -1,0 +1,40 @@
+title: Press Release List
+columns:
+	- width: 2/3
+		sections:
+			content:
+				type: fields
+				fields:
+					introduction:
+						required: true
+						type: textarea
+						buttons:
+							- italic
+							- link
+			drafts:
+				label: Drafts
+				status: draft
+				extends: sections/posts
+				templates: news-post-pr
+				help: "New posts are made as **drafts**. Once ready, change its status to **Public** in order to publish."
+				info:  "{{ page.published }}"
+			published:
+				label: Posts
+				status: listed
+				extends: sections/posts
+				sortBy: published desc
+				info:  "{{ page.published }}"
+	- width: 1/3
+		fields:
+			newslistcategory:
+				label: News Category
+				type: hidden
+				default: pr
+			aboutfr:
+				label: About Freedom Reads
+				type: textarea
+				buttons:
+					- link
+				help: The content here will be added at the bottom of each press release posts.
+						
+				

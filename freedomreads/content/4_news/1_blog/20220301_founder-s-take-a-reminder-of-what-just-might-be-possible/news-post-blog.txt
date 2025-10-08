@@ -1,0 +1,33 @@
+Title: Founder’s Take: A Reminder of What Just Might Be Possible
+
+----
+
+Featureimg: - file://P9xfpDHnuOtBs4H4
+
+----
+
+Introduction: I have always felt my freedom begins with a book – both as a tool of liberation and as a means of engendering empathy. I learned this in a cell, where Freedom Reads began – where the notion of transforming lives with books began for me.
+
+----
+
+Blocks: [{"content":{"text":"<p>As I take part in these early Freedom Library openings, I quickly realize that being transformed by books isn't the first thing on guys' minds, some mornings. When we walked into Louisiana State Penitentiary – Angola – it was entering a city of woe. Imagine bringing walnut bookcases, even poetry, to combat such desperation. Most men there have life sentences.</p><p>The two wardens who walked us around had been there for 30 years. They talked of the men inside being like family. </p><p>We talked to guys. But it did feel like walking unannounced into their homes. Men in the dorm were going about the routine of living. Most didn’t have a lot of questions like at some of the first prisons. But as we arranged the gleaming modules and shelved the new books, a curiosity, and an appreciation, seemed to spread. The biggest smiles came from folks seeing Troy Barnes, the first Freedom Library Production Fellow and student of the Revival Workshop Apprenticeship Program in New Orleans. Troy had been free from Angola for 90 days. Many of them had been spent learning new skills in the making of this Freedom Library he’d come back to deliver.</p><p>\"In prison, you really don’t have beautiful things to see,\" Troy told <em>The Advocate</em> for <u><a href=\"https://www.theadvocate.com/baton_rouge/news/crime_police/article_bf66770a-96a1-11ec-b181-5bf50c44e0b3.html\" target=\"_blank\">this</a></u> story. \"To be able to wake up and see a natural, beautiful thing that was built by someone who left and returned to bring it there — it would give the guys hope.\" He also told me that in sanding and finishing the rich wood, he’d discovered oceans in it. </p><p>We asked the wardens we spent that morning with about hope. They talked of the hope that has come with the chance of some of these guys making parole. They talked about how hard it is to get others to leave their cell. One shared about being out sick one time, and about one of the prisoners who hadn’t seen him for a few days calling to the front desk to ask if he was okay. The stories you don't hear about. I knew the story people would be talking about for days after that one would be of Troy returning, with a Freedom Library he'd built. And I hope that in the time since, for some, the stories on the shelves we left offer new insight into how we exist in the world: a reminder of what just might be possible.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"cad4b0bd-0813-4470-be03-7ae7702307af","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes
+
+----
+
+Published: 2022-03-01 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Founder & CEO of Freedom Reads'
+
+----
+
+Uuid: SdbJW9sHc4Tdbplc

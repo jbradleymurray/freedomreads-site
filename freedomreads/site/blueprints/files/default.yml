@@ -1,0 +1,32 @@
+title: Image
+
+replace: true
+
+columns:
+  - width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          caption:
+            label: Caption
+            type: textarea
+            size: small
+            buttons:
+              - italic
+              - link
+          
+  - width: 1/2
+    sections:
+      meta:
+        type: fields
+        fields:
+          credit:
+            label: Image Credit
+            type: text
+          alt:
+            label: Alt text
+            type: textarea
+            size: small
+            buttons: false
+         

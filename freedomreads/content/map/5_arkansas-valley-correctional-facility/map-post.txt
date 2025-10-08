@@ -1,0 +1,35 @@
+Title: Arkansas Valley Correctional Facility
+
+----
+
+Prisonlocation:
+
+lat: 38.217154
+lon: -103.7481106
+city: Ordway
+region: Colorado
+country: United States
+countryCode: us
+postcode: "81064"
+address: State Highway 71
+osm: 344616850
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 19
+
+----
+
+Libraryimg: - file://7CLBRDAgvwXNbwfj
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: 7uM6fl9sgNp2i4z5

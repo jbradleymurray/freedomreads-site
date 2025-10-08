@@ -1,0 +1,33 @@
+title: Podcasts
+columns:
+	- width: 2/3
+		fields:
+			content: sections/basic-page
+			podcasts: 
+				help: copy-paste the share link for each episode
+				type: structure
+				fields:
+					embed:
+						label: Embed
+						type: embed
+					episodesummary:
+						label: Episode Summary
+						type: textarea
+						size: small
+						buttons:
+							- bold
+							- italic
+							- link
+	- width: 1/3
+		fields:
+			podcastlinks:
+				type: structure
+				label: Podcast Links
+				fields:
+					platform:
+						label: Podcast Platform
+						type: text
+					platformlink:
+						type: url
+
+

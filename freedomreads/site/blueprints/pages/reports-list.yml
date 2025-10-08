@@ -1,0 +1,27 @@
+title: Reports List
+columns:
+	- width: 2/3
+		sections:
+			content:
+				type: fields
+				fields:
+					introduction:
+						required: true
+						type: textarea
+						buttons:
+							- italic
+							- link
+			drafts:
+				label: Drafts
+				status: draft
+				extends: sections/posts
+				templates: reports-post
+				help: "New posts are made as **drafts**. Once ready, change its status to **Public** in order to publish."
+				info:  "{{ page.published }}"
+			published:
+				label: Reports
+				status: listed
+				extends: sections/posts
+				templates: reports-post
+				layout: list
+				info: "Current: {{ page.reportstatus }}"

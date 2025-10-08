@@ -1,0 +1,36 @@
+Title: Cheshire Correctional Institution
+
+----
+
+Prisonlocation:
+
+lat: 41.5215607
+lon: -72.9008002
+number: "900"
+city: Cheshire
+region: Connecticut
+country: United States
+countryCode: us
+postcode: "06410"
+address: Highland Avenue
+osm: 8713277469
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 17
+
+----
+
+Libraryimg: - file://OJ0jSQ1zfIPrpxJb
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: odkfEHomak3Hh3cK

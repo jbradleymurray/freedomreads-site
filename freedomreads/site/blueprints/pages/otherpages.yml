@@ -1,0 +1,27 @@
+title: Landing Page
+icon: 
+status:
+	draft:
+		label: Draft
+		text: The page is still in draft mode. It can only be seen by editors with panel access.
+	listed:
+		label: Published
+		text: The page is online and listed in the site.
+columns:
+	- width: 2/3
+		sections:
+			content:
+				type: fields
+				fields:
+					text:
+							required: true
+							type: textarea
+							buttons:
+								- bold
+								- italic
+								- link
+
+ 
+
+
+

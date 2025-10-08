@@ -1,0 +1,33 @@
+Title: Inside Literary Prize: Updates from Leg One of the Tour
+
+----
+
+Featureimg: - file://rCtKkEN6YFbo8ttk
+
+----
+
+Introduction: In a few days, the Freedom Reads team will set off for North Dakota and Minnesota, for the second leg of the Inside Literary Prize tour. We’ll meet dozens of Inside Literary Prize judges, lead live discussions about the books, and host literary readings with Roger Bonair-Agard, Douglas Kearney, and Randall Horton.
+
+----
+
+Blocks: [{"content":{"text":"<p>As we prepare for the trip, we’re thinking back on our journey through Arizona and Colorado just a few weeks ago, when we kicked off the Inside Literary Prize tour by visiting four prisons in six days. At each prison, we were lucky to have extended conversations with judges, where they shared their thoughts on each of the four finalist titles: <em>Best Barbarian </em>by Roger Reeves; <em>South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation </em>by Imani Perry; <em>The Haunting of Hajji Hotak and Other Stories </em>by Jamil Jan Kochai; and <em>The Rabbit Hutch </em>by Tess Gunty. Our discussions with judges were rich and complicated, and many questions recurred: what does it mean for a book to be prize winning? What does it mean to share a book with a friend, a family member, a stranger? In many cases, judges went into the conversation expecting to cast their vote for one book, and came out with their minds changed, choosing to vote for an unexpected title. Edwin, a judge from Arizona, described how “this choice was very up and down in my heart.” Jared, also from Arizona, had a similar experience – he wrote, “It’s not my personal preference, but, sitting here discussing the books, it was clear to me the book most enjoyed and relatable to the majority of the group was this one. It was the most talked about book. It had many people creating connections, laughing, and questioning.” We won’t spoil yet what books they voted for. </p><p>Freedom Reads’ mission is to inspire and confront what prison does to the spirit. Our conversations with judges remind us how vital it is to show up, in person, to be physically and intellectually in community with those inside. Talking about books makes the world more expansive, opening up worlds of understanding and new ways to see each other. </p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"f1d995c0-a336-4498-9327-e5df5daa8465","isHidden":false,"type":"text"},{"content":{"image":["file://diWTAma3dDkeF1Vc"],"layout":"contentwidth","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"ecbac443-4de9-4c1e-ba22-e728c0cbe077","isHidden":false,"type":"image"},{"content":{"buttontext":"Learn more about the Inside Literary Prize","external":"false","link":"page://6nYETdhtoF90VHYn"},"id":"cec85a94-1914-4cc0-a701-502d9c47c21e","isHidden":false,"type":"button"}]
+
+----
+
+Newstags: Inside Literary Prize
+
+----
+
+Published: 2024-04-25 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Gabby Colangelo
+  authoraffiliation: Program Coordinator for Freedom Reads
+
+----
+
+Uuid: Fv5v4f8vjjLzthlz

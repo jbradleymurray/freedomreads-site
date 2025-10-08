@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://freedomreads.org/</loc>
+    </url>
+
+    <!-- Freedom Library -->
+    <url>
+        <loc>https://freedomreads.org/freedom-library/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/freedom-library/openings/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/freedom-library/design/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/freedom-library/why-reading-matters/</loc>
+    </url>
+
+    <!-- Showing Up -->
+    <url>
+        <loc>https://freedomreads.org/showing-up/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/showing-up/performances/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/showing-up/writers-talks/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/showing-up/inside-literary-prize/</loc>
+    </url>
+
+    <!-- News -->
+    <url>
+        <loc>https://freedomreads.org/news/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/news/blog/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/news/in-the-media/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/news/news-of-interest/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/news/newsletter/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/news/press-release/</loc>
+    </url>
+
+    <!-- Shibumi -->
+    <url>
+        <loc>https://freedomreads.org/shibumi/</loc>
+    </url>
+
+    <!-- About -->
+    <url>
+        <loc>https://freedomreads.org/about/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/about/people/</loc>
+    </url>
+    <url>
+        <loc>https://freedomreads.org/about/work-with-us/</loc>
+    </url>
+
+    <!-- Contact -->
+    <url>
+        <loc>https://freedomreads.org/contact/</loc>
+    </url>
+
+    <!-- Donate -->
+    <url>
+        <loc>https://freedomreads.org/donate/</loc>
+    </url>
+
+</urlset>

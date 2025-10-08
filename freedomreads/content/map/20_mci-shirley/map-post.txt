@@ -1,0 +1,35 @@
+Title: MCI-Shirley
+
+----
+
+Prisonlocation:
+
+lat: 42.5384364
+lon: -71.6530734
+city: Shirley
+region: Massachusetts
+country: United States
+countryCode: us
+postcode: "01464"
+address: Harvard Road
+osm: 9388973
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 14
+
+----
+
+Libraryimg: 
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: 1ZPDUZtVSRdUFwU6

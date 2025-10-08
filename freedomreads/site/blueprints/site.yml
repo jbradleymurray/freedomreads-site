@@ -1,0 +1,112 @@
+title: Freedom Reads
+tabs:
+	content:
+		label: Pages
+		icon: page
+		columns:
+			- width: 1/3
+				sections:
+					landing_pages:
+						label: Landing Pages
+						type: pages
+						parent: site
+						templates:
+							- home
+							- landing
+							- news
+							- contact
+							- map-list
+					other_pages:
+						label: Other Pages 
+						type: pages
+						templates:
+      					- fatal
+								- error
+								- signup
+								- search
+								- otherpages
+
+				
+			- width: 1/3
+				sections:
+					subpages_library:
+						label: Freedom Library
+						type: pages
+						create: default
+						parent: site.find("freedom-library")
+						status: all
+					subpages_initiatives:
+						label: Showing Up
+						type: pages
+						parent: site.find("showing-up")
+						create: default
+						status: all
+					subpages_shibumi:
+						label: Shibumi
+						type: pages
+						parent: site.find("shibumi")
+						create: default
+						status: all
+			- width: 1/3
+					sections:
+						subpages_news:
+							label: News
+							type: pages
+							create: default
+							parent: site.find("news")
+							status: all
+						subpages_about:
+							label: About
+							type: pages
+							reate: default
+							parent: site.find("about")
+							status: all
+					
+	mapcontent:
+		label: Library Database
+		icon: map
+		sections:
+			drafts:
+				extends: sections/map-items
+				status: draft
+			published:
+				extends: sections/map-items
+				status: listed
+	info:
+		label: Information Settings
+		icon: info
+		sections:
+			metadata:
+				type: fields
+				fields:
+					seodescription:
+						label: SEO description
+						type: text
+						help: This will be used as the description for SEO.
+					socialshare:
+						type: files
+						label: Social Share Image
+						accept: image/jpeg, image/png
+						help: This will be used as the thumbnail image when the website is shared on social media platforms (1600 x 900px / jpg or png / 72 dpi)
+					sociallinks:
+						type: structure
+						label: Social Media Links
+						fields:
+							socialcategory:
+								label: Social Platform
+								type: select
+								options:
+									- facebook
+									- instagram
+									- linkedin
+									- twitter/x
+									- youtube
+									- bluesky
+									- thread
+							url:
+								type: url
+
+
+
+
+									

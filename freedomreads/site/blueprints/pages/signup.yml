@@ -1,0 +1,45 @@
+title: Newsletter Signup
+columns:
+  - width: 2/3
+    fields:
+      headcopy:
+        label: Headline
+        help: This message will appear in the headline area, above the form.
+        required: true
+        type: text
+      messagesuccess:
+        label: Confirmation Message
+        help: This message displays for successful newsletter signups, appended with the submitted email address.
+        required: true
+        type: textarea
+        buttons:
+          - bold
+          - italic
+          - link
+      messageerror:
+        label: Error Message
+        help: This message displays when something goes wrong.
+        required: true
+        type: textarea
+        buttons:
+          - bold
+          - italic
+          - link
+      messageUnsubscribed:
+        label: Unsubscribed Message
+        help: This message appears when someone who has already unsubscribed tries to sign up again.
+        required: true
+        type: textarea
+        buttons:
+          - bold
+          - italic
+          - link
+      messageprivacy:
+        label: Privacy Statement
+        help: This message displays under the form to inform users about our Privacy Policy.
+        required: true
+        type: textarea
+        buttons:
+          - bold
+          - italic
+          - link

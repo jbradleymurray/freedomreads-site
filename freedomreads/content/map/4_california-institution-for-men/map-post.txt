@@ -1,0 +1,35 @@
+Title: California Institution for Men
+
+----
+
+Prisonlocation:
+
+lat: 33.980427
+lon: "-117.66986304758"
+number: "14901"
+city: Chino
+region: California
+country: United States
+countryCode: us
+postcode: "91710"
+osm: 40876933
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 21
+
+----
+
+Libraryimg: - file://1ubB1vbsCdBPOA6V
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: djJIGjuGT2UsEuxR

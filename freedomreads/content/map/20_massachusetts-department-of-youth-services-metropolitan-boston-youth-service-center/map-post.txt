@@ -1,0 +1,35 @@
+Title: Massachusetts Department of Youth Services' Metropolitan Boston Youth Service Center
+
+----
+
+Prisonlocation:
+
+lat: 42.2967398
+lon: -71.0787425
+city: Boston
+region: Massachusetts
+country: United States
+countryCode: us
+postcode: "02121"
+address: Harvard Street
+osm: 34729454
+
+----
+
+Prisontype: Youth
+
+----
+
+Librarycount: 1
+
+----
+
+Libraryimg: 
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: oRyu4kIihpaiEcup

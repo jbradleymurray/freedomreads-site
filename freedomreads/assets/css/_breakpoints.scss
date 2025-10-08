@@ -1,0 +1,43 @@
+@mixin at-media($size) {
+	@if $size ==mobile {
+		@media (max-width: 400px) {
+			@content;
+		}
+	}
+	@else if $size ==mobile-lg {
+		@media (max-width: 750px) {
+			@content;
+		}
+	}
+	@else if $size ==tablet {
+		@media (max-width: 850px) {
+			@content;
+		}
+	}
+
+	//this is the primary layout breakpoint
+
+	@else if $size ==tablet-lg {
+		@media (max-width: 1024px) {
+			@content;
+		}
+	}
+	@else if $size ==desktop {
+		@media (max-width: 1459px) {
+			@content;
+		}
+	}
+	@else if $size ==desktop-lg {
+		@media (min-width: 1460px) {
+			@content;
+		}
+	}
+
+	//this is the height breakpoint for the intro module layout 
+
+	@else if $size == height-small {
+		@media (max-height: 740px) {
+			@content;
+		}
+	}
+}

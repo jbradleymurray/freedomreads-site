@@ -1,0 +1,44 @@
+Title: Freedom Libraries Opened in Connecticut Correctional Institution
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: National Non-Profit Freedom Reads Returns to Carl Robinson Correctional Institution and Opens 15 Freedom Libraries
+
+----
+
+Blocks: [{"content":{"text":"<p>The national non-profit <a href=\"https://freedomreads.org/\" target=\"_blank\">Freedom Reads</a> announced today they have opened an additional 15 Freedom Libraries at Carl Robinson Correctional Institution, a medium-security facility located in Enfield, Connecticut. Carl Robinson CI previously welcomed two libraries in September 2023. The Freedom Libraries were opened in the facilities' cellblocks for unfettered access to the curated collection. And as part of the events inside the prison surrounding the openings, Freedom Reads' Founder &amp; CEO, and University of New Haven Professor Randall Horton – both high-regarded, award-winning poets – did a poetry reading for those in attendance.</p><p>With these new openings, every incarcerated individual and staff member at Carl Robinson CI has access to a Freedom Library. The ongoing partnership with the Connecticut Department of Corrections with Freedom Libraries has also facilitated previous Freedom Library openings at Cheshire Correctional Institution, York Correctional Institution, and Manson Youth Institution. As of today, Freedom Reads has opened 220 Freedom Libraries in 33 prisons and juvenile detention facilities across 10 states. </p><p>The Freedom Libraries, the brainchild of 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts, who was sentenced to nine years in prison at age 16, are spaces in prisons to encourage the full realization of self. The libraries are handcrafted out of wood and curved to contrast the straight lines and bars of prisons as well as to evoke Martin Luther King Jr.’s line about the “arc of the universe” bending “toward justice.” Centering beauty and dignity, the Freedom Libraries seek to create a space in prisons to encourage community and the exploration of new possibilities.  </p><p>Betts’ nonprofit is a first-of-its-kind organization that empowers people through literature to imagine new possibilities for their lives. Books in the Freedom Library have been carefully curated through consultations with thousands of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved but indispensable. The libraries include contemporary poets, novelists, and essayists, alongside classic works from Homer’s <em>The Odyssey</em> to the <em>Narrative of the Life of Frederick Douglass</em>, that remind us the book has long been a freedom project. </p><p>“The power of the written word allows the reader to imagine possibilities for themselves they did not think possible. Our Freedom Libraries bring that power to those who may need it most,” said Reginald Dwayne Betts, Founder &amp; CEO of Freedom Reads. “Our goal is that access to literature disrupts the sense of hopelessness and desperation that prison can breed so that incarcerated individuals can aspire to a brighter future. We are thankful that the Connecticut Department of Corrections shares our goal and has continued to partner with us as we open Freedom Libraries across the state.”</p><p>“Freedom Reads has given so much more than books, they have provided a vital resource for personal development and well-being with far-reaching and lasting effects for the incarcerated population,” said Department of Correction Commissioner Angel Quiros. “The libraries - the work of Mr. Betts, now Yale Law School Graduate and MacArthur Fellow - are a tangible example for the incarcerated population that their past does not have to define their future. I look forward to the agency’s continued collaboration with the Freedom Reads organization, as well as future installations of libraries in more of the Department’s facilities.”</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"e03f6625-fe87-431b-8478-c9c0d61f4045","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Openings, Freedom Library
+
+----
+
+Published: 2023-11-15 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Ivan Dominguez
+  position: 'Chief Communications Officer & Director of Development'
+  organization: Freedom Reads
+  email: ivan@freedomreads.org
+  phone: ""
+
+----
+
+Posted: https://www.newswire.com/news/freedom-libraries-opened-in-connecticut-correctional-institution-22172075
+
+----
+
+Uuid: PeJzkU0wfOTWWUpg

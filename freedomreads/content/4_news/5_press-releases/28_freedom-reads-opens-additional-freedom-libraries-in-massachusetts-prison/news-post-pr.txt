@@ -1,0 +1,44 @@
+Title: Freedom Reads Opens Additional Freedom Libraries in Massachusetts Prison
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: Today, national non-profit Freedom Reads opened five new Freedom Libraries in Massachusetts Correctional Institution at Norfolk, allowing every incarcerated individual at MCI-Norfolk access to a Freedom Library
+
+----
+
+Blocks: [{"content":{"text":"<p>Today, the national non-profit <a href=\"https://www.freedomreads.org\" target=\"_blank\" title=\"Freedom Reads\">Freedom Reads</a> opened five new Freedom Libraries, including one for staff, at MCI-Norfolk. MCI-Norfolk is the home of the first-ever Freedom Library, opened in November 2021 in what might have been Malcolm X’s former prison cell. With these new openings, every incarcerated individual and staff member at MCI-Norfolk has access to a Freedom Library. The Freedom Libraries are opened directly in cellblocks across the prison, allowing incarcerated individuals direct access to inspiring literature. To date, Freedom Reads has opened 350 Freedom Libraries across 41 adult and youth prisons in 12 states.<br><br>“When we opened the first Freedom Library at MCI-Norfolk, a Library Patron, Wayne, asked when we would return with enough libraries to give access to all of those incarcerated at MCI-Norfolk,” said Freedom Reads Founder &amp; CEO Reginald Dwayne Betts. “Today, we return to ensure that every incarcerated person at MCI-Norfolk has access to inspiring literature, and in a greater sense, we return to make sure that those incarcerated at MCI-Norfolk know that they have not been forgotten. We are grateful to the Massachusetts Department of Correction for their continued partnership and support of our mission to open a Freedom Library in every cellblock in every prison in America.”<br><br>“Innovative collaborations that support the education and personal growth of incarcerated individuals are essential to our rehabilitative mission. The Freedom Reads program empowers people through access to inspirational literature and the transformative effect of reading a good book,” said DOC Interim Commissioner Shawn Jenkins. “First launched at MCI-Norfolk in 2021, we are proud to see this thriving initiative expand and grateful to Freedom Reads for their strong partnership.”<br><br>Freedom Reads is a first-of-its-kind organization that empowers people in prison through literature to imagine new possibilities for their lives. The Freedom Libraries are the brainchild of 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts, who was sentenced in Virginia to nine years in prison at age 16. Freedom Libraries are spaces in prisons to encourage community and in which reaching for a book can be as spontaneous as human curiosity. Each bookcase is handcrafted out of maple, cherry, oak, or walnut and is curved to contrast the straight lines and bars of prisons as well as to evoke Dr. Martin Luther King, Jr.’s observation about the “arc of the moral universe” bending “toward justice.”<br><br>Books in the Freedom Library have been carefully curated through consultations with hundreds of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved, but indispensable. The libraries include contemporary poetry, novels, and essays alongside classic works such as Homer’s <em>The Odyssey</em> and Ralph Ellison’s <em>Invisible Man</em> – titles that remind us that books have long been a freedom project.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"cc25c8e1-3cb7-4c25-95d9-97777a34fe84","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Freedom Library, Openings
+
+----
+
+Published: 2024-09-10 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Madeline Sklar
+  position: Communications Manager
+  organization: Freedom Reads
+  email: madelines@freedomreads.org
+  phone: 412-926-0848
+
+----
+
+Posted: 
+
+----
+
+Uuid: 51wzs2c249MDfdn7

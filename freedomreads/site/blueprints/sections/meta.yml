@@ -1,0 +1,13 @@
+type: group
+fields:
+  newstags:
+    label: Tags
+    type: tags
+    options: 
+      type: query
+      query: site.index.pluck("newstags", ",", true)
+  published:
+    label: Published on
+    type: date
+    default: today
+    time: true

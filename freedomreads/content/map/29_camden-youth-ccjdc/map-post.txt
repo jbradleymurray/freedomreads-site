@@ -1,0 +1,33 @@
+Title: Camden Youth-CCJDC
+
+----
+
+Prisonlocation:
+
+lat: 39.7892305
+lon: -75.047652
+city: Gloucester Township
+region: New Jersey
+country: United States
+countryCode: us
+osm: 962884
+
+----
+
+Prisontype: Youth
+
+----
+
+Librarycount: 5
+
+----
+
+Libraryimg: - file://cEPtlk8msiT22bT6
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: ycyTrzYiO7lluIi1

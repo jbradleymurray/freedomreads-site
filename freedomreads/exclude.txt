@@ -1,0 +1,14 @@
+.git
+.git/*
+.gitignore
+Icon[\r]
+Icon?
+.DS_Store
+/media/*
+!/media/index.html
+/.vscode
+/.idea
+/site/cache/*
+!/site/cache/index.html
+/site/sessions/*
+!/site/sessions/index.html

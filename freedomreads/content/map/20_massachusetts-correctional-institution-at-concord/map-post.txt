@@ -1,0 +1,36 @@
+Title: Massachusetts Correctional Institution at Concord
+
+----
+
+Prisonlocation:
+
+lat: 42.4650971
+lon: "-71.395733634358"
+number: "965"
+city: Concord
+region: Massachusetts
+country: United States
+countryCode: us
+postcode: "01742"
+address: Elm Street
+osm: 86977109
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 1
+
+----
+
+Libraryimg: - file://FD5Y5PAZlR8FvtLf
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: zjg5SEngjE8noOVj

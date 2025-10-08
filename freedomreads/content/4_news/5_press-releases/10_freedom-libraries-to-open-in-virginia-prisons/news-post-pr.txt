@@ -1,0 +1,44 @@
+Title: Freedom Libraries to Open in Virginia Prisons
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: Freedom Libraries conceived by former prisoner-turned-acclaimed-poet open at St. Brides Correctional Center and Indian Creek Correctional Center
+
+----
+
+Blocks: [{"content":{"text":"<p>Today, the national non-profit <a href=\"https://www.freedomreads.org\" target=\"_blank\">Freedom Reads</a> opened 12 Freedom Libraries at St. Brides Correctional Center and 12 libraries at Indian Creek Correctional Center in Chesapeake, VA. These 24 Freedom Libraries will be placed in the facilities' housing units for unfettered access to the 500-book collection. </p><p>The brainchild of 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts who was sentenced in Virginia to nine years in prison at age 16, the Freedom Libraries seek to create a space in prisons to encourage community and where reaching for a book can be as spontaneous as human curiosity. Each bookshelf is handcrafted out of maple, walnut or cherry and is curved to contrast the straight lines and bars of prisons as well as to evoke Martin Luther King Jr.'s line about the \"arc of the universe\" bending \"toward justice.\"</p><p>Betts' nonprofit is a first-of-its-kind organization that empowers people in prison through literature to imagine new possibilities for their lives. Books in the Freedom Library have been carefully curated through consultations with hundreds of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved, but indispensable. The libraries include contemporary poets, novelists, and essayists alongside classic works from Homer's <em>The Odyssey </em>to the <em>Narrative of the Life of Frederick Douglass</em>, titles that remind us the book has long been a freedom project. </p><p>\"With the opening of these Freedom Libraries, we hope to remind of a key principle of this life: to read is to remember a little bit more of who we are,\" said Reginald Dwayne Betts, Founder and CEO of Freedom Reads. \"I know firsthand the hopelessness that incarceration breeds. The opening of these libraries will foster an environment where these men can envision their future beyond prison walls and open themselves up to a sense of inquiry, imagination, and community.\" </p><p>\"The Virginia Department of Corrections helps people to be better,\" said Harold W. Clarke, Director of the Virginia Department of Corrections. \"That is our mission. Our vision is to be a premier correctional organization where all individuals achieve their full potential. These Freedom Libraries are a great opportunity to showcase the positive role reading can have in everyone's lives. Books are a great way to grow, to gain wisdom and to start affecting change in your life through inspiration. I hope the populations at St. Brides and Indian Creek will take these opportunities as they browse the libraries.\"</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"d0e22a4a-9f12-4cbe-976e-b32cf3290a91","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Openings, Freedom Library
+
+----
+
+Published: 2023-05-24 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Ivan Dominguez
+  position: 'Chief Communications Officer & Director of Development'
+  organization: Freedom Reads
+  email: ivan@freedomreads.org
+  phone: ""
+
+----
+
+Posted: https://www.newswire.com/news/freedom-libraries-to-open-in-virginia-prisons-22046305?_gl=1*1w2wu0r*_ga*MTkwMTQ2ODUzMi4xNjkwNDgyMTA1*_ga_MX6T5V36WQ*MTY5NzQ2ODY0OS4xMy4xLjE2OTc0Njg3NjYuNC4wLjA.
+
+----
+
+Uuid: Uu9Dwj2T2YH5sNuu

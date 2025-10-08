@@ -1,0 +1,33 @@
+Title: Founder’s Take: Every Freedom Library is a Promise
+
+----
+
+Featureimg: - file://rj3P2DiQRwxAIvi2
+
+----
+
+Introduction: “A yo Shy, you know this ain’t your fault right,” my man calls to tell me the day after he’s been denied parole again. I’m his lawyer. But also his friend. We've called the same prison cells home. And so he wants me to know that he doesn’t blame me for this. He says this failure ain’t on me, it’s on the system. I’ve heard it before. From other friends. Always consoling me as if I’m still going to be serving time instead of them.
+
+----
+
+Blocks: [{"content":{"text":"<p>This last time, wasn’t barely a week ago. The wound fresh enough that the writing of it here is a reminder of something: Every time, when I was inside, picking up a book was just evidence that I hadn’t been ruined. It was never proof that life was going to work out. It was never evidence that, even, things would get easier. It just meant I wasn’t alone. And not being alone mattered.</p><p>We return to prisons, because the returning is our success. Every Freedom Library is a promise. It's our reminder that we return in the face of being told we're not enough or that the people we return to don't need us or want us or appreciate us. </p><p>And this year, every single library will be both a bridge to freedom and a very real reminder of why it is necessary.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"72b4fa93-90d3-446b-ae2c-79ead36282b5","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes, Freedom Library
+
+----
+
+Published: 2024-01-30 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Founder & CEO of Freedom Reads'
+
+----
+
+Uuid: XGiV2z6vlGGsMSKF

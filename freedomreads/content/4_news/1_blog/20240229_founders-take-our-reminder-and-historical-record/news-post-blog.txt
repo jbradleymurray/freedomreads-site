@@ -1,0 +1,33 @@
+Title: Founder’s Take: Our Reminder and Historical Record
+
+----
+
+Featureimg: - file://lFzenulM0B623lqN
+
+----
+
+Introduction: There are more than 800 pillars, large corten steel monuments that seemingly hang from the sky at the National Memorial for Peace and Justice. The monuments are memorials. The Oxford English Dictionary says the etymology, a fancy way to say word origin, of memorial is the Latin *memoriālis*, an adjective for records or the French *memorial*, an adjective for commemorative, remembered. In this country, there are more things that we would rather forget than remember. The National Memorial for Peace and Justice is about remembering. And so, each pillar has the name of a county in America where a lynching has occurred, each has the names, when known, of people who were lynched in this country. 
+
+----
+
+Blocks: [{"content":{"text":"<p>On February 3, I was there with 16 members of the Freedom Reads team. We’d just experienced The Legacy Museum. And I walked onto the six acres of land that holds those hundreds of pillars thinking of all that Black people in this country are enduring. </p><p>I do not know what acres my ancestors were shackled nor where they hoofed it when freedom came. My father gave me his surname, but the eighties robbed us, or robbed him of his ability to pass on a history to me. And so, I do not know my grandfather’s given names. And so, I was not looking for them as I walked through the pillars. And so, I was humbled and distracted and distraught and I still do not understand how in five minutes I found my surname, Betts, on two pillars representing counties in Mississippi.</p><p>We all know what Faulkner said about the past. Same thing some of us said: I’m a let it go when his name is on the other side of the dirt. And we forget what Morrison said: To fly you gotta let go of all the shit holding you down. And it all comes together at the memorial, at least it did for me. The past, suddenly not the past. But returning in a way that humbled me because I was on the grounds for the work I do: inspire and bring hope to the lives of people incarcerated. And humbled because all day I’d been walking around with these two dual injustices: America’s treatment of Black folks AND the treatment of the lives of people in prison in America. And I wanted to be affirmed in recognizing all the injustice that I’d been fighting. </p><p>But my name on the pillar reminded me of a pistol in my hands. It reminded me of the lives of my friends and how we’re all reckoning with this question of what does it mean to be forgiven? What does it mean to be granted mercy in the face of the violence of your own hands. My friends and I have wanted to find some redemption or opportunity in this world despite what we’ve done. And I realized that in some way, I have more in common, or at least some very important thing in common with the people who have done the lynching: in the worst way, we need a mercy that allows possibility and not disaster to flow from accounting for what happened. And maybe that’s how you let it go, without pretending it’s a relic. And maybe this is why, at least for a moment, I walked from those pillars without weeping. </p><p>The etymology of memorial also traces it back to the Anglo-Norman, where the word was exclusively meant to mean <em>reminder</em> and the Italian where it meant <em>historical record</em>. This work, ultimately, is our reminder and our historical record. It is the evidence of why this work matters and why the lives of people on the inside matter.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"7e1c4840-d854-4ac9-96a7-6e7b3cf73a7f","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes
+
+----
+
+Published: 2024-02-29 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Founder & CEO of Freedom Reads'
+
+----
+
+Uuid: vMIbIUPZpP8YFt9W

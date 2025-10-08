@@ -1,0 +1,23 @@
+type: group
+fields:
+  featureimg:
+    label: Feature Image
+    type: files 
+    multiple: false
+  introduction:
+    type: textarea
+    buttons:
+      - italic
+      - link
+  blocks:
+    label: Story
+    type: blocks
+    fieldsets: 
+      - heading
+      - text
+      - quote-custom
+      - image
+      - video
+      - button
+      - letter
+      - audio

@@ -1,0 +1,26 @@
+title: Job listing
+icon: 👤
+status:
+  draft:
+    label: Draft
+    text: The page is still in draft mode. It can only be seen by editors with panel access.
+  listed:
+    label: Published
+    text: The page is online and listed in the site.
+columns:
+  - width: 2/3
+    fields:
+      blocks:
+        label: Description
+        type: blocks
+        fieldsets: 
+          - heading
+          - text
+        uploads: false
+
+
+
+ 
+
+
+

@@ -1,0 +1,33 @@
+Title: Founder's Take: What Matters Most
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: I remember my first holiday meal in prison. I’d just turned eighteen-years-old a few weeks before, my second of eight birthdays Inside. I was at Southampton Correctional Center in Capron, Virginia. There are still a lot of folks I remember who would have been in the chow hall that day, some I still talk to. Fats, Star, Divine, Smoke. That dinner, they served Cornish hens. I didn’t know what that was then but knew it was delicious. Later found out these hens are juvenile chickens particularly tender for eating.
+
+----
+
+Blocks: [{"content":{"text":"<p>Everything is a metaphor. We all teenagers in prison, headed to a place that was supposed to consume us. We had numbers back then too, most of us. Thirty and forty and fifty years and we were young. These days I weep for who we were.<br> <br>In a note like this, as the year ends, I feel compelled to thank people who have helped make Freedom Reads possible. And I am so tempted to make this a chorus of thank you shout outs, because I know how difficult this work is and how it is impossible without a thousand hands scraping. And still, last year this time, my friend’s mother passed and so I am thinking of him. And how when I found out I was, again, a man weeping in his hands. And my son, who was in that afterglow of Christmas, found me and held me as if I hadn’t grown beyond the years of needing to be held. Maybe we all need to be held. <br> <br>The wild thing is that a month or so later, my friend would call, after his mother had passed, after he’d been denied parole again, he would call me and ask if I was okay. Tells me that I’m taking on the losses as if they are mine. Such is this life, a call from a prison and a man tells you that the burdens that drown you ain’t yours, finding time to say that even as he struggles to stay afloat. <br> <br>It’s like the man incarcerated in Missouri, I think it was, who sent us the last thousand dollars in his account. Or the woman in California who, way back in January, sent us the equivalent of a month’s check in prison. It has become too easy for me to imagine that this work is about giving to others, when the truth is it has been filled with people giving to Freedom Reads.<br> <br>Sometimes what they give us is word about why this work we do has mattered to them. Everyone should hear from the folks that we walk into prisons to bring Freedom Libraries. Here is a small bit of what we’ve been told:<br> <br>From two anonymous incarcerated judges from the 2024 <u><a href=\"/@/page/6nYETdhtoF90VHYn\" target=\"_blank\" title=\"Inside Literary Prize\">Inside Literary Prize</a></u>:<br> <br>One speaking of the winning book, Imani Perry’s <em>South to America</em>: \"<em>The man in Imani's book that had 3 life sentences. It was her father. The way he handled his incarceration was inspirational. When I'm discouraged I think about him and I'm inspired to take one more step in the right direction because even if no one sees it, it has value and it must count.</em>\"<br> <br>Another comment on being a judge: \"<em>This experience is something that I will never forget. Especially the staff and how they made me feel, like a regular human being. I'm grateful for the experience as a whole. I feel like I really needed you guys and the whole 'Freedom Reads' at that moment in my life.</em>\"<br> <br>And this from a library patron in Connecticut: \"<em>I appreciate what you’re doing for prisoners across America. I’ve been thinking a lot about when I’m released that I want to volunteer some of my time, to give back since I’ve taken so much in my life….can I volunteer for your organization? What you’re doing matters! </em>\"<br> <br>And I think, now, what of it all? I write this on the winter solstice. This has fast become my favorite day of the year. The shortest day of the year – a reminder, I think, that all of this is fleeting. It all happens so fast. Maybe that Cornish hen wasn’t a metaphor for what we might become – maybe that day, all of us too young to imagine how much we might suffer, shared the kind of joy that would become all we needed to get us to our tomorrows. And what is Freedom Library if not that?</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"c238c3c6-36ef-4709-bb05-fe6941b6fd2b","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes, Inside Literary Prize
+
+----
+
+Published: 2024-12-23 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Freedom Reads Founder & CEO'
+
+----
+
+Uuid: UlPdIGT4mPVU8dpl

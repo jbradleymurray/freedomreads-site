@@ -1,0 +1,44 @@
+Title: Freedom Libraries Open at Maryland Youth and Adult Detention and Correctional Facilities
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: National non-profit Freedom Reads opens Freedom Libraries at Cheltenham Youth Detention Center, the Charles H. Hickey Jr. School, and Dorsey Run Correctional Facility; literary performances presented at three youth detention facilities
+
+----
+
+Blocks: [{"content":{"text":"<p>The national non-profit <a href=\"https://freedomreads.org/\" target=\"_blank\">Freedom Reads</a> announced today the opening of 14 Freedom Libraries across three detention and correctional facilities in Maryland. On February 8th, six libraries were opened in <a href=\"https://djs.maryland.gov/Pages/facilities/Cheltenham-Youth-Detention-Center.aspx\" target=\"_blank\">Cheltenham Youth Detention Center</a>, a juvenile correctional facility in Cheltenham, MD. Today, Freedom Reads is opening four Freedom Libraries at the <a href=\"https://djs.maryland.gov/Pages/facilities/Charles-H-Hickey-Jr-School.aspx\" target=\"_blank\">Charles H. Hickey, Jr. School</a> in Parkville, MD, and returning to <a href=\"https://www.dpscs.state.md.us/locations/drc.shtml\" target=\"_blank\">Dorsey Run Correctional Facility</a>, in Jessup, MD, to open four additional Freedom Libraries. Freedom Reads previously opened four libraries at Dorsey Run Correctional Facility in June 2023. The libraries are opened in each of the facilities' cellblocks to enable unfettered access to the curated collection.</p><p>In addition to the opening of the Freedom Libraries, yesterday Freedom Reads’ partner organization <a href=\"https://literaturetolife.org/\" target=\"_blank\">Literature to Life</a> gave a performance of <a href=\"https://literaturetolife.org/the-giver#:~:text=-%20The%20Giver%20by%20Lois%20Lowry&amp;text=Told%20with%20deceptive%20simplicity%2C%20this,their%20most%20deeply%20held%20beliefs\" target=\"_blank\"><em>The Giver</em></a>, adapted from Lois Lowry’s Newbery-Award winning and bestselling novel, at Cheltenham Youth Detention Center. Today, Literature to Life is giving two more performances, one at the <a href=\"https://djs.maryland.gov/Pages/facilities/Baltimore-City-Juvenile-Justice-Center.aspx\" target=\"_blank\">Baltimore City Juvenile Justice Center</a>, where Freedom Reads opened eleven Freedom Libraries in June 2023, and another at the Charles H. Hickey Jr., School.</p><p>“With the opening of these Freedom Libraries, we aim to build community spaces where adults and kids who are incarcerated can find beauty, imagine new possibilities, and envision what their lives could look like outside of prison walls,” said Reginald Dwayne Betts, Founder &amp; CEO of Freedom Reads. “We are grateful the Maryland Department of Public Safety and Correctional Services and the Maryland Department of Juvenile Services share our goal of creating opportunities for daily engagement with literature and a space in prison for reading, community, and imagination.”</p><p>“Last year, when Freedom Reads installed libraries at the Baltimore City Juvenile Justice Center, I witnessed a group of kids with various interests who immediately became engaged with the new books on their unit,” said Department of Juvenile Services Secretary Vincent N. Schiraldi. “The libraries that are installed open up new possibilities and a different path for each youth. Research shows that the more books a teenager is surrounded by increases the amount of time a youth will read. In turn, the more a student reads equates to lower stress levels and higher accomplishments in life.”</p><p>“The Department is thankful for this wonderful partnership with Freedom Reads, which allows us to fulfill our mission of increasing programs and services to help returning citizens successfully re-enter society,” said Maryland Department of Public Safety and Correctional Services Secretary Carolyn J. Scruggs.</p><p>Freedom Libraries, the brainchild of 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts, who was sentenced to nine years in prison at age 16, are spaces in prisons to encourage the full realization of self. The libraries are handcrafted out of wood and curved to contrast the straight lines and bars of prisons as well as to evoke Dr. Martin Luther King, Jr.’s observation about the “arc of the universe” bending “toward justice.” Centering beauty and dignity, Freedom Libraries seek to create a space in prisons to encourage community and the exploration of new possibilities.</p><p>Betts’ nonprofit is a first-of-its-kind organization that empowers people through literature to confront what prison does to the spirit. Books in the Freedom Library have been carefully curated through consultations with thousands of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved but indispensable. The libraries include contemporary poets, novelists, and essayists, alongside classic works from Homer’s <em>The Odyssey</em> to the <em>Narrative of the Life of Frederick Douglass</em>, that remind us that the book has long been a freedom project.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"e34af4a0-4993-46c0-930b-5473a487ddb6","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Openings, Freedom Library
+
+----
+
+Published: 2024-02-09 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Ivan Dominguez
+  position: 'Chief Communications Officer & Director of Development'
+  organization: Freedom Reads
+  email: ivan@freedomreads.org
+  phone: ""
+
+----
+
+Posted: https://www.newswire.com/news/freedom-libraries-open-at-maryland-youth-and-adult-detention-and-22240311?_gl=1*17l9746*_ga*Nzc1OTY5OTAyLjE3MDU1ODQ3MjM.*_ga_MX6T5V36WQ*MTcwNzQ5MDkzOC41LjEuMTcwNzQ5MDkzOC42MC4wLjA
+
+----
+
+Uuid: L2LCpOjeIYicWQR7

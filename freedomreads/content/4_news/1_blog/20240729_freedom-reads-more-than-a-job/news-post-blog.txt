@@ -1,0 +1,35 @@
+Title: Freedom Reads: More than a Job
+
+----
+
+Featureimg: - file://tUIYBo8Vk6uSqxvq
+
+----
+
+Introduction: The role I play here at Freedom Reads gives me the ability to see both the front-end and the back-end results of the great work we do at Freedom Reads. My primary job is to make sure the handcrafted furniture we create here at Freedom Reads Headquarters in Connecticut is put together properly, and we build enough units each day to meet the demand of our efforts to place these Freedom Libraries into cellblocks at correctional facilities all over the country. 
+
+----
+
+Blocks: [{"content":{"text":"<p>On the front-end: I get to see our team sand, build, and stain each piece and the pride that Mike, Jimmy, and Luke take in the work they do here. To have formally incarcerated men and women come here to learn a trade and take part in something so meaningful and build a life for themselves and their families – for me, it is simply awesome to witness day in and day out. </p><p>Then, on the back end, I travel the country helping to open our Freedom Libraries in both adult and youth prisons.</p><p>During these opening events, I get to witness the gratitude of the incarcerated individuals who are the beneficiaries of all the work we do, all the money our amazing funders provide, and the collection of 500 new books to their cellblocks. </p><p>To see grown men, men in a prison no less, shed tears of joy, and express profound appreciation is, in a word, amazing. </p><p>I have seen grown men go from wanting to do violence to gratitude in 21 minutes – because of literature. </p><p>In Otisville, New York, the men in a particular cellblock were not happy that our Freedom Library was to be placed right where their table was set up in their day room. I explained we were there to donate a library of 500 new books, but they were still very resistant and did not want us there (it is their residence after all, and just like anyone who has uninvited people enter their property, yard, or even house, these men did not like us walking into their space).   </p><p>After convincing them to give me a break, they relented and allowed me to start working. </p><p>21 minutes later, the bookcases were in place, and we started opening the boxes of new books. The same men, who just minutes ago were ready for confrontation, were now hugging us (the Freedom Reads team) that were there in the cellblock.  </p><p>Yes, there were tears, and yes, it was incredible. </p><p>To see men, some with violent histories and crimes, travel emotionally from anger and mistrust to elation and gratitude in under 21 minutes was astounding and a testament to Freedom Reads and why we do what we do. It is the power of literature. </p><p>For many of us here at Freedom Reads, this is far beyond a job, a career even. It is a calling. </p><p>It is about several of us coming together under Dwayne Betts, building an organization to take his dream of putting books into every cellblock at every prison in America and making it happen. </p><p>It is about our donors, and the magic we get to do because of their belief in the importance of what we are doing. </p><p>It is about men and women who come here to build with us, to learn a trade and prosper. To play a role again with their family and in their community.</p><p>And of course, it is about the men and women in the facilities who are right now reading a great piece of literature from the Freedom Library. All of us – the donors, the staff at Freedom Reads, our interns, and partners – we all know the importance of the work being done here and are blessed to see it take root and continue to grow. </p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"cd5ec2a6-a3af-4325-ba79-6f330aeff766","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Freedom Library
+
+----
+
+Published: 2024-07-29 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Kevin Baker
+  authoraffiliation: >
+    Library Production Manager at Freedom
+    Reads
+
+----
+
+Uuid: 8hNehvHkO9YakIRN

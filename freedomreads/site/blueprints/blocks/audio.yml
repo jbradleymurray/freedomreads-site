@@ -1,0 +1,22 @@
+name: Audio
+icon: file-audio
+label: "Excerpt from {{speaker}}"
+fields:
+  soundfile:
+    type: files
+    template: file-audio
+    multiple: false
+  quote:
+    type: writer
+    inline: true
+    marks:
+      - italic
+  speaker:
+    type: text
+  playspeed:
+    label: Speed
+    type: range
+    min: 1
+    max: 10
+    default: 5
+    help: 1—slow, 10-fast

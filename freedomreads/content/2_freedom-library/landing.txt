@@ -1,0 +1,28 @@
+Title: Freedom Library
+
+----
+
+Hero: - file://OXYzntGD6yJTCXVX
+
+----
+
+Herotext: A public library<br>like no other.
+
+----
+
+Introduction: We place Freedom Libraries in the center of prison cellblocks where they become a locus of conversation and community. Freedom Libraries are objects of beauty, handcrafted by teams that include people who’ve served time in prison.
+
+----
+
+Blocks: [{"content":{"text":"<p>19 months after being released from St. Brides Correctional Center, after being locked up for 24 years, Terrell “Star” Kelly drove Freedom Reads Founder and CEO Reginald Dwayne Betts back to that Chesapeake prison. This time, they were invited guests set to open 12 libraries at the prison and 12 libraries at the neighboring Indian Creek Correctional Center. Joining them was Dwayne’s co-defendant Marcus Bullock, who, with Dwayne, was convicted of carjacking when he was only 15 years old. Marcus drove down from Maryland, leaving his house at 4:00 a.m. to get to the prison where he too spent time. The last time any of them had woken that early to enter a prison they were in handcuffs.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"8a39f3e0-cf97-42ae-9400-f31af92accb9","isHidden":false,"type":"text"},{"content":{"image":["file://NsqMRVgP13wb8W6S"],"layout":"contentwidth","sidebar":"true","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"Read More","external":null,"link":"page://DCNPjG4J381fqATS"},"id":"23bff2c9-ee40-48cc-8daf-e4e07b170c37","isHidden":false,"type":"image"},{"content":{"text":"<p>On that spring day, these men and others who spent time Inside, carried hundreds of pounds of beautiful reclaimed wood, fabricated into bookcases, and the boxes of books that would be shelved on them, into the prison. The feeling of being back Inside was decidedly different, marked by the excitement in the eyes and posture of those still Inside who saw the beauty in the idea that men who were locked up at this place would come back bringing joy and hope and the beginnings of conversations that will continue.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"3d2fb6c3-86a4-4749-a365-82df03eb656f","isHidden":false,"type":"text"},{"content":{"image":["file://KA7YxivUhFIuDFNL"],"layout":"contentwidth","sidebar":"true","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"Read More","external":false,"link":"page://Bw5SBllGM9OQzeJ3"},"id":"5b237e83-6ee9-4078-8eb5-5b3b54ecd9b5","isHidden":false,"type":"image"},{"content":{"text":"<p>At one point, Dwayne was standing in the yard, next to the truck carrying the bookcases, when a man wearing a yellow jumpsuit (usually indicating that he was recently locked up), asked “Are you with the group bringing the libraries in here? I got this book from the library today,” and held up <em>A Question of Freedom</em>. “Man, they told me this is that guy’s project and he's here today.” Dwayne told him, “yes, that’s my book and I am that guy.” Then the officers rushed him along for whatever reason.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"bdb01540-de32-4aaa-a1a7-4e4f0dbe428f","isHidden":false,"type":"text"},{"content":{"image":["file://dg1RoedY2x2Dki8P"],"layout":"contentwidth","sidebar":"true","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"Read More","external":false,"link":"page://0N1MM35y5ON0GM8m"},"id":"11b0f0ff-16a4-4112-a3a3-4ecebd047e64","isHidden":false,"type":"image"},{"content":{"text":"<p>Poets and writers and readers inside prisons struggle not only with access to books — the libraries that already exist within prisons have limited hours, limit the number of people who can use them, and often lack recent publications — but usually don’t have people to talk with about their ideas. They not only lack community with the world of writers and poets outside prison walls, too often they lack community with one another. Freedom Reads works to change that culture by showing up, opening Freedom Libraries in cellblocks, providing natural beauty, new books, and a world of possibilities. Freedom Libraries not only provide opportunities for transforming communities, but act as a public acknowledgment that serving time should not demand you disappear.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"c7a965e8-bfb7-40d8-9b21-6636d8e8c207","isHidden":false,"type":"text"},{"content":{"text":"Reading is a transformative, dignity-affirming act that reveals who we are to ourselves and strengthens our shared humanity. The knowledge, critical thinking, and imagination found in books enable us to envision freedom and possibility.","citation":"Elizabeth Alexander, President of the Mellon Foundation","inline":"false","image":[],"sidebar":"true","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"Read More","external":null,"link":"page://hxvjS0G4GhQXhsZd"},"id":"012fbf22-c548-4ca0-a002-579a60b42546","isHidden":false,"type":"quote-custom"}]
+
+----
+
+Files:
+
+- file://cS7mDG7ENFPkWuWF
+- file://hUmYClYa0wxqZpqB
+
+----
+
+Uuid: mJ4Opjag77cTpWgy

@@ -1,0 +1,33 @@
+Title: Behind the Scenes of the Inside Literary Prize: A Journey of Books, Freedom, and Connection
+
+----
+
+Featureimg: - file://20aOesEjj2IuOUeQ
+
+----
+
+Introduction: This year, something extraordinary happened. A group of ten individuals from all across the country came together to decide the shortlisted titles for the Inside Literary Prize 2025. But here’s the thing—this wasn’t just any group of book lovers. Our Selection Committee was a unique blend of people from the Inside: prison librarians, formerly incarcerated folks, and the incredible members of the Freedom Reads team (yes, yours truly included). Together, we embarked on a two-month journey that was far more than just reading—it was about connection, reflection, and reclaiming the power of stories.
+
+----
+
+Blocks: [{"content":{"text":"<p>In two months, we read over ten titles—ten phenomenal books that took us places we never expected. I could go on and tell you all about where these books took us, but let’s be real…no spoilers here. But trust me, these books challenged us in ways that made us question, reflect, and dig deeper than we ever thought possible. Some of these books pushed us to think about concepts both strange and familiar, making us confront our own realities, histories, and identities. And as we flipped through page after page, we realized we weren’t just reading—we were evolving.</p><p>There were moments when books made us yearn for the simple comfort of speaking to our mothers or fathers. In the stories of these books, we saw our parents as humans, with their own struggles, hopes, and dreams—reminding us of the shared humanity we sometimes forget exists between the lines. We talked about how parts of our own identities sometimes felt just out of reach, thanks to the forces that tried to erase us—censorship, violence, intergenerational trauma, and colonialism. And yet, with every turn of the page, we also discovered how much we could fight back, reclaim, and reshape our narratives.</p><p>Here’s where it gets real: these weren’t just intellectual debates or literary discussions. We were tasked with one big question: which of these ten books were worthy of the world’s attention? What four books could make the biggest impact, not just on us, but on anyone who read them? This wasn’t just about what we wanted to read—it was about what the world needed to read.</p><p>Now, imagine coordinating these discussions. Picture this: multiple correctional facilities on the line, with folks dialing in from different corners of the nation, using 15-minute phone intervals (you know, the kind where the receiver beeps every minute, and Ms. Securus is eager to remind you that “You have one minute left”). These calls, these Zoom sessions, weren’t just about picking books; they were about holding space for each other, even when technology (and sometimes time itself) worked against us.</p><p>But, despite the beeping, the interruptions, the struggles, and the technical challenges, we pushed through. And in the end, we realized that this committee was about more than just narrowing down a list of books. It was about using literature to connect, heal, and challenge one another. It was about going beyond our comfort zones, pushing each other to think critically, and making sure that the books we selected had the power to resonate with readers everywhere.</p><p>What’s the result of all this effort? A list of four books. Four books that aren’t just stories; they’re windows into different lives, perspectives, and worlds. Four books that we believe everyone, everywhere, should read. Books that are challenging, thought-provoking, and deeply human. Books that will take you on journeys you never expected.</p><p>As we move forward in the process for the 2025 Inside Literary Prize, we just want to take a moment to recognize the hard work, dedication, and heart of the Selection Committee. These are the folks who not only read, debated, and discussed—they connected across barriers and demonstrated the true power of literature.</p><p>And trust me, if you come across these books on the shelves, you won’t want to miss them.</p><p>Sending light to you and yours, </p><p>David Perez DeHoyos</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"6f3b9e70-6240-466e-a3be-8c3e900e5c95","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Inside Literary Prize, Showing Up
+
+----
+
+Published: 2025-01-29 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: David Perez DeHoyos
+  authoraffiliation: Library Coordinator at Freedom Reads
+
+----
+
+Uuid: 3Cwx3ChBu35Ipu4u

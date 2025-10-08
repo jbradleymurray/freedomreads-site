@@ -1,0 +1,33 @@
+Title: Founder's Take: The Most Important Freedom
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: This is what David Foster Wallace says – the only choice we get is what we worship. And for many years, I have worshipped a Janus-Faced G-d. The G-d of Silence and the G-d of Discontent. I've probably worshipped other g-ds as well, maybe we all have. But these days I think a lot about silence and discontent. It's wild, too, in a way, as someone recently said to me, Dwayne, I'm surprised you complain about anything, look at how charmed your life is.
+
+----
+
+Blocks: [{"content":{"text":"<p>And in a way, they are right. Though, I confess, I cannot stop thinking of the ways that people looked at me, just four years ago: felony convictions, rumored to be incapable of getting a real job. I remember how people looked at me when I got to Yale. Wondered if I belonged. Even after law school, I barely became an attorney. I also failed the bar once. Feared I'd fail it again.<br> <br>And I've always been a felon.<br> <br>I've never run anything in my life before Freedom Reads. Never. <br> <br>And yet here we are. And I often wonder how we got here, how we are here still. The only choice we get is <em>what</em> we worship. <br> <br>In this life I've learned, I guess, that picking up a gun as a teenager and demanding everything someone else owned means if I am to worship, one of the things I must believe is worthy of paying attention to is my own need for forgiveness and mercy. And if worship is to pay attention, this is what I do. <br> <br>I think about culture a lot. Organizational culture. What it means to build a team that leads with an understanding that we can easily not be here, doing this work. <br> <br>One of the reasons I've never had a job in this life is because I was fired from my first job. I worked in a prison kitchen. I'd gotten bullied a bit and found myself wanting to get fired to avoid hurting someone. Then I got fired and sent to the hole. Prison taught me to get along. Taught me that we can be the catalyst for anything we want to be in this world. <br> <br>I was once the catalyst for so much suffering. Then, I got older, and was again the catalyst for more suffering. Funny thing is that the first time I wanted to be forgiven because I thought I was too stupid or young to realize the person didn't deserve to suffer so and that I had no right to make them; now, being older, mostly I regret all the times I thought <em>someone deserved to suffer and I was here to make them</em>.<br> <br>These days, I am reminded that I am here because of so many times I have been forgiven. And I'm sad, quite sad, that I've been forgiven in this world far more times than I've forgiven. It's the kind of thing that makes a good person weep, I suppose. <br> <br>Wallace also says: The really important kind of freedom involves attention, and awareness, and discipline, and effort, and being able truly to care about other people and to sacrifice for them, over and over, in myriad petty little unsexy ways, every day. <br> <br>And I'll add: the most important freedom involves doing this and knowing that the prerequisite for mercy, for joy, for abundance, for giving those things in the way that you see lovely, is not that the person deserves it. Shit, it is that you are a human being who deserves the joy that comes from remembering one day you'll need grace.<br> <br>But what do I know? I think DFW knew a bit. He was wrong about Andre Agassi though. I wish he'd found that out. Sometimes it takes a person time to figure out who they should be in the world. And I sure hope someone doesn't decide who I am before I get a chance to be it.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"5cae0841-022d-4b59-93fe-5672003b9fec","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes
+
+----
+
+Published: 2024-10-01 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Freedom Reads Founder & CEO'
+
+----
+
+Uuid: BSTgMzglJZjnZTPh

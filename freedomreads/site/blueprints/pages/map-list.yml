@@ -1,0 +1,14 @@
+title: Library Database
+sections:
+	drafts:
+		extends: sections/map-items
+		status: draft
+	published:
+		extends: sections/map-items
+		status: listed
+	content:
+		type: fields
+		fields:
+			bookcount:
+				label: Number of Books
+				type: text

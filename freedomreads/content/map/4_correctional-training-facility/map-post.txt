@@ -1,0 +1,35 @@
+Title: Correctional Training Facility
+
+----
+
+Prisonlocation:
+
+lat: 36.47162765
+lon: "-121.3827888639"
+city: Soledad
+region: California
+country: United States
+countryCode: us
+postcode: "93960"
+address: Winding Way
+osm: 361284421
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 24
+
+----
+
+Libraryimg: - file://yiLMoO3IJ8uFzVHP
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: M8FLPpnAYBtWl4pA

@@ -1,0 +1,16 @@
+title: Newsletter
+num: '{{ page.published.toDate("Ymd") }}'
+columns:
+  - width: 2/3
+    fields:
+      content: sections/basic-page
+  - width: 1/3
+    sections:
+      content:
+        type: fields
+        fields:
+          content: sections/meta
+      files:
+        label: Images on this page
+        type: files
+        query: page.images

@@ -1,0 +1,36 @@
+Title: Louisiana Correctional Institute for Women
+
+----
+
+Prisonlocation:
+
+lat: 30.58487345
+lon: '-91.205074592444'
+number: "1500"
+city: Baker
+region: Louisiana
+country: United States
+countryCode: us
+postcode: "70714"
+address: Old Scenic Highway
+osm: 1086276753
+
+----
+
+Prisontype: Women’s
+
+----
+
+Librarycount: 2
+
+----
+
+Libraryimg: 
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: PSqJRl8Mfqgi5jNa

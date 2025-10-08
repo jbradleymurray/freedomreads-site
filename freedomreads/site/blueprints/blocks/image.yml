@@ -1,0 +1,32 @@
+name: field.blocks.image.name
+icon: image
+preview: image
+fields:
+  image:
+    label: field.blocks.image.name
+    type: files
+    layout: cards
+    size: large
+    multiple: false
+    width: 1/1
+    accept: 
+      extension: jpg, png, jpeg, webp
+  layout:
+    type: radio
+    label: Layout
+    width: 1/2
+    default: contentwidth
+    options:
+      contentwidth: Text Width
+      fullwidth: Full Width
+    help: Note, setting up a sidebar will overridefull-width image.
+    required: true
+  sidebar:
+    type: toggle
+    when:
+      layout: contentwidth
+  sidebarfields:
+    type: group
+    when:
+      sidebar: true
+    extends: sections/sidebar-fields

@@ -1,0 +1,33 @@
+Title: Founder's Take: 1 to 500 (and Counting!)
+
+----
+
+Featureimg: - file://ARRgsRNLgBya9MuB
+
+----
+
+Introduction: During the fall of 2021, I drove down a stretch of highway headed towards MCI-Norfolk, a prison in Massachusetts made famous in part by the years that Malcolm X and other prisoners incarcerated there did their thing on a debate team that battled the likes of Harvard and other elite institutions. I was headed there with my Freedom Reads’ team to open our first Freedom Library. It’s a wondrous thing to do something for the first time, and on that morning, having ridden for two hours in the passenger seat, an open laptop as I wrote about the late Michael K Williams, I struggled with the juxtaposition I’ve lived with since handcuffs first graced my wrists: the possibility and potential of Black men and all the public ways we often die too soon. Williams once told me that his dream was to build a center where young folks who were like he once was, desiring more than the violence and poverty around them, could actively envision better tomorrows and learn dance and acting and what it means to be safe. That is part of my dream for the Freedom Library.
+
+----
+
+Blocks: [{"content":{"text":"<p>At MCI-Norfolk, I thought that one Freedom Library meant we’d done the thing. That is, until a brother wrote us and asked “what about the rest of us?” That one question humbled me and changed Freedom Reads mission. No longer one Freedom Library in each of a thousand prisons. With that letter, it became one Freedom Library for each of the 20,000 cellblocks that exist in this country. Why not confront what sometimes feels like an overwhelming impulse to be punitive with an overwhelming impulse to be generous? </p><p>And it’s humbling to think of what the Freedom Reads team just did: returned to York Correctional Institution, the women’s prison in Connecticut. This was the first prison where we opened a Freedom Library on every cellblock back in 2023. The women there at first wondered why we showed up. Some wondered who facilitated the beautiful curved bookcases and brand new books that we carried with us. I heard a story of  how a correctional officer’s entire demeanor changed when he was given an Anthony Bourdain book and I remembered how all of us just desire to be seen. And realized we needed to bring a Freedom Library for staff at every prison as well. The prison let us know they opened two additional cellblocks and needed two more Freedom Libraries.  And we returned with our 500th Freedom Library that the entire Freedom Reads team built together. I must say, though we’ve built 500 of these, that was the first that I’d put together, reinforcing for me that our work is a team effort.  And you too are part of the Freedom Reads team.</p><p>There is always more to do, is what this life has taught me. And there is always help needed to do what must be done. Your support helped us keep the promise we made to the men at MCI Norfolk. The promise we fulfilled first at York when we opened a Freedom Library on every cellblock and then again this month when we returned because more were needed. Donate today and help us get that Freedom Library on every cellblock in every prison in this country. What is a movement if not just regular people saying that we believe hope and possibility is as essential as air, and that freedom begins with a book.<strong>Reginald Dwayne Betts</strong><br>Freedom Reads Founder &amp; CEO</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"a46518e8-3d67-4b8e-8cdb-b806c8dae6ba","isHidden":false,"type":"text"},{"content":{"buttontext":"Donate","external":"false","link":"page://tVVrSfjy1VOgr8nU"},"id":"6cdb223a-01ab-488e-b737-d72f4ba1f1cf","isHidden":false,"type":"button"}]
+
+----
+
+Newstags: Founder's Takes, Freedom Library
+
+----
+
+Published: 2025-08-28 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Founder & CEO, Freedom Reads'
+
+----
+
+Uuid: flZWvRPl2M1uEmad

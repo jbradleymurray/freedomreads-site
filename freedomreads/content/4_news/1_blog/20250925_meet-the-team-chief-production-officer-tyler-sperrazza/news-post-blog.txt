@@ -1,0 +1,29 @@
+Title: Meet The Team: Chief Production Officer, Tyler Sperrazza
+
+----
+
+Featureimg: - file://wrNVxkJz6rj4e4wV
+
+----
+
+Introduction: At Freedom Reads, no two days look alike—and no one knows that better than Tyler Sperrazza, Chief of Production Officer of Library Division. Tyler is at the heart of the work that brings Freedom Libraries into prisons across the country.
+
+----
+
+Blocks: [{"content":{"text":"“I wouldn’t call any day at Freedom Reads typical and that’s one of the reasons I love this work so much.”","citation":"","inline":"false","image":[],"sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"23e596c3-4cff-4b83-81ba-e132f7254b9f","isHidden":false,"type":"quote-custom"},{"content":{"text":"<p>On any given day, Tyler might be working with members of the library team to plan a Freedom Library opening, meeting with Departments of Corrections to get their agreement to bring libraries and programs into prisons, or dreaming up ways to deepen engagement with the thousands of people who encounter Freedom Libraries inside. His role is as much about building pathways for new ideas as it is about rolling up his sleeves to make them happen.</p><p>Sometimes that even means shifting gears entirely. “There are days when I take off my Chief of Library Division hat and put on my Production Stage Manager or Technical Director hat,” Tyler explains. That might look like drafting a lighting design or setting up a rehearsal room for Reginald Dwayne Betts’s solo performance of <em>Felon: An American Washi Tale</em>. “My days run the gamut,” he adds. “It’s the most creative work I’ve ever been lucky enough to do.”</p><p>Tyler has been with Freedom Reads since the beginning—back when the team could fit inside a single office and relied on two storage units packed with books. He’s seen the organization grow from its first library opening to the 500th, celebrated in August 2025. That journey, he says, is what keeps him motivated every day.</p><p>“Seeing the first library opened to being there in August for our 500th—it was truly humbling,” Tyler reflects. “But what makes me want to do the work every day is the chance to walk into prisons throughout the country and meet the men, women, and children that so much of society has decided are worth forgetting. We talk a lot at Freedom Reads about making the boundary between inside and outside more porous. The best days are the ones where I get to be an example of that porousness.”</p><p>Outside of Freedom Reads, Tyler recently relocated to New Hampshire, where he’s beginning to put down new roots. A longtime advocate in LGBTQIA+ spaces, he spends much of his time collaborating with nonprofits that support and serve queer communities.</p><p>“I think any time I relocate, it takes a little while to find your footing in a new community,” Tyler says. “But one thing that always remains constant is the importance of creating spaces where people feel safe, seen, and supported.”</p><p>From inside a prison cellblock to the heart of a local community, Tyler’s work is all about building those spaces—and reminding us that freedom begins with connection.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"206b1de8-8b14-4ce2-ac76-5ebac73d4200","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Freedom Library, Openings
+
+----
+
+Published: 2025-09-25 00:00:00
+
+----
+
+Author: 
+
+----
+
+Uuid: XiazVkUToiqglmg3

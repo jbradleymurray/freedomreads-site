@@ -1,0 +1,44 @@
+Title: Freedom Reads Opens Freedom Libraries in Colorado Prison
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: National non-profit Freedom Reads returns to Arkansas Valley Correctional Facility, home of one of the first Freedom Libraries
+
+----
+
+Blocks: [{"content":{"text":"<p>The national non-profit <a href=\"https://freedomreads.org/\" title=\"Freedom Reads\">Freedom Read</a><a href=\"https://freedomreads.app.neoncrm.com/track//servlet/DisplayLink?orgId=freedomreads&amp;emailId=954e0321b4ca48e0aa3e445eaca8df7f9m72888954&amp;&amp;linkId=46753&amp;targetUrl=https://freedomreads.org/\" target=\"_blank\" title=\"Freedom Reads\">s</a> announced today that it has opened an additional 18 Freedom Libraries at Arkansas Valley Correctional Facility in Ordway, Colorado, including one for staff. Freedom Reads opened its first Freedom Library at Arkansas Valley in June 2022. With these new openings, every incarcerated individual and staff member at Arkansas Valley has access to a Freedom Library. As of today, Freedom Reads has opened 303 Freedom Libraries across 37 adult and youth prisons in 10 states.</p><p>“We are thrilled to return to Colorado, one of the first states in the nation to welcome a Freedom Reads Freedom Library into a state prison,” said Freedom Reads Founder &amp; CEO Reginald Dwayne Betts. “And we are so grateful to the Colorado Department of Corrections and the Arkansas Valley Correctional Facility for partnering with Freedom Reads. After the first Freedom Library opened here in 2022, Arkansas Valley Warden Mark Fairbairn said to me ‘Let me show you why we need 17 more Freedom Libraries.’ Today, we are fulfilling the commitment we made that day to Warden Fairbairn and to all the men incarcerated at Arkansas Valley Correctional Facility.”</p><p>\"The opening of 18 new Freedom Reads libraries at Arkansas Valley Correctional Facility (AVCF) offers incarcerated individuals valuable opportunities to enhance their reading skills, social abilities, and literacy development. These libraries provide an additional avenue within their living unit for incarcerated individuals to pursue their aspirations and personal growth,” said Mark Fairbairn, Deputy Director of Prisons, Colorado Department of Corrections.</p><p>The Freedom Libraries, the brainchild of 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts, who was sentenced in Virginia to nine years in prison at age 16, are spaces in prisons to encourage community and in which reaching for a book can be as spontaneous as human curiosity. Each bookcase is handcrafted out of maple, walnut or cherry and is curved to contrast the straight lines and bars of prisons as well as to evoke Dr. Martin Luther King, Jr.'s observation about the “arc of the universe” bending “toward justice.”</p><p>Freedom Reads is a first-of-its-kind organization that empowers people in prison through literature to imagine new possibilities for their lives. Books in the Freedom Library have been carefully curated through consultations with hundreds of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved, but indispensable. The libraries include contemporary poets, novelists, and essayists alongside classic works from Homer's <em>The Odyssey</em> to the <em>Narrative of the Life of Frederick Douglass</em> – titles that remind us that the book has long been a freedom project.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"059773e7-ac37-48ad-bf7c-63512fa13f7f","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Openings, Freedom Library
+
+----
+
+Published: 2024-04-04 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Ivan Dominguez
+  position: 'Chief Communications Officer & Director of Development'
+  organization: Freedom Reads
+  email: ivan@freedomreads.org
+  phone: ""
+
+----
+
+Posted: https://api.neonemails.com/emails/content/fL40cQwLv_YWZ_nt1pCk1B-TqaOjtR4v6Um4dQCZgAM=
+
+----
+
+Uuid: 4CpklSGZnrojjAnC

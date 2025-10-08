@@ -1,0 +1,36 @@
+Title: Buckingham Correctional Center
+
+----
+
+Prisonlocation:
+
+lat: 37.56669575
+lon: "-78.474375834602"
+number: "1349"
+city: Dillwyn
+region: Virginia
+country: United States
+countryCode: us
+postcode: "23936"
+address: Correctional Center Road
+osm: 397721063
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 18
+
+----
+
+Libraryimg: - file://v1Yd6A7xELOAYGYo
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: 8aFEymO4FyUAxELU

@@ -1,0 +1,36 @@
+Title: Dixon Correctional Institute
+
+----
+
+Prisonlocation:
+
+lat: 30.8128145
+lon: "-91.208477513819"
+number: "5568"
+city: Jackson
+region: Louisiana
+country: United States
+countryCode: us
+postcode: "70748"
+address: LA 68
+osm: 461702932
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 2
+
+----
+
+Libraryimg: - file://Tr6PdFa5PzKTKYfK
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: 1tnfUSNslPcklGgE

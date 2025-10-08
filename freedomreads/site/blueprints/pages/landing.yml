@@ -1,0 +1,56 @@
+title: Landing Page
+icon: 
+status:
+	draft:
+		label: Draft
+		text: The page is still in draft mode. It can only be seen by editors with panel access.
+	listed:
+		label: Published
+		text: The page is online and listed in the site.
+columns:
+	- width: 2/3
+		sections:
+			content:
+				type: fields
+				fields:
+					hero:
+						label: Hero Image
+						type: files
+						multiple: false
+					herotext:
+					  label: Hero Text
+					  type: text
+					introduction:
+						required: true
+						type: textarea
+						buttons:
+							- italic
+							- link
+					blocks:
+						label: Story
+						type: blocks
+						fieldsets: 
+							- heading 
+							- text
+							- quote-custom
+							- video
+							- image
+							- gallery
+	- width: 1/3
+		sections:
+			pagelist:
+        headline: {{page.title}} Sections
+        type: pages
+        parent: page
+        status: all
+			files:
+				label: All Images On This Page
+				type: files 
+				
+	 
+		
+
+ 
+
+
+

@@ -1,0 +1,36 @@
+Title: Mid-State Correctional Facility
+
+----
+
+Prisonlocation:
+
+lat: 43.1686138
+lon: "-75.297726045912"
+number: "9005"
+city: Town of Marcy
+region: New York
+country: United States
+countryCode: us
+postcode: "13403"
+address: NY 291
+osm: 136665264
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 4
+
+----
+
+Libraryimg: - file://I5LcsEC7sJt95XRK
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: uDGXapm5dUwW3rWm

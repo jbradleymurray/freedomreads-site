@@ -1,0 +1,33 @@
+Title: Founder’s Take: March Forth
+
+----
+
+Featureimg: - file://mZRbEOxuN6yGTAY5
+
+----
+
+Introduction: I came home from prison on March 4, 2005. March forth: the only date in the calendar that is also a command. This time of year makes me think all the more sharply of my friends still inside, not yet getting to act out that imperative. Freedom Reads will mark the date this year with a (virtual) celebration of our Freedom Library’s curation.
+
+----
+
+Blocks: [{"content":{"text":"<p>Meanwhile, the world of Freedom Reads continues to spin fast. In the months since December we have launched our website, continued to produce our podcast <u><a href=\"https://the-freedom-takes.simplecast.com/\" target=\"_blank\">The Freedom Takes</a></u>, and all but finalized selection for the 500 titles of the Freedom Library. I was tapped to give keynote addresses at the CLA’s winter conference and at the National Conference on Higher Education in Prison, glad to be sharing about the Project and shoring up the partnerships with DOC leadership and in-prison educators that matter to getting books into readers’ hands inside. Oh, and our Valentines this year were the librarians who have generously mentored us in the art of collection development; the Freedom Library is more layered and inviting because of you all. </p><p>I stay grateful to the conversations about books that a day in the life of the MBP is never without. It’s these conversations -- this participation with fellow readers in the “imaginative and intellectual life of American society,” as our key partner the Mellon Foundation calls it -- that we are out to open up to those currently locked away: countering with the power of words and the joy of books the exiling walls of prison.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"7df22e1a-0ba6-461f-a781-77846a3943b0","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes
+
+----
+
+Published: 2021-03-02 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Founder & CEO of Freedom Reads'
+
+----
+
+Uuid: wZ6U1bp7GRBNUaca

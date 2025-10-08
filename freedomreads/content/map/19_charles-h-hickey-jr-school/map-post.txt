@@ -1,0 +1,36 @@
+Title: Charles H. Hickey, Jr. School
+
+----
+
+Prisonlocation:
+
+lat: 39.4254831
+lon: '-76.524558450979'
+number: "9700"
+city: Parkville
+region: Maryland
+country: United States
+countryCode: us
+postcode: "21234"
+address: Old Harford Road
+osm: 298717599
+
+----
+
+Prisontype: Youth
+
+----
+
+Librarycount: 4
+
+----
+
+Libraryimg: - file://jzrVVNiyMvlNvNTx
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: Om9t1k0nSjv1sinQ

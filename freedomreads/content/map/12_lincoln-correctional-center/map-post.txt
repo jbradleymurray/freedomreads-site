@@ -1,0 +1,36 @@
+Title: Lincoln Correctional Center
+
+----
+
+Prisonlocation:
+
+lat: "40.11870955"
+lon: "-89.389008573203"
+number: "1098"
+city: Lincoln
+region: Illinois
+country: United States
+countryCode: us
+postcode: "62656"
+address: 1350th Street
+osm: 549918754
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 1
+
+----
+
+Libraryimg: - file://bym3VQilHtmbDQOW
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: vxwW0Rhg3Dafu4kz

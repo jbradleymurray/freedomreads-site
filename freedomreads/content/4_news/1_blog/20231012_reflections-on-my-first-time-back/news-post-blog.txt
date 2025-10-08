@@ -1,0 +1,33 @@
+Title: Reflections on My First Time Back
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: Tyler Sperrazza, the Chief Production Officer at Freedom Reads, and I pulled our 26-foot Penske moving truck full of Freedom Libraries into the staff parking lot of the Maine Correctional Center, just a couple dozen feet from the sally-port that gave entrance to the prison grounds. We had just driven 240 miles from Hamden, Connecticut, to Windham, Maine, and my heart was pounding.
+
+----
+
+Blocks: [{"content":{"text":"<p>I had been released from prison 3 ½ months earlier after serving 30 years. I don’t want to say I felt at home pulling up, but prison is the house I grew up in. </p><p>We had traveled to the Maine Correctional Center to open Freedom Libraries inside seven different housing units. I felt like I was bringing these men and women the world, the stories that set me free, book after book after book.</p><p>I remember the decades’ worth of volunteers visiting my prisons. They brought books, education, stories, joy, and hope. I always felt a little bit of their freedom for those brief moments in time. And here I was, sharing my freedom.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"0064613d-474f-4976-b967-94c06745913c","isHidden":false,"type":"text"},{"content":{"image":["file://8joF0vOh20zvE9ba"],"layout":"contentwidth","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"649dd490-2950-47a8-bd20-e38d7e7c64a2","isHidden":false,"type":"image"},{"content":{"text":"<p>For me now, walking back in, especially through the front door, is the ultimate freedom. No handcuffs, belly chains, or strip searches after signing the visitor’s logbook and receiving a clip-on visitor’s pass. I even used the visitors’ bathroom, not because I needed to, but because I could. But the metal detector still taunted me and the GPS monitor around my ankle felt extra heavy. </p><p>Once in the housing unit, I was home. The men and women leapt at the chance to be the first hands on these books. They approached without hesitation and with a familiar energy to help fill the bookshelves. I could see myself in them, scanning the back covers, considering which to take back to the cell, which would be the first to free their mind from prison.</p><p>The five hours went by fast. Tyler and I took a few pictures with the prison in the background because who would believe they let me back in, then out again? After less than four months on the outside, I couldn’t, and I felt a twinge of guilt when we pulled onto the road. I got to leave, but the men and women I just met didn’t.</p><p>But the now empty truck rumbling behind us reminded me that we didn’t abandon them. Freedom Reads left them with over 3,000 books, each one offering companionship, hope, and a vision for their future outside. </p><p>I’ll never forget my first time back.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"2837e654-3a1d-408f-8caf-160ae3a33640","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Openings, Showing Up
+
+----
+
+Published: 2023-10-12 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Steven Parkhurst
+  authoraffiliation: Program Coordinator at Freedom Reads
+
+----
+
+Uuid: 5vob6DEWmRE9ayRr

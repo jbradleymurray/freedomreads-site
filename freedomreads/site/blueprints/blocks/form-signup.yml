@@ -1,0 +1,11 @@
+name: Signup Form 
+icon: document
+fields:
+  headline:
+    type: writer
+    nodes: false
+    help: This message will appear in the headline area, above the form.
+  source:
+    label: Audience ID
+    type: writer
+    help: Use this field only if you need to assign a specific email group. To generate audience group ID in Neon and match with the group ID , please check with Minkyoung.

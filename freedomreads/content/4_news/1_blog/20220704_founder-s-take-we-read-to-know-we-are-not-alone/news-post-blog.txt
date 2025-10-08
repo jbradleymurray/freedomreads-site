@@ -1,0 +1,33 @@
+Title: Founder’s Take: We Read To Know We Are Not Alone
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: I dedicated *FELON*, my last poetry collection, to Christopher Tunstall, Rojai Fentress, Terrell Kelly and other friends of mine who were then still serving time in prison. The book was hardback – and because many prisons disallow hardback books, I’d struggle to get it inside. That problem led me to create an early paperback edition, the Freedom Edition of *FELON*, only for those on the inside. Then, I transformed the poems into a solo play I could embody and walk inside myself. Why?
+
+----
+
+Blocks: [{"content":{"text":"<p>My show, <em>FELON: An American Washi Tale</em>, animates much of what Freedom Reads is all about. The show is about prison and paper and freedom and suffering. In recent months, I’ve walked into prisons in Colorado and Illinois and Louisiana and Maine and Maryland and Massachusetts where I would stand before men who’ve known decades in prisons and perform. I walk into prisons and reveal to those inside the lineage of poets and writers that kept me afloat and gave me a sense of purpose. In Gabrielle Zevin’s novel, <em>The Storied Life of A.J. Fikry</em>, she writes, “We read to know we are not alone, we read because we are alone, we read and we are not alone.” This is why I return to prison with books, both so that those inside feel less alone, and so that I, too, feel less alone.</p><p>This is the hope of the Freedom Library: to provide a way for people to be less alone. And when we place these beautifully handmade wooden bookcases and books in a prison — even before the books are explored, a conversation begins. People touch the oak or maple or cherry as they circle the books and ask questions. Of the three libraries we opened in June, one delivered to Colorado's Arkansas Valley Correctional Facility was made of reclaimed maple. I told the guys there the story of it, how we used reclaimed wood that was headed for some dumpster because we know it’s still beautiful, as we might be, despite the things we regret.</p><p>Then we talked about books... The <em>Iliad</em> and Danticat's <em>Krik? Krak!</em> and Erdrich's <em>LaRose</em>. I think about what a reader in the solitary confinement unit out at Washington Corrections Center had written to us about <em>LaRose</em>: \"Yes, everyone in the novel was guilty of something. Then again, we all are, right? Nobody's perfect. It's what we learn and do after those mistakes are made that matters.\" Such a remarkably heartbreaking book, and here doing its beautiful work of connecting me with men living in the Restoring Promise Unit in Colorado with a reader in the hole out in Shelton, Washington.</p><p>For making this work possible -- this reconnection of us, each to each, by the power of literature -- I remain grateful for the support, in all forms, of this community.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"d46af04b-bb87-4371-b202-9c4d5b1151ad","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes
+
+----
+
+Published: 2022-07-04 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Founder & CEO of Freedom Reads'
+
+----
+
+Uuid: omwfVz65AKpTbKEC

@@ -1,0 +1,36 @@
+Title: John J. Moran Medium Security Facility
+
+----
+
+Prisonlocation:
+
+lat: "41.74466787315"
+lon: "-71.460266211697"
+number: "51"
+city: Cranston
+region: Rhode Island
+country: United States
+countryCode: us
+postcode: "02920"
+address: West Road
+osm: 19354688
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 14
+
+----
+
+Libraryimg: - file://uDFGsmqjKEclA7JT
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: WcIuTWFpGUNu0Ilj

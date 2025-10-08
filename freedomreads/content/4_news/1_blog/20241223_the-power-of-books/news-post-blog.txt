@@ -1,0 +1,33 @@
+Title: The Power of Books
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: A full moon cast a wintry bright light over London while people from all over the world hurried across cobblestoned streets to the seasonal sound of Christmas. Street-corner Santas held gleaming brass bells which they shook endlessly in the cold night. From high-end boutiques glittering up and down and all around in silver and gold, to the pipe smoking vendor selling bourbon laced eggnog with candy cane mixers, to the church choir singing “We Three Kings” beneath a Victorian-era lamppost, the scene in London was about one thing: Christmas. The holiday was here, large and in charge. It was holding the candle of religion in one hand, while balancing the candle of commercialization in the other. Whether or not you or anyone else was in the mood for Christmas, the sights and sounds of the city in December were doing their level best to get you there.
+
+----
+
+Blocks: [{"content":{"text":"<p>I was there, in the holiday spirit while headed toward Hatchards, a Piccadilly area bookshop that has been selling books in greater London since the 1700s. I walked into the softly lit, deep carpeted shop and over to a vintage end table neatly stacked with contemporary works of fiction. On an adjacent end table were books of military history. Surveying the shop as if I were about to rent a room, I felt embraced by a comfortable atmosphere that has no doubt been part of the shop’s character since time out of mind. The place looks venerable, smells venerable, and with its glossy mahogany tables, ornate banisters, and dark green Bankers lamps, feels venerable. The saxophone melody of John Coltrane’s “My Favorite Things” drifted through the air from small, overhead speakers. I looked for and found a hard copy edition of <em>Manchild in the Promised Land, </em>by Claude Brown. With the book in hand, I sat down on a well-worn burgundy leather Chesterfield couch to lose myself in the story. And speaking of stories, I myself have one to tell. A hard story. A story as hard as old nails stuck deep in old wood. A story too hard and heavy for my own good, I often think. The story is one of crime and punishment, and in it I didn’t always have the luxury of visiting an elegant bookshop dressed up for Christmas in a city that might have invented Christmas, namely because I had been in prison. </p><p>Rikers Island is an Alcartraz-like penal colony in Queens, New York that was once a landfill. It opened as a detention center in 1932 and has been in brutal operation ever since. I began a lengthy prison sentence there one summer's day so long ago the year no longer seems to matter. The moment I stepped into that first cell of many during my decades long incarceration, I was smothered in high heat and immobilized by the smell of urine strong enough to stagger the mind. The last inmate hadn’t flushed the toilet and the lone window was shut tight. I briefly looked around the cell before staring into the muddy puddle of brown fluid sitting still and stagnant in the middle of a gleaming white American Standard toilet bowl. The cell was hot and nauseating. I wondered how I was going to make it in prison. How I was going to survive the years to come. I flushed the toilet, opened the window, and sat on the bunk to think. I noticed a metal locker in one corner of the cell and a paperback book on top. I picked it up. <em>The Martian Chronicles, </em>by Ray Bradbury. I disliked science-fiction but began reading the book later that evening.</p><p>From my first day in prison until my last, I never stopped reading. Although I never read another science-fiction book after “Martian Chronicles,” the novel became my guiding light through years of coal-black darkness. Days and nights so dark you’d think the end of the world was moments away. Nearing my fourth decade behind the wall, a fellow inmate asked me how I had done my time “without winding up in a straightjacket?” “At some point I viewed literature as basic equipment for life,” I replied. Books for strength, books for sustenance. </p><p>I reflected on my journey through the world of literature while it began to snow outside the London bookshop where I comfortably sat. Thought of the stories and characters in the books I had read through one season to the next. Thought of the character I was reading about in the London bookshop. Claude Brown’s Sonny is set in 1950s Harlem, New York. Sonny is on a painful search for self, as well as on a difficult quest to bring a good dream to life and sustain it. Yet dreams die hard in 1950s Harlem, and Sonny is fighting day and night to keep his dream alive and keep hope alive. I was fortunate enough to be part of the Freedom Reads team at its inception. Sonny reminds me of Dwayne Betts, the founder of Freedom Reads. Much like Sonny, Dwayne harbors an abiding ambition to keep the mission of Freedom Reads thriving. Allowing the organization to convey strength and sustenance to prisoners through books. Enable books to keep hope alive, just as they did for me.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"b7c1debf-e758-4c01-9b96-c1154bda33fe","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Why Reading Matters, Freedom Library
+
+----
+
+Published: 2024-12-23 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Dempsey
+  authoraffiliation: Resident Creative Writer
+
+----
+
+Uuid: 0s913k1YNZahM4Jy

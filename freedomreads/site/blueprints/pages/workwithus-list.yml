@@ -1,0 +1,48 @@
+title: workwithus
+icon: 
+status:
+  draft:
+    label: Draft
+    text: The page is still in draft mode. It can only be seen by editors with panel access.
+  listed:
+    label: Published
+    text: The page is online and listed in the site.
+columns:
+	- width: 2/3
+		sections:
+			content:
+				type: fields
+				fields:
+					hero:
+						label: Hero Image
+						type: files
+						template: image
+						multiple: false
+					introduction:
+						required: true
+						type: textarea
+					description:
+						type: textarea
+						buttons:
+							- bold
+							- italic
+							- link
+			drafts:
+				label: Drafts
+				type: pages
+				status: draft
+				templates: workwithus-post
+				info:  "{{ page.children.category }}"
+				help: "New pages are made as **drafts**. Once ready, change its status to **Public** in order to publish."
+			published:
+        headline: Posts
+        type: pages
+        status: listed
+        query: page.children
+
+
+
+ 
+
+
+

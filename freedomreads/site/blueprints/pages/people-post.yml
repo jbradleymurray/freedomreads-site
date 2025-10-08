@@ -1,0 +1,43 @@
+title: People-post
+icon: 👤
+status:
+  draft:
+    label: Draft
+    text: The page is still in draft mode. It can only be seen by editors with panel access.
+  listed:
+    label: Published
+    text: The page is online and listed in the site.
+# num: zero
+
+columns:
+  - width: 2/3
+    fields:
+      position:
+        type: text
+      bio:
+        label: Bio
+        type: textarea
+        uploads: false
+  - width: 1/3
+    fields:
+      hero:
+        label: Profile Image
+        type: files       
+        multiple: false
+      category:
+        label: Category
+        type: select
+        default: staff
+        options:
+          founder: Founder
+          staff: Staff
+          board: Board of Directors
+      email:
+        label: Email
+        type: email
+
+
+ 
+
+
+

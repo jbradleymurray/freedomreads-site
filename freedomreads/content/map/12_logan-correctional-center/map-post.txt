@@ -1,0 +1,36 @@
+Title: Logan Correctional Center
+
+----
+
+Prisonlocation:
+
+lat: 40.11205435
+lon: "-89.388119683557"
+number: "1096"
+city: Lincoln
+region: Illinois
+country: United States
+countryCode: us
+postcode: "62656"
+address: 1350th Street
+osm: 549918753
+
+----
+
+Prisontype: Women’s
+
+----
+
+Librarycount: 5
+
+----
+
+Libraryimg: - file://0CZU8DFLRooFxhUe
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: KDjZRoKLI4nApbxy

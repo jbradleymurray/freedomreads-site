@@ -1,0 +1,44 @@
+# name: field.blocks.quote.name
+name: Quote
+icon: quote
+wysiwyg: true
+preview: quote
+fields:
+  text:
+    label: field.blocks.quote.text.label
+    placeholder: field.blocks.quote.text.placeholder
+    type: writer
+    inline: true
+    icon: quote
+  citation:
+    label: field.blocks.quote.citation.label
+    placeholder: field.blocks.quote.citation.placeholder
+    type: writer
+    inline: true
+    icon: user
+  inline:
+    label: Inlined?
+    type: toggle
+    default: false 
+    help: if inlined, the same typographic treatment as the main narrative text will be applied. 
+  image:
+    label: field.blocks.image.name
+    type: files
+    layout: cards
+    size: large
+    multiple: false
+    width: 1/1
+    help: Note, setting up a sidebar will override a quote image
+    when:
+      inline: false
+  sidebar:
+    type: toggle
+    default: false 
+    when:
+      inline: false
+  sidebarfields:
+    type: group
+    when:
+      sidebar: true
+    extends: sections/sidebar-fields
+  

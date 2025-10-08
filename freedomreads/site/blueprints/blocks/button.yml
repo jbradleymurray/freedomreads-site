@@ -1,0 +1,20 @@
+name: Button
+icon: url
+label: "{{ buttontext }}"
+fields:
+	buttontext:
+		label: Button Text
+		type: text
+	external:
+		label: External Link?
+		type: toggle
+		default: false
+		help: External Links will open in a new tab
+		text:
+			- internal
+			- external
+	link:
+		type: link
+		options:
+			- page
+			- url

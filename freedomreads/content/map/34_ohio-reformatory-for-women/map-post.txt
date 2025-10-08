@@ -1,0 +1,35 @@
+Title: Ohio Reformatory for Women
+
+----
+
+Prisonlocation:
+
+lat: 40.2225047
+lon: -83.3936012
+city: Marysville
+region: Ohio
+country: United States
+countryCode: us
+postcode: "43040"
+address: US 36;SR 4
+osm: 636112050
+
+----
+
+Prisontype: Women’s
+
+----
+
+Librarycount: 13
+
+----
+
+Libraryimg: 
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: ZYN6tKLWPKSXb9Of

@@ -1,0 +1,36 @@
+Title: Louisiana State Penitentiary at Angola
+
+----
+
+Prisonlocation:
+
+lat: '30.953412387984'
+lon: '-91.585997090171'
+number: "17544"
+city: Angola
+region: Louisiana
+country: United States
+countryCode: us
+postcode: "70712"
+address: Tunica Trace
+osm: 1014076465
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 8
+
+----
+
+Libraryimg: - file://XtrWEsHYXuFSzIxP
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: kM6VgHEeBbZARo78

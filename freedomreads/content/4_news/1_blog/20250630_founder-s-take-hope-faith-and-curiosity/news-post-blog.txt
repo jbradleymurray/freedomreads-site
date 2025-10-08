@@ -1,0 +1,33 @@
+Title: Founder's Take: Hope, Faith, and Curiosity
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: Once, I wrote that I met my fathers again. It’s the kind of thing that feels particular to men of my age, who grew up in the wake of the crack epidemic. Some say war on drugs, and I understand this - but it was crack cocaine that left the fathers of my youth’s eyes vacant, from a high of money or the ache of not having it. Inside, I met so many of us, barely older than me or much older, lost inside prisons from all the attendant ways that accumulating weight left us lost: murder, robbery, drug dealing. And inside, when we were sober, no longer fighting over blocks, turning to whatever gave us hope, sometimes, I swear, we saw more possible in each other than Galileo saw in the night sky.
+
+----
+
+Blocks: [{"content":{"text":"<p>This Father’s Day, Freedom Reads returned Inside. Not on the day, but all the days around it - so much so we braved missed flights and weather to get Inside and to make it home to our families on that sacred day. Every day, it felt we might miss something. But we always show up in the face of all the things we could have missed. I’m twenty years removed from standing for count and some days still feel my better days lost to a cell. The days when I jumped as if gravity was a nuisance, or at least watched others do the same. My team this June has visited prisons in Connecticut, Ohio, Puerto Rico. We have spoken to each other in English and Spanish and heartbreak. Because part of returning to a prison is always heartbreak. This is why we build Freedom Libraries. <br> <br>Justin Torres’s <em>Blackouts</em> is one of the books we brought Inside. A book about two men in an asylum. One aging and dying, one much younger, both gay, both sharing the memories of their lives. I worked with Justin and his editor and Farrar, Straus and Giroux to blackout the clinical nudity in the images that accompany the text because sometimes ensuring a book finds its reader is more important than what anyone might say of censorship. And it’s not a book about prison, except it is. Because prison is never just, if at all, about bars. In <em>Blackouts</em>, these men who know each other, learn each other better as they share stories of their lives, as the younger man cares for the older. I was once in the cell with a 62-year old Black man whose arthritis and diabetes kept him from putting the cheap lotion we had on his back to soothe the cracks that came from all that ailed him. I once rubbed lotion on his back because he asked me. Because I did not know my grandfather’s name then and so made him my grandfather, even if I never told him. <br> <br>We ask you to be a part of this story. Of literature, of freedom, of fatherhood. We know of the daughters who lost themselves chasing their father’s shadow, of the mothers who learned the ambidexterity of navigating a world that demanded they play the roles of father, mother, and everything else. And we know that when we go Inside, our impact is measured with the same hard tools once used to measure Galileo’s discoveries - hope, faith, curiosity.<br> <br>Every donation helps us keep going in this world where showing up for others too often feels rare — and still, necessary. Because sometimes, freedom is a hand on a back, saying: At least today, at least in this moment, at least right now, I am here to say you are not alone.<br><br><strong>Reginald Dwayne Betts</strong><br>Freedom Reads Founder &amp; CEO</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"4c13025e-1559-4be0-9c23-8cfa22b7aa22","isHidden":false,"type":"text"},{"content":{"buttontext":"Donate","external":"false","link":"page://tVVrSfjy1VOgr8nU"},"id":"c65937df-07d5-4f58-99d1-2a6105254e6b","isHidden":false,"type":"button"}]
+
+----
+
+Newstags: Founder's Takes, Inside Literary Prize
+
+----
+
+Published: 2025-06-30 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: Founder and CEO, Freedom Reads
+
+----
+
+Uuid: wwvLjSDZIBLaX8Wy

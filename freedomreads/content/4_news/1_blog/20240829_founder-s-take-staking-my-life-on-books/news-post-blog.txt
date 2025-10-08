@@ -1,0 +1,33 @@
+Title: Founder's Take: Staking My Life on Books
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: For years I’ve had a gripe with the ACLU. During the winter of 1998, the same winter that I became a poet, my friend Markeese Turnage and I wrote a letter to the ACLU asking for legal help. Keese had been sentenced to more than sixty years in prison. He didn’t have a rape, murder, or robbery conviction. Instead, he’d wrangled an officer’s gun from him and attempted to turn it on himself. The gun never went off. No one was hurt. He was 17 years old. For Christmas that year, the ACLU sent us a form letter back. And today, Keese is still incarcerated. I’d used his story to get myself admitted to Yale Law School; I’d used his story to get him a lawyer once I was a graduate of the same. And still, years later, he is inside, as loss after loss accumulates.
+
+----
+
+Blocks: [{"content":{"text":"<p>A few days ago, someone wrote a letter and let me know that they were disappointed in Freedom Reads. We showed up at his prison and our very presence came with expectations. And later, he’d not heard from us. He felt abandoned. And it’s true, every complaint that the gentleman made. We’d entered the prison that confines him and made promises that we expected to keep. We failed on those promises. His letter sits beside me now and has been beside me for days. We’ve already responded and my responses have turned from anger to regret. I want this guy to know that I, some days, as irrational as it seems, feel like I am still doing time. That every day I work with a collection of people with ties to prison that make us rejoice and weep. Our failures have always been manifold. Or manifest. Or quadrupled. A kind of exponential burden that feels nothing like doing time but sometimes just might. And if the burden of failure was simply the disappointment of those we serve – these days would not come with the stress that they do.<br><br>But the thing is, we’ve all been on the wrong side of being let down. We’ve all been on the wrong side of letting someone down. The most irrational thing I’ve ever done in this world is stake my life on books. And now, I’ve done it twice. The first time was right around the time me and Keese wrote the ACLU that letter. It’s when I became a poet. And while poetry has yet to make me a rich man, it made me wealthy beyond my wildest dreams. <br><br>The second time has been Freedom Reads, an organization that has helped me go from unemployable to a Founder &amp; CEO of an organization with nearly two dozen employees and a wildly joyful mission. There has never been a time that I, that we, have not felt that heaviness that comes from not showing up.<br><br>I never wanted to be someone who carried grudges, but I do, sometimes. I mean every once and awhile. I remember when a childhood friend told me I cursed too much to be admitted into heaven. I might not have believed in heaven but still couldn’t help but be offended by the notion that my tongue would deny me entry. I’ve not stopped cursing since. As I said, grudges.<br><br>My biggest grudge has always been with the American Civil Liberties Union. I carry around the letter that we wrote, have carried around that letter, for over twenty years, as a testament of what somebody didn’t do for me, for Keese. How profoundly fragile an existence that was. We were children and had no idea what the ACLU was. And in the face of that, before <em>Roper v. Simmons</em> or <em>Graham v. Florida</em> or a single piece of legal scholarship had been written, we said that we were young and that should matter. And instead of celebrating that insight, I have been lamenting what the ACLU has not done. <br><br>So I let it go. We all want to show up for folks, at least the best of us do. And when we don’t, I hope we will be given a bit of grace, even when we may not deserve it.<br><br>Though, as it were, you gotta know this: When we don’t show up, it just means we’re on the way. And brother, we’re on the way.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"779b3c23-cd9b-4e61-9e9e-083fe3fb040c","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes
+
+----
+
+Published: 2024-08-29 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Freedom Reads Founder & CEO'
+
+----
+
+Uuid: 2vCoyYCFBWQmloi8

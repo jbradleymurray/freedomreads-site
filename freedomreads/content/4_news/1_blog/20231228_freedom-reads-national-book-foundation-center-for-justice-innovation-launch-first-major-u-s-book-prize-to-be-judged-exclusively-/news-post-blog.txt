@@ -1,0 +1,33 @@
+Title: Freedom Reads, National Book Foundation, Center for Justice Innovation Launch First Major U.S. Book Prize to Be Judged Exclusively by Incarcerated People
+
+----
+
+Featureimg: - file://ZQ5QuL3n8pvHvkTH
+
+----
+
+Introduction: On December 4, Freedom Reads announced the launch of this new joint initiative with the National Book Foundation and the Center for Justice Innovation, with support from Lori Feathers, literary podcaster and co-owner of Interabang Books. It’s the first major U.S.-based literary prize to be judged exclusively by incarcerated people.
+
+----
+
+Blocks: [{"content":{"text":"<p>The prize will be awarded in June 2024 to one exceptional book by a jury of 300 incarcerated individuals from a dozen prisons across the nation. This new initiative seeks to expand access to our country’s most thought-provoking literature for people who are incarcerated.</p><p>Over the coming months, 25 judges at each of 12 prisons across six states -- including both men’s and women’s facilities -- will be given copies of the four National Book Award–honored books listed below. Freedom Reads will provide each facility with additional sets of each book for general circulation in the facility library, as well as for correctional staff. Throughout the Spring 2024, Inside Literary Prize organizers will travel to each prison to lead live discussions, conduct voting, and host literary readings with acclaimed authors previously honored by the National Book Awards.</p><p>“Reading literature and poetry throughout my nearly nine years in prison played an enormous role in shaping the person I am today,” said Freedom Reads Founder &amp; CEO Reginald Dwayne Betts. “Through the reading and judging of leading American literary works, the Inside Literary Prize competition will provide a national platform for incarcerated individuals to meaningfully participate in our shared national cultural conversation. Freedom Reads could not be more proud to work with our partners on this initiative as we turn this vision into an annual reality. Freedom begins with a book.”</p><p>The books to be considered for the inaugural prize were determined by a Selection Committee comprising incarcerated readers, writers, and Departments of Corrections librarians, who chose the following four books from the list of Finalists for the 2022 National Book Awards:</p><p>Tess Gunty, <u><a href=\"https://www.nationalbook.org/books/the-rabbit-hutch/\" target=\"_blank\"><em>The Rabbit Hutch</em></a></u> (Alfred A. Knopf / Penguin Random House)</p><p>Jamil Jan Kochai, <u><a href=\"https://www.nationalbook.org/books/the-haunting-of-hajji-hotak-and-other-stories/\" target=\"_blank\"><em>The Haunting of Hajji Hotak and Other Stories</em></a></u> (Viking Books / Penguin Random House)</p><p>Imani Perry, <u><a href=\"https://www.nationalbook.org/books/south-to-america-a-journey-below-the-mason-dixon-to-understand-the-soul-of-a-nation/\" target=\"_blank\"><em>South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation</em></a></u> (Ecco / HarperCollins Publishers)</p><p>Roger Reeves, <u><a href=\"https://www.nationalbook.org/books/best-barbarian/\" target=\"_blank\"><em>Best Barbarian</em></a></u> (W. W. Norton &amp; Company)</p><p>A currently incarcerated member of the Selection Committee, Courtney Quillen, shared in a letter that \"The experience was a wonderful one. The thrill of exciting new books is one we cherish,\" adding \"We are thankful to have been a part of this project.\"</p><p>Corinne Leone, Director of New York State Correctional Library Services Library Services, also served on the Selection Committee, and summed up her feelings about the experience – \"I wish I could read all day, lately.\"</p><p>Another member of the Selection Committee, a formerly incarcerated writer named Dempsey, shared his thoughts about this initiative: \"I like to read books as much as Charles Dickens liked to write them. Books were my salvation in prison. They enabled me to think better about myself and the world. As a free man, my work with Freedom Reads allows me to help those incarcerated find joy, peace, knowledge, and perspective through books. In essence, I view the Freedom Reads agenda as a gift the way literature is a gift. An eternal gift that leads one on an exploration into the highest and lowest levels of the human spirit, of the imagination, and of the heart.\"</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"5fbdfe34-3ba5-45c6-b404-00e1464a1d54","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Inside Literary Prize
+
+----
+
+Published: 2023-12-28 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Freedom Reads
+  authoraffiliation: ""
+
+----
+
+Uuid: CVNiAIRzatBsnl3N

@@ -1,0 +1,9 @@
+title: Overheard 
+extends: pages/default
+columns:
+  maincol:
+    fields:
+      herovideo:
+        label: Hero Video
+        type: files
+        multiple: false

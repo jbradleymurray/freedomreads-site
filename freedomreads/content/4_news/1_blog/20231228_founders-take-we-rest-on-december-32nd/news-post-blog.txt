@@ -1,0 +1,33 @@
+Title: Founder’s Take: We Rest on December 32nd
+
+----
+
+Featureimg: - file://NlRsuJpV22poP4ut
+
+----
+
+Introduction: It hasn’t been a month since I let you know about opening our 200th Freedom Library, which happened in late October at New York’s Otisville Correctional Facility. Because our team only rests on December the 32nd, we’ll be closing out 2023 with 239 Freedom Libraries in 33 prisons and juvenile detention centers across ten states. But we have a long way to a Freedom Library in every prison cellblock in the United States. We cannot expand our reach without your support.
+
+----
+
+Blocks: [{"content":{"text":"<p>Let me tell you a story. Two weeks ago, we returned to MCI-Norfolk in Massachusetts, where Freedom Reads opened its first Freedom Library two years ago. Then, our goal was to do a single Freedom Library in 1,000 prisons. But we soon learned from the men at MCI-Norfolk that we needed to open a Freedom Library in every cellblock at MCI-Norfolk — otherwise, we’re creating more inequity within the system. Two weeks ago, we returned to MCI-Norfolk to open an additional 15 libraries to build a community of readers at that prison.</p><p>Your support makes all of this vital work possible. As the year soon draws to a close, I hope you will consider supporting Freedom Reads as we move into 2024 with big plans to expand our reach and help more people find community in books and reimagine their futures through literature. Help us make a difference in the lives of the people in prisons and juvenile detention facilities in every state in the country.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"9897338d-ac96-4fe6-862f-107f2779085e","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes, Openings, Freedom Library
+
+----
+
+Published: 2023-12-28 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Founder & CEO of Freedom Reads'
+
+----
+
+Uuid: ZHaiTAlHlaQC12xz

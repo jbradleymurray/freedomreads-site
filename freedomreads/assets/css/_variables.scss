@@ -1,0 +1,160 @@
+//GLOBAL VARIABLES
+:root {
+	/* font-sizes */
+	--size-base: 18px;
+	--size-xxlarge: 5rem;
+	--size-heading: 3rem;
+	--size-xlarge: 2rem;
+	--size-large: 1.5rem;
+	--size-medium: 1.25rem;
+	--size-body: 1rem;
+	--size-caption: .875rem;
+	--size-small: .8rem;
+
+	--lineheight: 1.5;
+	--lineheight-medium: 1.3; /*caption height*/
+	--lineheight-normal: 1.2; /*h1 and h2*/
+	--lineheight-small: 1.1;
+	--margin-default: calc( var(--size-base) * var(--lineheight));
+	/* font weight variables */
+	--wght: 400; // default weight
+	--wght-bold: 700; // bold
+	--wght-heavy: 900; // heavy
+
+	/* structures */
+	--width-max: 1200px;
+	--width-main: calc(100% - var(--pad-body)*2);
+	--width-margin: calc( (100% - var(--width-main) ) / 2);
+
+	--height-nav: 50px;
+
+	--gutter: 26px;
+
+	// --hero-offset: 122px;
+	// --hero-offset: 155px;
+	--hero-offset: 216px;
+
+
+
+	/* spacing */
+	--pad-module: 8rem; /*200px*/
+	--pad-section: 5rem;
+	--pad-body: 2.5rem;
+	--pad: 1.6rem;
+	--pad-small: .75rem;
+	--pad-xs: .375rem;
+
+	--indent: 3rem;
+
+	/* top border styles */
+	--stroke: 6px;
+
+	/*colors*/
+
+	--color-theme: var(--color-yellow);
+	--color-theme-pop-tint: var(--color-yellow-pop-tint);
+	--color-theme-pop: var(--color-yellow-pop);
+	--color-theme-dark: var(--color-yellow-dark);
+
+
+	--color-black: #000;
+
+	--color-default: var(--color-theme-dark);
+
+	--color-gray-dark: #292424; // footer
+	--color-gray-light: #D9C8C1; //for donation
+	--color-gray: #807070; //for donation
+
+	--color-white: #fff;
+	--color-bg: #F2EBE8;
+
+	--color-yellow: #FFE4B8;
+	--color-yellow-pop-tint:#FFAB5B;
+	--color-yellow-pop: #FF9632;
+	--color-yellow-dark: #292424; 
+
+	--color-brown: #DCB89F;
+	--color-brown-light: #E6D9D3; //block items
+	--color-brown-pop-tint: #AD653C;
+	--color-brown-pop: #993E0B;
+	--color-brown-dark: #372005;
+
+	--color-purple: #D9BAC0;
+	--color-purple-pop-tint: #F4C7E4;
+	--color-purple-pop: #ECA2D2;
+	--color-purple-dark: #56101D;
+	
+	
+	--color-teal: #BED5D5;
+	--color-teal-pop-tint: #99F9F9;
+	--color-teal-pop: #00F0F0;
+	--color-teal-dark: #004857;
+
+	--color-pink: #F0C4B2;
+	--color-pink-pop-tint: #A95334;
+	--color-pink-pop: #932801;
+	--color-pink-dark: #591703; 
+
+	--color-blue: #ABCDD9;
+	--color-blue-pop-tint: #A0E3FF;
+	--color-blue-pop: #61D0FF;
+	--color-blue-dark: #003952;
+	--color-blue-bg: #06222f;
+	
+	/*z-index*/
+	--z-intro: 80;
+	--z-nav: 100;
+	@include at-media(desktop-lg) {
+		--width-max: 1260px;
+		--gutter: 32px;
+		--size-large: 1.6rem;
+		--size-base: 20px;
+		--size-medium: 1.325rem;
+		--size-body: 1.25rem;
+		--size-caption: 1rem;
+	}
+
+	@include at-media(tablet-lg){
+		--size-base: 16px;
+		--pad-module: 5rem;
+		--size-xxlarge: 4rem;
+		--size-xlarge: 1.8rem;
+		--size-large: 1.2rem;
+		// --hero-offset: 142px;
+		--hero-offset: 190px;
+		
+	}
+
+	@include at-media(tablet){
+		--size-xxlarge: 3.5rem;
+	}
+
+	@include at-media(mobile-lg){
+		--size-base: 18px;
+		// --hero-offset: 140px;
+		--hero-offset: 131px;
+		--pad-module: 4rem;
+		--pad-section: 4rem;
+		--gutter: 1rem;
+
+		--size-base: 18px;
+		--size-xxlarge: 3rem;
+		--size-heading: 2rem;
+		--size-xlarge: 1.5rem;
+		--size-large: 1.25rem;
+		--size-medium: 1.25rem;
+		--size-body: 1rem;
+		--size-caption: .875rem;
+		--size-small: .6875rem;
+		--pad-mobile: 20px;
+		--width-main: 100%;
+	
+	}
+
+	@media screen and (min-width: 1260px){
+		--width-margin: calc( (100% - var(--width-max) ) / 2);
+	}
+
+}
+
+

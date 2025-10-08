@@ -1,0 +1,64 @@
+title: About
+icon: 
+status:
+	draft:
+		label: Draft
+		text: The page is still in draft mode. It can only be seen by editors with panel access.
+	listed:
+		label: Published
+		text: The page is online and listed in the site.
+		
+columns:
+	- width: 2/3
+		sections:
+			content:
+				type: fields
+				fields:
+					hero:
+						label: Hero Image
+						type: files
+						template: image
+						multiple: false
+					introduction:
+						required: true
+						type: textarea
+						buttons:
+							- italic
+							- link
+			people-founder:
+        headline: Founder
+        type: pages
+        query: page.children.filterBy("category", "founder")
+        template: people-post
+			people-staffs:
+        headline: Staff
+        type: pages
+        parent: page.find("staff")
+        template: people-post
+				search: true
+				sortable: true
+			people-board:
+        headline: Board of Directors
+        type: pages
+        parent: page.find("board-of-directors")
+        template: people-post
+				search: true
+				sortable: true
+			advisory-board:
+				type: fields
+				fields:
+					advisory:
+						label: Advisory Board
+						type: structure
+						fields:
+							name: 
+								label: Name
+								type: text
+							title:
+								label: Title
+								type: text
+							description:
+								label: Description
+								type: textarea
+								buttons:
+									- italic						

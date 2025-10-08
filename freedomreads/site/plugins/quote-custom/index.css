@@ -1,0 +1,13 @@
+.block-quote {
+    display: flex;
+}
+
+.block-quote .text {
+    width: 60%;
+    padding-right: 3%;
+}
+
+.block-quote .image {
+    width: 40%;
+    padding-right: 3%;
+}

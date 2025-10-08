@@ -1,0 +1,44 @@
+Title: Freedom Reads Returns to Open Additional Freedom Libraries in Louisiana Prisons
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: National non-profit Freedom Reads opens 11 Freedom Libraries across Rayburn and Raymond Laborde Correctional Centers in Louisiana
+
+----
+
+Blocks: [{"content":{"text":"<p>The national non-profit <a href=\"https://freedomreads.org/\" target=\"_blank\">Freedom Reads</a> announced today the opening of 11 new Freedom Libraries across two Louisiana prisons, including ten in Rayburn Correctional Center and one in Raymond Laborde Correctional Center. Freedom Reads had previously opened one Freedom Library at Raymond Laborde. The Freedom Libraries will be opened directly in cellblocks across the prisons, allowing incarcerated individuals direct access to inspiring literature. As of today, Freedom Reads has opened 27 Freedom Libraries in Louisiana prisons, and a total of 340 Freedom Libraries across 41 adult and youth prisons in 12 states. </p><p>“Freedom Reads returns to prisons with beautiful, handcrafted bookcases filled with great literature to remind people in prison that they have not been forgotten,” said Freedom Reads Founder &amp; CEO Reginald Dwayne Betts. “We are grateful for the continued support of the Louisiana Department of Public Safety and Corrections in partnering with us to make these Freedom Library openings happen. Every library opening gets us closer to our vision of a Freedom Library in every cellblock in every prison in America.”</p><p>“I have had the opportunity to see Dwayne at a conference, and I was so impressed with his presentation and the work he is doing with Freedom Reads,” said Secretary Jimmy Le Blanc, Louisiana Department of Public Safety and Corrections. “We are excited about expanding reading opportunities and 24-hour accessibility to the portable libraries in the dorms. This donation means so much to our prisoners as it will help broaden their horizons through reading. We’re hopeful this will help improve the educational level of those who take advantage of this gift.”</p><p>“Rayburn Correctional Center is excited to partner with Freedom Reads to offer these libraries to the inmate population,” said Warden Travis Day of Rayburn Correctional Center. “Reading is an essential part of literacy and by placing these libraries throughout the institution there will be many positive impacts such as reducing stress, improving mental health, vocabulary expansion, and improving communication skills. The positive impacts will be beneficial in the rehabilitation process.”</p><p>“Accessibility to books and reading is the greatest gift you can bestow on someone,” said Warden Wayne Millus of Raymond Laborde Correctional Center. “Reading not only entertains and educates, it can provide an escape from your daily life or routine. Allowing oneself to be part of the story and becoming someone or being someplace else, even for the briefest moment. As the quote goes, ‘A reader lives a thousand lives before he dies. The man who doesn’t read lives only one.’”</p><p>Freedom Reads is a first-of-its-kind organization that empowers people in prison through literature to imagine new possibilities for their lives. The Freedom Libraries are the brainchild of 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts, who was sentenced in Virginia to nine years in prison at age 16. Freedom Libraries are spaces in prisons to encourage community and in which reaching for a book can be as spontaneous as human curiosity. Each bookcase is handcrafted out of maple, cherry, oak, or walnut and is curved to contrast the straight lines and bars of prisons as well as to evoke Dr. Martin Luther King, Jr.'s observation about the “arc of the moral universe” bending “toward justice.”</p><p>Books in the Freedom Library have been carefully curated through consultations with hundreds of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved, but indispensable. The libraries include contemporary poetry, novels, and essays alongside classic works such as Homer’s <em>The Odyssey</em> and Ralph Ellison’s <em>Invisible Man</em> – titles that remind us that books have long been a freedom project.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"56dc6f89-7203-49a4-9d91-7c4bf0c5ec35","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Openings, Freedom Library
+
+----
+
+Published: 2024-06-18 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Madeline Sklar
+  position: Communications Manager
+  organization: Freedom Reads
+  email: madelines@freedomreads.org
+  phone: 203-208-9123
+
+----
+
+Posted: https://api.neonemails.com/emails/content/HGjq3tU6K0uy-jeK2ssdQzaCvf48RtH17XnwQFvpRNQ=
+
+----
+
+Uuid: PWt2xfWWcgCrRR8k

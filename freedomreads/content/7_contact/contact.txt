@@ -1,0 +1,76 @@
+Title: Contact
+
+----
+
+Herotext: Contact us
+
+----
+
+Introduction: Get in touch with the Freedom Reads team.
+
+----
+
+Address:
+
+2666 State Street
+Suite 5A 
+Hamden, CT 06517
+
+----
+
+Contacts:
+
+- 
+  department: DOC Inquiries
+  email: freedomreads@freedomreads.org
+- 
+  department: Media Relations
+  email: media@freedomreads.org
+- 
+  department: Donation Assistance
+  email: donate@freedomreads.org
+- 
+  department: 'Foundations & Grants'
+  email: foundations@freedomreads.org
+
+----
+
+Presscontact:
+
+For immediate assistance, contact:
+
+**Lori Gruen**
+Senior Advisor
+(email: media@freedomreads.org text: media@freedomreads.org)
+
+----
+
+Phone: (333)333-3333
+
+----
+
+Email: 
+
+----
+
+Others: [{"content":{"text":"<p><strong>DOC Inquiries</strong></p><p><a href=\"mailto:freedomreads@freedomreads.org\">freedomreads@freedomreads.org</a></p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"a2166492-24f8-47dc-9591-1075e0da42c4","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Media Relations</strong></p><p><a href=\"mailto:media@freedomreads.org\">media@freedomreads.org</a></p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"beffd05b-e98d-4029-be29-9db368205ebe","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Donation Assistance</strong></p><p><a href=\"mailto:donate@freedomreads.org\">donate@freedomreads.org</a></p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"444ada9a-5501-4326-8848-e13b6edb7c7c","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Foundations &amp; Grants</strong></p><p><a href=\"mailto:foundations@freedomreads.org\">foundations@freedomreads.org</a></p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"fe758b3a-4d68-45f1-9dbb-674528414c7c","isHidden":false,"type":"text"}]
+
+----
+
+Press:
+
+For immediate assistance, contact:
+
+**Ivan J. Dominguez**
+Chief Communications Officer
+(email: ivan@freedomreads.org text: ivan@freedomreads.org)
+917-902-6953
+
+**Madeline Sklar**
+Communications Manager
+(email: madelines@freedomreads.org text: madelines@freedomreads.org)
+412-926-0848
+
+----
+
+Uuid: uAvyOcFkG0aQMw7f

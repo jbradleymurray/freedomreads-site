@@ -1,0 +1,159 @@
+/*define fonts*/
+
+@font-face {
+	font-family: 'Metric2';
+	font-weight: 900;
+	src:
+	url('../fonts/metric-2-heavy.woff2') format('woff2'),
+	url('../fonts/metric-2-heavy.woff') format('woff');
+	font-style: normal;
+	font-stretch: normal;
+}
+@font-face {
+	font-family: 'Metric2';
+	font-weight: 900;
+	src:
+	url('../fonts/metric-2-heavy-italic.woff2') format('woff2'),
+	url('../fonts/metric-2-heavy-italic.woff') format('woff');
+	font-style: italic;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'Metric2';
+	font-weight: 700;
+	src:
+	url('../fonts/metric-2-bold.woff2') format('woff2'),
+	url('../fonts/metric-2-bold.woff') format('woff');
+	font-style: normal;
+	font-stretch: normal;
+}
+@font-face {
+	font-family: 'Metric2';
+	font-weight: 700;
+	src: 
+	url('../fonts/metric-2-bold-italic.woff2') format('woff2'),
+	url('../fonts/metric-2-bold-italic.woff') format('woff');
+	font-style: italic;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'Metric2';
+	font-weight: 400;
+	src:
+	url('../fonts/metric-2-regular.woff2') format('woff2'),
+	url('../fonts/metric-2-regular.woff') format('woff');
+	font-style: normal;
+	font-stretch: normal;
+}
+
+
+
+@font-face {
+	font-family: 'Metric2';
+	font-weight: 400;
+	src: 
+	url('../fonts/metric-2-italic.woff2') format('woff2'),
+	url('../fonts/metric-2-italic.woff') format('woff');
+	font-style: italic;
+	font-stretch: normal;
+}
+
+
+@font-face {
+	font-family: 'Metric2Condensed';
+	font-weight: 900;
+	src: 
+	url('../fonts/metric-2-condensed-heavy.woff2') format('woff2'),
+	url('../fonts/metric-2-condensed-heavy.woff') format('woff');
+	font-style: normal;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'Metric2Condensed';
+	font-weight: 900;
+	src: 
+	url('../fonts/metric-2-condensed-heavy-italic.woff2') format('woff2'),
+	url('../fonts/metric-2-condensed-heavy-italic.woff') format('woff');
+	font-style: italic;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'Metric2Condensed';
+	font-weight: 700;
+	src: 
+	url('../fonts/metric-2-condensed-bold.woff2') format('woff2'),
+	url('../fonts/metric-2-condensed-bold.woff') format('woff');
+	font-style: normal;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'Metric2Condensed';
+	font-weight: 700;
+	src:
+	url('../fonts/metric-2-condensed-bold-italic.woff2') format('woff2'),
+	url('../fonts/metric-2-condensed-bold-italic.woff') format('woff');
+	font-style: italic;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'Metric2Condensed';
+	font-weight: 400;
+	src:
+	url('../fonts/metric-2-condensed-regular.woff2') format('woff2'),
+	url('../fonts/metric-2-condensed-regular.woff') format('woff');
+	font-style: normal;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'Metric2Condensed';
+	font-weight: 400;
+	src: 
+	url('../fonts/metric-2-condensed-italic.woff2') format('woff2'),
+	url('../fonts/metric-2-condensed-italic.woff') format('woff');
+	font-style: italic;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'Redaction';
+	font-weight: 400;
+	src: url('../fonts/Redaction-Regular.woff2') format("woff2");
+	font-style: normal;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'Redaction';
+	font-weight: 400;
+	src: url('../fonts/Redaction-Italic.woff2') format("woff2");
+	font-style: italic;
+	font-stretch: normal;
+}
+@font-face {
+	font-family: 'Redaction';
+	font-weight: 700;
+	src: url('../fonts/Redaction-Bold.woff2') format("woff2");
+	font-style: normal;
+	font-stretch: normal;
+}
+
+.sans-serif {
+	font-family: 'Metric2';
+}
+
+.sans-serif-cond {
+	font-family: 'Metric2Condensed';
+}
+
+
+.serif{
+	font-family: 'Redaction';
+}
+

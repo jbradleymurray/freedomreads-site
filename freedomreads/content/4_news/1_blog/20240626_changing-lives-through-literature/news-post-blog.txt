@@ -1,0 +1,33 @@
+Title: Changing Lives Through Literature
+
+----
+
+Featureimg: - file://nykoDwDAH1lH88rE
+
+----
+
+Introduction: I have been with Freedom Reads since February of 2023. My job consists of building Freedom Libraries at our shop in Hamden, Connecticut. Working with my hands to make sure that people on the inside are able to see these beautiful wooden Freedom Libraries and run their hands along the wood that I put my hands on.
+
+----
+
+Blocks: [{"content":{"text":"<p>In May, I had the opportunity to enter Garden State Correctional Facility, a facility in New Jersey that houses people from the ages of 18 - 30 years old. As we walked into Garden State with the Freedom Reads team, I was anxious. It was the first facility I entered that reminded me of Osborn Correctional Institution in CT – the facility that I had been housed in when I was 20 years old, which was the same age that much of the youth at Garden State was.</p><p>Being a part of the Freedom Library openings there was special to me because I realized that the work I had been doing on the Freedom Libraries mattered. That these Freedom Libraries were literally changing housing unit spaces nationwide, but most importantly, the culture of the prison as well. Literature was changing lives.</p><p>I got to talk to the youth in the facility and it was hard not to see myself in them. These people were so hungry for books and talked about how hard it was to get great pieces of reading material. They mentioned not having nothing to do all day. If there is one thing to know about prison is that if you have idle time, it’s easy to fall into bullshit. However, providing the housing unit spaces with libraries changes that. Much like me during my time in prison, books were a vehicle that drove me out of prison and to places that I never imagined possible. </p><p>It’s been about a year and half since I have been released and I am grateful to be working with an organization where I can work with people I did time with, with an organization that provides me an outlet to give back, and with an organization that helps people everywhere imagine what life might look like once released or to experience the beautiful journey that is immersing yourself in literature.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"a2353bf2-5c13-497c-96f2-ec28f7d6e354","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Showing Up
+
+----
+
+Published: 2024-06-26 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Michael Byrd
+  authoraffiliation: Library Production Assistant
+
+----
+
+Uuid: OgGTaaUqWicPlxPx

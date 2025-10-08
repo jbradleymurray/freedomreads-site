@@ -1,0 +1,36 @@
+Title: Inside Literary Prize: Judging Orientations & Kicking Off the ILP Tour
+
+----
+
+Featureimg: - file://v1EZtRw8l59AIm48
+
+----
+
+Introduction: Freedom Reads Program Coordinators David Perez Jr and Gabby Colangelo provide an update on the Inside Literary Prize, the first-ever US-based literary prize awarded exclusively by currently incarcerated people.
+
+----
+
+Blocks: [{"content":{"text":"<p><strong>From David and Gabby:</strong></p><p>From January to March, we had the opportunity to meet with most of the 300 Inside Literary Prize judges from 12 different prisons across the nation via Zoom. Judges watched a video message from Freedom Reads Founder &amp; CEO Dwayne, who highlighted the importance of their role as a judge: “What you have to remember is that your voice matters, your opinion matters, and that all of these writers that wanted to win this prize and didn’t, and the ones that will ultimately win, are excited and encouraged and happy to have you reading their work and talking about it.” Judges also learned more about Freedom Reads and discussed the nitty-gritty of their role as a judge. We had an amazing time meeting folks on the inside and doing what the Freedom Reads team loves doing the most - talking about books. </p><p>We’re busy in the office preparing to leave for the first leg of the Inside Literary Prize tour on March 31st. In just a few days, we’ll be meeting judges from Arizona and Colorado in person, holding judging sessions on the <a href=\"https://www.nytimes.com/2023/12/04/books/inside-literary-prize.html\" target=\"_blank\" title=\"four short-listed books\">four short-listed books</a> and facility-wide poetry readings featuring Dwayne himself. We’re buzzing with excitement as we pack books and sound equipment for our many-miles trip. Later in April and May, we’ll get to meet judges from North Carolina, Minnesota, Missouri, and North Dakota. We can’t wait to hear what folks think of the books!</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"a63e89b8-623a-4f38-a6fd-dbb6cdd0bd25","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Inside Literary Prize
+
+----
+
+Published: 2024-03-31 07:00:00
+
+----
+
+Author:
+
+- 
+  authorname: David Perez Jr
+  authoraffiliation: Program Coordinator at Freedom Reads
+- 
+  authorname: Gabby Colangelo
+  authoraffiliation: Program Coordinator at Freedom Reads
+
+----
+
+Uuid: yWm2OkQZD2nwpMmu

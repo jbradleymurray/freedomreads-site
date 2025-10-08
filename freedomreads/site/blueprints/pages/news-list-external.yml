@@ -1,0 +1,60 @@
+title: News External List
+columns:
+	- width: 3/4
+		sections:
+			entries:
+				type: fields
+				fields:
+					listing:
+						label: List of Entries
+						type: structure
+						sortBy: publishdate desc
+						fields:
+							title:
+								label: Title
+								type: text
+							link:
+								label: Webpage URL
+								type: url
+							author:
+								label: Author Name
+								type: text
+							publication:
+								label: Publication Name
+								type: text
+							publishdate:
+								label: Date
+								type: date
+							description:
+								label: Description
+								type: textarea
+								buttons:
+									- italic
+									- link
+							thumbnail:
+								label: Preview Image
+								type: files
+								template: image
+								multiple: false
+								upload: true
+							newstags:
+								label: Tags
+								type: tags
+								options: 
+									type: query
+									query: site.index.pluck("newstags", ",", true)
+	- width: 1/4
+		sections:
+			content:
+				type: fields
+				fields:
+					introduction:
+						required: true
+						type: textarea
+						buttons:
+							- italic
+							- link
+			files:
+				label: Images on this page
+				type: files
+				query: page.images

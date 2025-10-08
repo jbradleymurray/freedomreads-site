@@ -1,0 +1,50 @@
+Title: CHEFA Awards $400,000 Enterprise Capital Grant to Freedom Reads to Grow Reach and Impact in Connecticut Prisons
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: Support will enable Hamden, Connecticut-based non-profit Freedom Reads to open more Freedom Libraries in more Connecticut prisons as it works to ensure that every incarcerated person in the state has access; Launch event at 10 am on April 29 at Freedom Reads Headquarters in Hamden, Conn.
+
+----
+
+Blocks: [{"content":{"text":"<p><a href=\"https://chefa.com/\" target=\"_blank\">The Connecticut Health and Educational Facilities Authority</a> (CHEFA) and the Hamden, Connecticut-based non-profit <a href=\"https://freedomreads.org/\" target=\"_blank\">Freedom Reads</a> announce their partnership with a generous $400,000 Enterprise Capital Grant to Freedom Reads from the quasi-public agency. We invite you to join us for the official launch event, where you will hear from the two organizations and other stakeholders about the impact of this award. The event will take place at 10 am ET on Monday, April 29, 2024, at Freedom Reads headquarters:</p><p>2666 State Street Suite 5A<br>Hamden, CT 06517</p><p>This visionary grant award is among CHEFA’s largest focused on education, one of CHEFA’s core priorities. The partnership represents a natural fit for the two organizations as they are both focused on enhancing the lives of Connecticut residents. CHEFA, through its tax-exempt financing and philanthropic programming, and Freedom Reads, through its focus on the empowerment of individuals living in prisons to radically transform their lives through access to literature, are making a commitment to equitable opportunities.</p><p>Unlike traditional philanthropy, this innovative Enterprise Capital grant is unique as it provides long-term, flexible capital focused on supporting the organization’s sustainability and capacity to scale their operations statewide. CHEFA is the first organization providing Enterprise Capital grants in the State of Connecticut.</p><p>Founded in 2020, Freedom Reads is a first-of-its-kind organization bringing beautifully handcrafted 500-book libraries into cellblocks, empowering people in prison through literature to imagine new possibilities for their lives. To date, Freedom Reads has opened 303 Freedom Libraries in 37 prisons across 10 states, including 38 libraries across four prisons in Connecticut. Through 500-book libraries in prison cellblocks and bringing programming from poetry readings to literary performances, as well as prominent, award-winning literary figures into prisons, Freedom Reads fosters dialogue, connection, and community among incarcerated individuals where they live. Nearly half of Freedom Reads’ full-time staff are formerly incarcerated individuals. And, at its workshop and headquarters in Hamden, Freedom Reads has provided many other reentering individuals with skills training and workforce development.</p><p>\"CHEFA’s support of Freedom Reads reflects our commitment, as a quasi-public entity offering financial assistance to non-profits throughout the state, to enhancing the quality of life of our citizens. This innovative Enterprise Capital philanthropic funding will allow Freedom Reads to expand its reach statewide and will provide them the opportunity to build on this Connecticut model as they seek national expansion,” said Jeanette W. Weldon, CHEFA Executive Director.</p><p>“This is Freedom Reads’ first grant award from, and partnership with, a state or quasi- state agency and it is transformational, including as a model for other states and jurisdictions,” said Freedom Reads Founder &amp; CEO Reginald Dwayne Betts. “We are immensely honored to partner with CHEFA in our home state of Connecticut. To us, this support is a clear affirmation to the Freedom Reads team and our library patrons inside, across Connecticut and the nation, that there are diverse and committed stakeholders in the vital work in which Freedom Reads is engaged. With growing and broadening support from private individuals, corporations, foundations, and quasi- and fully governmental agencies, and beyond, Freedom Reads is working tirelessly to achieve its vision of a Freedom Library in every cellblock in every prison in America and a society that acknowledges and nurtures the basic dignity and humanity of people in prison.”</p><p>The brainchild of 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts, who was sentenced in Virginia to nine years in prison at age 16, Freedom Libraries seek to create a space in prisons to encourage community and in which reaching for a book can be as spontaneous as human curiosity. Each bookcase is handcrafted out of maple, walnut or cherry and is curved to contrast the straight lines and bars of prisons as well as to evoke Dr. Martin Luther King, Jr.'s observation about the \"arc of the universe\" bending \"toward justice.\"</p><p>Books in the Freedom Library have been carefully curated through consultations with hundreds of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved, but indispensable. The libraries include contemporary poets, novelists, and essayists alongside classic works from Homer's <em>The Odyssey </em>to the <em>Narrative of the Life of Frederick Douglass </em>– titles that remind us that the book has long been a freedom project.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"256dcc0b-7590-4581-bae9-c71587793b96","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>About CHEFA</strong>:</p><p>The mission of the Connecticut Health and Educational Facilities Authority (CHEFA) is to provide financial assistance to eligible entities in the State, expand educational opportunities for Connecticut students, and enhance the quality of life for State residents, including those in distressed communities. CHEFA has awarded more than $48 million in grants since 2002 as part of its grant program. CHEFA is a self-supporting entity, receiving no state funds or taxpayer dollars to support its operations or grantmaking. For more information about CHEFA, please visit <a href=\"https://chefa.com/\" target=\"_blank\">https://chefa.com/</a>.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"f57aae34-1801-4cca-abd6-658de7360ae7","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Freedom Library
+
+----
+
+Published: 2024-04-25 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Ivan J. Dominguez
+  position: 'Chief Communications Officer & Director of Development'
+  organization: Freedom Reads
+  email: ivan@freedomreads.org
+  phone: ""
+- 
+  name: Daniel C. Giungi
+  position: 'Government Affairs & Communications Specialist'
+  organization: CHEFA
+  email: dgiungi@chefa.com
+  phone: 860-761-8416
+
+----
+
+Posted: https://api.neonemails.com/emails/content/xVhBQNfI9Wu2Tdfrekp1dZCDX5kMHVmEjstJ8ddpoHk=
+
+----
+
+Uuid: h3IOJxVULNA0a0DW

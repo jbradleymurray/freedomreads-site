@@ -1,0 +1,36 @@
+Title: Elayn Hunt Correctional Center
+
+----
+
+Prisonlocation:
+
+lat: 30.26546615
+lon: '-91.085641521704'
+number: "6925"
+city: St. Gabriel
+region: Louisiana
+country: United States
+countryCode: us
+postcode: "70776"
+address: Legion Road
+osm: 316314616
+
+----
+
+Prisontype: Men’s
+
+----
+
+Librarycount: 3
+
+----
+
+Libraryimg: - file://apelZUiO16UXC279
+
+----
+
+Libraryquote: 
+
+----
+
+Uuid: y7tLZrjDl9VFfZlM

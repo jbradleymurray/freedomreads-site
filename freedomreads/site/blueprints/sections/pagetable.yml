@@ -1,0 +1,25 @@
+type: pagetable
+# sortBy: modified desc
+sortBy: date desc
+status: all
+empty: No articles yet
+columns:
+  title:
+    label: Title
+    text: '{{ page.title }}'
+    type: text
+    width: 1/2
+    sortable: true
+    searchable: true
+  category:
+    label: Category
+    text: '{{ page.categories }}'
+    type: text
+    sortable: true
+    searchable: false
+  date:
+    label: Date
+    text: '{{ page.date }}'
+    type: text
+    sortable: true
+    searchable: false

@@ -1,0 +1,20 @@
+title: Report
+columns:
+  - width: 2/3
+    fields:
+      content: sections/basic-page
+  - width: 1/3
+    fields:
+      reportstatus:
+        label: Report Status
+        type: toggle
+        default: false
+        text:
+          - "Archived"
+          - "Current"
+      meta: sections/meta
+      pdf:
+        label: PDF
+        type: files
+        template: docs
+        query: page.documents

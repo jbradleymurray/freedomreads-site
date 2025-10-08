@@ -1,0 +1,44 @@
+Title: Freedom Reads Opens Freedom Library at the National Building Museum
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: Library conceived by former prisoner-turned-acclaimed-poet and Yale Law grad to inspire reform is now open to the public for the first time
+
+----
+
+Blocks: [{"content":{"text":"<p><a href=\"https://freedomreads.org/\" target=\"_blank\">Freedom Reads</a> announced today the opening of its Freedom Library installation at the <a href=\"https://www.nbm.org/\" target=\"_blank\">National Building Museum</a>, an addition to the ongoing exhibit \"Justice is Beauty: The Work of MASS Design Group.\" This interactive installation is the first library of its kind shown to the public. Libraries like it are being built in prisons nationwide, the first of which opened at MCI-Norfolk prison outside of Boston in November. Freedom Reads aims to build 1,000 similar Freedom Libraries in prisons across the country. </p><p>The libraries, the brainchild of 2021 MacArthur Fellow Reginald Dwayne Betts who was sentenced to nine years in prison at age 16, seek to create a space in prisons to encourage the full realization of self and the exploration of new possibilities. Betts' own realization of his potential came through a fellow prisoner sliding a book under his door, which put him on a different path - one that included graduating from Yale Law School and becoming one of the most acclaimed poets of his generation. </p><p>Books in the Freedom Library have been carefully curated through consultations with thousands of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved, but indispensable. The emphasis is on contemporary poets, novelists, and essayists alongside classic works, from Homer's <em>The Odyssey</em> to the <em>Narrative of the Life of Frederick Douglass</em>, that remind us the book has long been a freedom project.</p><p>\"The Freedom Library opened first in prisons in Massachusetts and Louisiana, and now the public outside of prison can see and touch it, too,\" said Reginald Dwayne Betts, Founder and Director of Freedom Reads. \"This exhibit at the National Building Museum lets visitors explore the collection and experience the same inspiration as the men and women in prison paging through these books. I know firsthand literature's power to remind people in prison what dignity looks like, and what freedom feels like. That's what our work to bring the Freedom Library to prisons nationwide is all about.\" </p><p>\"Freedom Reads libraries transform prison spaces, filling them with inspiration and hope. This landmark installation within MASS Design Group's Justice is Beauty exhibition at the National Building Museum adds a new layer of meaning and truly reflects MASS Design's belief that design can, and should, improve people's lives,\" said Aileen Fuchs, President and Executive Director of the National Building Museum. \"The Museum's mission is to educate and engage our audiences about the built environment and its impact on our lives and communities. We are proud hosts of this extraordinary collaboration and invite everyone to experience the Freedom Reads library first hand in its first public home.\"</p><p>This exhibit will be open to the public during regular visiting hours at the National Building Museum and be on display until September 2022. </p><p><strong>For more information about Freedom Reads and the Freedom Libraries project please visit </strong><a href=\"https://freedomreads.org/\" target=\"_blank\"><strong>https://freedomreads.org/</strong></a><strong>  </strong></p><p><strong>About Freedom Reads:</strong></p><p>Founded by Reginald Dwayne Betts, who knows firsthand the dispiriting forces of prison, Freedom Reads empowers people through literature to confront what prison does to the spirit. Supported by the Andrew W. Mellon Foundation and inspired by the belief that freedom begins with a book, Freedom Reads supports the efforts of people in prison to transform their lives through increased access to books and writers.</p><p><strong>About MASS Design Group: </strong></p><p>A Model of Architecture for Society (MASS) Design Group was founded in 2008 as a non-profit organization with the mission to research, design, build, and advocate for architecture that promotes justice and human dignity. The organization has grown to a team of 200 architects, landscape architects, engineers, builders, furniture designers, writers, filmmakers, and researchers representing 20 countries across the globe. With headquarters in Boston and Kigali, Rwanda, MASS received the American Institute of Architecture´s <a href=\"https://www.architectmagazine.com/awards/aia-awards/mass-design-group-wins-2022-aia-architecture-firm-award_o\" target=\"_blank\">2022 Architecture Firm Award</a> and the <a href=\"https://stats.nwe.io/x/html?final=aHR0cHM6Ly93d3cud3NqLmNvbS92aWRlby9zZXJpZXMvaW5ub3ZhdG9ycy0yMDIwL21hc3MtZGVzaWduLWdyb3VwLTIwMjAtYXJjaGl0ZWN0dXJlLWlubm92YXRvci8yOEY4REQ3My00ODhCLTQwNjQtQkM2RS01MEU2QzYwQkJGMDk&amp;sig=RDI1gH7p65aMeEMKOQumcZr78DzPO7bUesM6ri2q1rXKKkRjVGq6aLFTCBfb3DAvv3FLKm1N3DQpSQZyE6ykuA&amp;hit%2Csum=WyIzZnBsYWUiLCIzZnBsYWYiLCIzZnBsYTYiXQ\" target=\"_blank\">2020 </a><a href=\"https://www.wsj.com/video/series/innovators-2020/mass-design-group-2020-architecture-innovator/28F8DD73-488B-4064-BC6E-50E6C60BBF09\" target=\"_blank\">Wall Street Journal´s Architecture Innovator Award</a>. </p><p><strong>About the National Building Museum: </strong></p><p>The National Building Museum inspires curiosity about the world we design and build. We believe that understanding the impact of architecture, engineering, landscape architecture, construction, planning, and design is important for everyone. Through exhibitions, educational programs, and special events, we welcome visitors of all ages to experience stories about the built world and its power to shape our lives, our communities, and our futures.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"eb1181ce-7c55-4680-a27a-23225938267d","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Freedom Library
+
+----
+
+Published: 2022-03-04 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Ivan Dominguez
+  position: 'Chief Communications Officer & Director of Development'
+  organization: Freedom Reads
+  email: ivan@freedomreads.org
+  phone: ""
+
+----
+
+Posted: https://www.newswire.com/news/freedom-reads-opens-freedom-library-at-the-national-building-museum-21648356?_gl=1*10jydpu*_ga*MTkwMTQ2ODUzMi4xNjkwNDgyMTA1*_ga_MX6T5V36WQ*MTY5NzQ2ODY0OS4xMy4xLjE2OTc0Njg3MTEuNTkuMC4w
+
+----
+
+Uuid: hGqaUAWWXOd9L9Gl

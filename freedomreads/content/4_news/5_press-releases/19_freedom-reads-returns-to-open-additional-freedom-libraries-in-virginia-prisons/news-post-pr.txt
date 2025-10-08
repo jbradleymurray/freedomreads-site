@@ -1,0 +1,44 @@
+Title: Freedom Reads Returns to Open Additional Freedom Libraries in Virginia Prisons
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: National non-profit Freedom Reads opens 32 Freedom Libraries at Dillwyn Correctional Center and Buckingham Correctional Center; Freedom Reads Founder & CEO Reginald Dwayne Betts performs his one-man show *FELON: An American Washi Tale*.
+
+----
+
+Blocks: [{"content":{"text":"<p>This week, the national non-profit <a href=\"https://freedomreads.org/\" target=\"_blank\">Freedom Reads</a> is opening 14 Freedom Libraries at Dillwyn Correctional Center, which includes one for staff, and 18 libraries at Buckingham Correctional Center in Dillwyn, VA. These 32 Freedom Libraries will be placed in the facilities' cellblocks for unfettered access to the 500-book collection. This follows on Freedom Reads’ opening of 12 Freedom Libraries at St. Brides Correctional Center and 12 libraries at Indian Creek Correctional Center in Chesapeake, VA, last spring and brings the total number of Freedom Libraries in the Virginia prison system to 56. </p><p>The brainchild of 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts who was sentenced in Virginia to nine years in prison at age 16, Freedom Libraries seeks to create a space in prisons to encourage community and in which reaching for a book can be as spontaneous as human curiosity. Each bookcase is handcrafted out of maple, walnut or cherry and is curved to contrast the straight lines and bars of prisons as well as to evoke Dr. Martin Luther King, Jr.'s observation about the \"arc of the universe\" bending \"toward justice.\" </p><p>These library openings also mark the 19<sup>th</sup> anniversary of Betts’ own release date from the Virginia prison system. To commemorate the anniversary, Betts is performing his one-man show <a href=\"https://www.artidea.org/felon\" target=\"_blank\"><em>FELON: An American Washi Tale</em></a>, in which he explores the lingering consequences of having a criminal record, fatherhood, the power of literature, and love, at both Dillwyn and Buckingham correctional facilities today. The show is based on Betts’ 2019 poetry collection <a href=\"https://wwnorton.com/books/9780393652147\" target=\"_blank\"><em>FELON</em></a>, winner of the NAACP Image Award.</p><p>“I grew up in Virginia prisons and it was in those cellblocks that I discovered a love for all that a good book can do for you,” said Freedom Reads Founder &amp; CEO Reginald Dwayne Betts. “Bringing Freedom Libraries here, sharing my artistry with men I served time with, and hoping to be a part of this beacon of possibility we all need is a real honor. It was men in Virginia prisons that reminded me I mattered when I didn't believe it to be true and this is something of a thank you.”</p><p>“These donations are so greatly appreciated by the Virginia Department of Corrections,” said Virginia Department of Corrections Director Chad Dotson. “We all know the true inspiration books can bring to our lives, and I hope these libraries will bring messages of hope, inspiration, knowledge, and wisdom to the inmates at Buckingham and Dillwyn. Thank you to Mr. Betts and the Freedom Reads team for their donation, which will help to prepare inmates for successful re-entry. That successful re-entry in turn leads to long-term public safety in the Commonwealth.”</p><p>Freedom Reads is a first-of-its-kind organization that empowers people in prison through literature to imagine new possibilities for their lives. Books in the Freedom Library have been carefully curated through consultations with hundreds of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved but indispensable. The libraries include contemporary poets, novelists, and essayists alongside classic works from Homer's <em>The Odyssey</em> to the <em>Narrative of the Life of Frederick Douglass</em> – titles that remind us that the book has long been a freedom project.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"2110e29e-e95d-4268-816b-887f414a1a2d","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Openings, Freedom Library
+
+----
+
+Published: 2024-03-04 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Ivan Dominguez
+  position: 'Chief Communications Officer & Director of Development'
+  organization: Freedom Reads
+  email: ivan@freedomreads.org
+  phone: ""
+
+----
+
+Posted: https://www.newswire.com/news/freedom-reads-returns-to-open-additional-freedom-libraries-in-virginia-22256939
+
+----
+
+Uuid: SIUpD9LW0NQvMPBb

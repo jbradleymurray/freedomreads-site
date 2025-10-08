@@ -1,0 +1,33 @@
+Title: Founder's Take: Showing Up
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: This is what they don’t tell you: men and women, people in prison, laugh. They will not say that we get wise, make discoveries, struggle with more than the inexorable weight of time. And Freedom Reads celebrates that. The reasons for this celebration, at least for me, have become most relevant these days – when the losses of the world feel innumerable and remind me of time marking days off a calendar that seemed would last forever.
+
+----
+
+Blocks: [{"content":{"text":"<p>All of this is to say that another person I have worked to get released from prison was denied parole. To say again, amidst dealing with the denial, I have had to deal with, as we all do, the nagging feeling that what you’re doing has no value. That the losses are not just heavy enough to eclipse the wins but make the wins laughable.<br><br>And then you get a phone call. I was in our office. Jermaine Bell had just read our newsletter and was calling me to give me props. <em>Shahid, you really out there doing the damn thing</em>. What struck me was how he talked about our staff, about being moved by the essay David Perez wrote about coming out to the men he was incarcerated with. Jermaine told me how the guys inside were creating book clubs and that men at the prison where he is doing time, who have no access to Freedom Libraries, are asking the DoC to make it happen for them.<br><br>This call reminded me of the last time Jermaine hit me up at the right time. I was in New York preparing for an event. It was January and Jermaine had just been denied parole for the third time since I’d been helping him. You know, the wins make you feel like you can run through a brick wall. But the losses, the losses are the brick wall, on top of you, while you are wrapped in a straitjacket. But Jermaine called me that January day to apologize to me for not checking in on me.<br><br>It's wild. I like this quote from Harold Bloom — “We read deeply for varied reasons, most of them familiar: that we cannot know enough people profoundly enough; that we need to know ourselves better; that we require knowledge, not just of self and others, but of the way things are.”<br><br>But I think, too, what reading does is give you the ability to see the things at the lower frequencies and that’s the sight that has you picking up the phone for a friend at the right time. Freedom Reads has always been about showing up when you’re needed. And it’s never been about me showing up for people, it’s been a thank you for all the times people have showed up for me.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"de1fdfe3-2a0e-4b0d-977d-dcd5174e671a","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: 
+
+----
+
+Published: 2024-07-29 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Freedom Reads Founder & CEO'
+
+----
+
+Uuid: 6IRa397HtWTF5hDW

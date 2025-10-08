@@ -1,0 +1,33 @@
+Title: Founder’s Take: The Library as a Conduit to Possibility
+
+----
+
+Featureimg: - file://u2VB6tPYeVYsUUGh
+
+----
+
+Introduction: On November 29, 2023, as part of our goal of opening a Freedom Library in every cellblock in the United States, we opened four more Freedom Libraries at the Louisiana State Penitentiary (Angola). But that ain’t half the story. Walking back inside the acres that were once a plantation but now a prison was James Washington. James entered Angola as a teenager and would go on to serve 25 years there. Those who don’t know better might call him a convict or, better still, formerly incarcerated. But once, I walked onto Angola with James. Angola, one of the most fierce prisons in this country. I watched men greet James like a brother. Watched him embraced by men he did decades with. And I watch him greeted as friend, as brother, as mentor, as counselor – not once, not even by the staff there, as inmate, prisoner, formerly incarcerated.
+
+----
+
+Blocks: [{"content":{"text":"<p>Prisons are geographies of suffering. But we have a choice about what stories we infuse this idea of prison with. James Washington, after serving 25 years in a place that’s very name has evoked fear for more than a century, returned with a different story. Since his release from prison, James has been working at Freedom Reads. He had asked that the openings take place yesterday, as November 29 is his birthday. Indeed, we opened two of the four Freedom Libraries in the inpatient drug rehabilitation center at Angola, where James spent time as a sponsor and mentor. “It was the best birthday gift to go back and give inspiration to those I spent so much time with and who I love the most, and who love me the most,” James said.</p><p>James’ story reminds me of why we do this work. The library is a conduit to possibility. In less than two years, Freedom Reads has opened more than 200 Freedom Libraries. That milestone took place at the Otisville Correctional Facility in New York where we returned with Pulitzer Prize-winning Freedom Ambassador Mitchell S. Jackson to bring a Freedom Library to every cellblock in the prison. Now, all the incarcerated individuals and staff members at Otisville have access to a Freedom Library. At the official opening event that afternoon, there was a live performance of <em>The Brief Wondrous Life of Oscar Wao</em>, adapted and developed by our partner Literature to Life from Junot Diaz’s award-winning novel.</p><p>Last month, I shared with you how not too long ago this was all just an idea, a dream under development. The realization of more than 200 Freedom Libraries in 33 prisons and juvenile detention facilities and of serving more than 25,000 library patrons in prisons across America has shown me that dreams can come true. Our dream now, our vision in fact, is a Freedom Library in every cellblock in every prison in America. With your support, we’ve come this far. And we’re just getting started.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"1e1d39c5-2319-4928-b788-8eb272b06f0c","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Founder's Takes, Freedom Library
+
+----
+
+Published: 2023-11-30 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Reginald Dwayne Betts
+  authoraffiliation: 'Founder & CEO of Freedom Reads'
+
+----
+
+Uuid: cnUrJEPRvGhJvAUe

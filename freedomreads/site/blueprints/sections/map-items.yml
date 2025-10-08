@@ -1,0 +1,15 @@
+type: pages
+parent: site.find("map")
+layout: table
+sortBy: getStateIndex asc
+search: true
+columns:
+	state: 
+		label: State
+		value: "{{ page.getState }}"
+	librarycount: 
+		label: Number of Libraries
+	prisontype:
+		label: Type of Prison
+create:
+	templates: map-post

@@ -1,0 +1,17 @@
+Title: Book Circles
+
+----
+
+Hero: - file://JxrkoRHSTFb4aiye
+
+----
+
+Introduction: Building knowledge with others through books.
+
+----
+
+Blocks: [{"content":{"text":"<p>Before Freedom Reads opened its first Freedom Library, we were already getting great books into the hands of people in prison through Book Circles. As one of our very first acts at the beginning of the pandemic in 2020, we shipped almost 4,000 books to prisons in over 35 states. Books included those by Miriam Toews, Victor Frankl, Natialie Diaz, Kiese Laymon, Erika Sánchez, and others. To date we have sent tens of thousands of books to readers Inside.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"e6f2978c-f223-459d-8e0c-87fc776591a2","isHidden":false,"type":"text"},{"content":{"text":"I teach in a solitary confinement unit, and your books are much appreciated! The incarcerated people there wait for me to bring the next one. Thank you very much.","citation":"Teacher in Washington state","inline":"false","image":[],"sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"e1c3993f-c0b2-4715-8edb-0d71eaf70ec7","isHidden":false,"type":"quote-custom"},{"content":{"text":"<p>Books Circles expand the Freedom Libraries, placing the same acclaimed books in the hands of readers in prisons across America. Every month we send new books that have often never been seen inside prisons, and readers come together to connect over the book and share the joys of reading.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"de90cfe1-6253-420a-b091-5e2e512da724","isHidden":false,"type":"text"},{"content":{"text":"Through these books I have learned many things, but above all they have brought me out of my 'comfort zone' in my reading material...","citation":"Courtney, Dr. Eddie Warrior Correctional Center, Oklahoma","inline":"false","image":[],"sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"53913b94-f102-4ce9-8483-3ef29f6dbc5f","isHidden":false,"type":"quote-custom"},{"content":{"image":["file://ElnzVn4zJiY7AoLp"],"layout":"fullwidth","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"1a4133f8-69f6-48f3-8b8b-e65035d14353","isHidden":false,"type":"image"}]
+
+----
+
+Uuid: 0N1MM35y5ON0GM8m

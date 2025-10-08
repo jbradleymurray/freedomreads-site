@@ -1,0 +1,33 @@
+Title: Keeping Hope Alive: From Attica to Malta
+
+----
+
+Featureimg: - file://T5Doj812fJiXIHD5
+
+----
+
+Introduction: 
+
+----
+
+Blocks: [{"content":{"text":"<p>Believe me when I tell you, there cannot be anything more different, more distant, more everything than  the difference between the infamous Attica state prison in upstate New York and Malta, the small, sunny island nation in the Mediterranean Sea. Before I had the good fortune of traveling to Malta, I was serving a life sentence for murder behind the gloomy concrete walls of Attica state prison – a place where time seemed under arrest and clouds appeared grey and in mourning for those inside. The prison is infamous, not just for its brutally dismal appearance, but for its wildly violent history. Tension often hung in the air like the echo of screams.Time was marked by the industrial sound of steel doors and gates banging and clanging shut. I was desperate for freedom, for Attica didn’t just cage my body, it sought to cage my spirit and entomb it into eternity. </p><p>Yet even in that bleakness, I clung fast to hope, and books became my lifeline. I read philosophy, history, poetry, literature, biographies and more. Anything that would elevate my mind beyond the prison walls. I also took refuge in writing. I began by putting my thoughts on paper. Turning those thoughts into short stories. Stories about many things including places I’d like to visit someday. Malta was one such place, having lodged itself in my memory after reading The Maltese Falcon, by Dashiell Hammett. I then got hold of books about Malta and began to read about its clear emerald waters, its resilience through centuries of siege and survival, which seemed like a metaphor for who I needed to become. The seasons went by, the years fell like pages from a calendar, and the day came when I was released. </p><p>Life on the outside didn’t begin easy but it was a life that was mine to recreate. And so, I worked, I stumbled, I rebuilt. Then in June of 2024, nearly forty years after I had first stepped into Attica, I walked off a plane and onto the sun-drenched soil of Malta. As you can well imagine, the experience was dream-like. The air smelled of salt and citrus. Valletta—the nation’s capital—is adorned with limestone buildings that glow in the late afternoon light, and the calm Mediterranean stretched endlessly before me, as if daring me to believe I was no longer a prisoner. I strolled through the silent streets, touched the ancient stones of Hager Qim (an archaeological site) and took a swim in the Blue Lagoon, where the water was so clear it felt like floating upon a closely guarded secret. Malta wasn’t simply a vacation; it was a time of reckoning. Standing atop the sun splashed cliffs of Dingli, I reflected on the person I was in Attica. A person fully shackled, in chains, locked down. </p><p>In Malta I was unshackled, unchained, and grateful. Malta reminded me that beauty exists even after darkness, that healing is possible, and that the past doesn’t have to define the future.</p><p><br></p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"b011e08f-051f-480f-a26d-4908d2786bcd","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Why Reading Matters
+
+----
+
+Published: 2025-09-25 00:00:00
+
+----
+
+Author:
+
+- 
+  authorname: Dempsey
+  authoraffiliation: Resident Creative Writer, Freedom Reads
+
+----
+
+Uuid: 1yx66P1OzakbVtYt

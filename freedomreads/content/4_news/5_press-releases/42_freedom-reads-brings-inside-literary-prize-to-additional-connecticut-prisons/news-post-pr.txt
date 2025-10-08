@@ -1,0 +1,44 @@
+Title: Freedom Reads Brings Inside Literary Prize to Additional Connecticut Prisons
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: National non-profit Freedom Reads facilitates Inside Literary Prize book discussions, voting, and author events at Cheshire and York Correctional Institutions
+
+----
+
+Blocks: [{"content":{"text":"<p>The national non-profit <u><a href=\"http://www.freedomreads.org\">Freedom Reads</a></u> facilitated <u><a href=\"https://freedomreads.org/news/press-releases/freedom-reads-national-book-foundation-center-for-justice-innovation-announce-shortlist-for-2025-inside-literary-prize\">Inside Literary Prize</a></u> book discussions, voting, and author readings for the second annual Inside Literary Prize at Cheshire Correctional Institution and York Correctional Institution this week.</p><p>Launched in 2023 by Freedom Reads, independent bookstore owner Lori Feathers, the National Book Foundation, and the Center for Justice Innovation, the Inside Literary Prize is the first-ever US-based literary prize awarded exclusively by currently incarcerated people. 25 incarcerated readers at each of Cheshire and York Correctional Institutions are serving as judges for the 2025 Prize, casting their ballots this week for one of this year’s four shortlisted books – <u><a href=\"https://www.nationalbook.org/books/chain-gang-all-stars/\"><em>Chain-Gang All-Stars</em></a></u> by Nana Kwame Adjei-Brenyah, <u><a href=\"https://www.nationalbook.org/books/this-other-eden/\"><em>This Other Eden</em></a></u> by Paul Harding, <u><a href=\"https://www.nationalbook.org/books/on-a-womans-madness/\"><em>On a Woman’s Madness</em></a></u> by Astrid Roemer, and <u><a href=\"https://www.nationalbook.org/books/blackouts/\"><em>Blackouts</em></a></u> by Justin Torres. The winner of the 2025 Prize will be announced this July.</p><p>As part of the Inside Literary Prize events, Caits Meissner, editor of <u><a href=\"https://pen.org/prison-and-justice-writing/the-sentences-that-create-us/\"><em>The Sentences that Create Us</em></a></u> by PEN America, joined Freedom Reads for author events at York and Cheshire Correctional Institutions. The Freedom Reads team previously completed two Inside Literary Prize tour stops in Connecticut, at Cybulski and Carl Robinson Correctional Institutions, this May. And, throughout the spring, the team brought the Prize to Illinois, New Jersey, California, and Puerto Rico. Freedom Reads will be visiting two more prisons across Ohio next week to bring the Inside Literary Prize to all 300 incarcerated judges and bring the 2025 tour to a close. </p><p>“The Freedom Reads team has deep roots in Connecticut prisons, and it always feels powerful to return to our community Inside there,” said <strong>Freedom Reads Founder &amp; CEO Reginald Dwayne Betts</strong>. “It is remarkable to reflect on how David, Jimmy, Kevin, Mike, and Steven – who once served time inside the prisons we visited earlier on this tour – are now returning with us to bring great books and thought-provoking literary events to those still Inside. As we near the end of this year’s Inside Literary Prize tour, I keep thinking about what it means to honor and elevate the voices of our judges Inside who’ve shaped this Prize. It means everything. We are grateful to the Connecticut Department of Correction for their partnership in the 2025 Inside Literary Prize.”</p><p>“When someone is asked to be a judge for a literary award, it means their opinion matters and is respected,” said <strong>Connecticut Department of Correction’s Director of Programs and Treatment Eulalia Garcia</strong>. “Having incarcerated individuals act as judges for the Inside Literary Prize, affirms the participants’ intelligence, insight and humanity. Thank you to Freedom Reads for providing this opportunity for growth and positivity.”</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"e85426f0-fcaf-40a3-a1cd-46efd43e4852","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>About the Inside Literary Prize</strong></p><p>In 2023, <u><a href=\"https://freedomreads.org/@/page/8paB8bq3jZ3C65Dq\">Freedom Reads</a></u>, the <u><a href=\"https://www.nationalbook.org/\">National Book Foundation</a></u>, and the <u><a href=\"https://www.innovatingjustice.org/\">Center for Justice Innovation</a></u>, with support from literary podcaster Lori Feathers, announced the launch of the <u><a href=\"https://freedomreads.org/showing-up/inside-literary-prize\">Inside Literary Prize</a></u>, the first-ever US-based literary prize awarded exclusively by currently incarcerated people. The Prize is awarded each year to one of four shortlisted books by a jury of 300 incarcerated readers from prisons across the nation. This initiative seeks to honor the insights incarcerated readers add to cultural conversations and expand access to our country’s most thought-provoking literature for people who are incarcerated.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"a390c7e6-7eab-4901-9a7d-67847ab2631d","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Showing Up, Inside Literary Prize
+
+----
+
+Published: 2025-06-13 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Madeline Sklar
+  position: Communications Manager
+  organization: Freedom Reads
+  email: madelines@freedomreads.org
+  phone: 203-208-9123
+
+----
+
+Posted: 
+
+----
+
+Uuid: nFyXXySzQCU0zzNw

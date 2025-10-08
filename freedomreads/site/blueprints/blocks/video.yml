@@ -1,0 +1,34 @@
+name: Video
+icon: video
+preview: video
+fields:
+  url:
+    label: field.blocks.video.url.label
+    type: url
+    placeholder: field.blocks.video.url.placeholder
+    width: 1/1  
+  caption:
+    label: field.blocks.video.caption
+    type: writer
+    inline: true
+    width: 1/1
+  layout:
+    type: radio
+    label: Layout
+    width: 1/2
+    default: contentwidth
+    options:
+      contentwidth: Text Width
+      fullwidth: Full Width
+    required: true
+    help: Note, setting up a sidebar will overridefull-width video.
+  sidebar:
+    type: toggle
+    when: 
+      layout: contentwidth 
+    default: false 
+  sidebarfields:
+    type: group
+    when:
+      sidebar: true
+    extends: sections/sidebar-fields

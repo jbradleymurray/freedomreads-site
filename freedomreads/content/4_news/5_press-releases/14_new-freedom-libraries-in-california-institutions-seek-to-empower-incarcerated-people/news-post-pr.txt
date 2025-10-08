@@ -1,0 +1,44 @@
+Title: New 'Freedom Libraries' in California Institutions Seek to Empower Incarcerated People
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: Libraries with empowering, carefully curated literature will be available at Valley State Prison and Central California Women's Facility
+
+----
+
+Blocks: [{"content":{"text":"<p>The national non-profit <a href=\"https://freedomreads.org\" target=\"_blank\">Freedom Reads</a> has partnered with California Department of Corrections and Rehabilitation (CDCR) to open Freedom Libraries at <a href=\"https://www.cdcr.ca.gov/facility-locator/vsp/\" target=\"_blank\">Valley State Prison</a> (VSP) and <a href=\"https://www.cdcr.ca.gov/facility-locator/ccwf/\" target=\"_blank\">Central California Women's Facility</a> (CCWF) in Chowchilla, Calif. </p><p>A carefully curated, 500-book collection will be available at each institution. Books will be placed in mini portable libraries in each of VSP's 17 housing units and also made available to staff. CCWF will open five housing unit libraries. </p><p>Each bookshelf is handcrafted out of maple, walnut or cherry and is curved to contrast the straight lines and bars of prisons as well as to evoke Martin Luther King Jr.'s line about the \"arc of the universe\" bending \"toward justice.\" </p><p>Founded by 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts, who was sentenced to nine years in prison at age 16, the Freedom Libraries seek to create a space in prisons to encourage community and where reaching for a book can be as spontaneous as human curiosity. Each bookshelf is handcrafted out of maple, walnut or cherry and is curved to contrast the straight lines and bars of prisons as well as to evoke Martin Luther King Jr.'s line about the \"arc of the universe\" bending \"toward justice.\"</p><p>\"Far too often, the only thing that's beautiful in a prison are the people,\" said Betts, Founder and Executive Director of Freedom Reads. \"With the opening of these libraries in VSP and CCWF we are bringing beauty, bringing books and bringing people inside to have the kinds of conversations we believe could help transform the lives of those incarcerated. We are thankful to share our goal of creating opportunities for daily engagement with literature inside their facilities.\"</p><p>Brandy Buenafe, Library Services Administrator for CDCR's statewide system of libraries, said she's eager to see the new books circulating at the institutions. \"Reading is a step toward rehabilitation, and can create deep personal change in anyone who embraces it. Books and knowledge are irreplaceable and can lead to successful outcomes,\" Buenafe said. \"We would like to thank Freedom Reads and Dwayne Betts for bringing these libraries to our prisons, and offering the gift to our incarcerated population that comes with reading.\"</p><p>Freedom Reads is among a host of rehabilitative programs offered at VSP and CCWF and is part of CDCR's commitment to providing opportunities for academic growth at all its institutions. Last year, VSP and CCWF began offering a <a href=\"https://www.cdcr.ca.gov/news/2022/06/29/incarcerated-students-in-central-valley-prisons-can-earn-bachelors-degree-through-fresno-state-partnership/\" target=\"_blank\">bachelor's degree program</a> through Fresno State University.</p><p>\"Valley State Prison's goal is to empower the incarcerated population through literacy and education,\" said Acting Warden Matt McVay. \"Freedom Reads' donation will be an invaluable addition to the rehabilitative and life-changing materials and programs available to those at VSP.\"</p><p>CCWF Warden Mike Pallares (A) said the generous donation has been eagerly anticipated. \"I believe reading is a way to develop the mind and grow as a person, and these libraries will increase access and availability of good reading material at our prison.\"</p><p>Betts' nonprofit is a first-of-its-kind organization that empowers people through literature to imagine new possibilities for their lives. Books in the Freedom Library have been selected through consultations with hundreds of poets, novelists, philosophers, teachers, friends, and voracious readers. The libraries include contemporary poets, novelists, and essayists alongside classic works from Homer's <em>The Odyssey </em>to the <em>Narrative of the Life of Frederick Douglass</em>, titles that remind us the book has long been a freedom project. Freedom Reads is working to put a Freedom Library within reach of every person incarcerated in this country. </p><p>Following the openings of the libraries, Betts on Jan. 19 will perform for an audience at VSP and CCWF his one-man show <a href=\"https://www.artidea.org/felon\" target=\"_blank\">FELON: An American Washi Tale</a>. In this show he explores the lingering consequences of having a criminal record, fatherhood, the power of literature, and love. The show is based on Betts' poetry collection <a href=\"https://wwnorton.com/books/9780393652147\" target=\"_blank\"><em>FELON</em></a>. </p><p>VSP is a low-security, general population institution open since 1995, and was converted from an all-female to an all-male institution in 2013. CCWF opened in 1990 and is the largest female institution in the state. </p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"f6549b77-f8f7-48ef-a703-589f6064299d","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Openings, Freedom Library
+
+----
+
+Published: 2023-01-18 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Ivan Dominguez
+  position: 'Chief Communications Officer & Director of Development'
+  organization: Freedom Reads
+  email: ivan@freedomreads.org
+  phone: ""
+
+----
+
+Posted: https://www.newswire.com/news/new-freedom-libraries-in-california-institutions-seek-to-empower-21932916?_gl=1*1h2aerm*_ga*MTkwMTQ2ODUzMi4xNjkwNDgyMTA1*_ga_MX6T5V36WQ*MTY5NzQ2ODY0OS4xMy4xLjE2OTc0Njg3NzAuNjAuMC4w
+
+----
+
+Uuid: Rm3WX6uHK0WdxmUd

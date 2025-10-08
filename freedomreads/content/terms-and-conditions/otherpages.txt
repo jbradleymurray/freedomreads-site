@@ -1,0 +1,36 @@
+Title: Terms and Conditions
+
+----
+
+Text:
+
+Welcome to Freedom Reads’ Website!
+By accessing or using our website, you agree to comply with and be bound by these Terms and Conditions. Please read them carefully.
+
+**Use of Content
+**
+All content on this website, including articles, images, and text, is owned or licensed by Freedom Reads. You may use this content for personal, non-commercial purposes only. Redistribution, modification, or republishing of content without our consent is prohibited.
+
+**Donations and E-commerce
+**
+We accept donations and offer merchandise for sale through our website. By making a purchase or donation, you agree to provide accurate and complete information and understand that these transactions are governed by applicable laws and regulations. Any merchandise is subject to availability and may be discontinued or modified without notice.
+
+**Third-Party Content
+**
+Our website may contain links to third-party websites for additional resources. We are not responsible for the content, privacy policies, or practices of third-party sites. We encourage users to review the policies of any external sites they visit.
+
+**Limitation of Liability
+**
+Freedom Reads is not liable for any damages resulting from your use of our website or its content. This includes, but is not limited to, damages related to data loss, security breaches, or reliance on website information.
+
+**Changes to Terms
+**
+We reserve the right to modify these terms at any time. Changes will be posted on this page, and continued use of the site signifies your acceptance of these modifications.
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Vision"},"id":"c75fa2f0-4b7a-4f43-bffb-a34150d37654","isHidden":false,"type":"heading"},{"content":{"text":"<p>A Freedom Library in every cellblock in every prison in America. Freedom Reads envisions a society that acknowledges and nurtures the basic dignity and humanity of people in prison.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"6b46725b-9fc9-41d2-a88f-9c05db229609","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Mission"},"id":"10b946e6-03bb-4a25-8320-a8fe60f7821e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Freedom Reads’ mission is to inspire and confront what prison does to the spirit. We bring beautiful, handcrafted bookcases into prisons, transforming cellblocks into Freedom Libraries. The Freedom Library is a physical intervention into the landscape of plastic and steel and loneliness that characterizes prison. In an environment where the freedom to think, to contribute to a community, and even to dream about what is possible is too often curtailed, Freedom Reads reminds those Inside that they have not been forgotten.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"1d101f26-e070-4a28-9fef-c2be904d3f09","isHidden":false,"type":"text"},{"content":{"image":["file://IPfyPfSevhRV6YbV"],"layout":"contentwidth","sidebar":"true","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"Meet our Team","external":false,"link":"page://VmsnR4z0tXTtUHOE"},"id":"cc91b743-684f-4be7-b721-5b94e809ea66","isHidden":false,"type":"image"},{"content":{"image":["file://E2NA0GwI4kgBehOJ"],"layout":"contentwidth","sidebar":"true","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"Learn More","external":false,"link":"page://3tjLFZoQPeOL8HCv"},"id":"94a38b32-5413-4c4b-a09a-436b579a7695","isHidden":false,"type":"image"}]
+
+----
+
+Uuid: 6f6bo3RtAD0cd4FZ

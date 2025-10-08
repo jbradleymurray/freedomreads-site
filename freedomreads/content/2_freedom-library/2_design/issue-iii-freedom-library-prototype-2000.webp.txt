@@ -1,0 +1,17 @@
+Caption: Preliminary concept rendering of the Freedom Library by Mass Design.
+
+----
+
+Credit: MASS Design
+
+----
+
+Alt: A digital rendering of the preliminary concept of a Freedom Library as designed by Mass Design, showing how these libraries would look inside the communal space of a cellblock.
+
+----
+
+Uuid: OuREc7VvEUj7iomw
+
+----
+
+Template: blocks/image

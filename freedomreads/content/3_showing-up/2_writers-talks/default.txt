@@ -1,0 +1,17 @@
+Title: Writers’ Talks
+
+----
+
+Hero: - file://FUqwEsC7JGY54L73
+
+----
+
+Introduction: Bringing books to life.
+
+----
+
+Blocks: [{"content":{"text":"<p>How do we remember that those locked up in prison are still a part of our greater society? By returning to prison with writers and poets and artists who remind us that those serving time are our sons &amp; daughters, our aunts &amp; uncles, our mothers, fathers, sisters, brothers, and friends. Writers are bridge builders and sharing their art with the men, women, and children in prisons creates new paths for imagining different futures.</p><p>Books also remind us that we are still a part of the world, even while Inside. When the Freedom Reads team was opening a library at a prison in Chesapeake, Virginia, one of the guys who was helping to shelve books picked up SA Cosby’s book and said “Man, my mom worked at Lowe’s with this guy!” He then began telling the story about how his mom read early drafts of <em>Blacktop Wasteland</em>, a gritty thriller that won the LA Times Book Award. The excitement about the possibility of SA Cosby coming to that prison to give a reading was infectious.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"cacd5d1a-75c8-4846-8ae3-7750af5e8f13","isHidden":false,"type":"text"},{"content":{"image":["file://4A5YsQwK6UXXy3FD"],"layout":"contentwidth","sidebar":"true","pagefeature":"false","sbheading":"Terrance Hayes at Otisville Correctional Facility","sbdescription":"Poet Terrance Hayes reflects on giving a reading at Otisville Correctional Facility in New York. Terrance wrote us, “They were so engaged we actually talked at some point about the nature of engagement, about the thing we were doing as we did it. I talked to them like practicing readers and writers because that's how they talked. My feeling is any poem you read offers a map, directions/routes for writing. I told them if you write you a writer.”","buttontext":"","external":false,"link":""},"id":"467845a8-7449-4bd4-bb33-895d378cb509","isHidden":false,"type":"image"},{"content":{"images":["file://ZfZYKvgI4n1RPtMu","file://qC7apKSTdm4DN6jq","file://QHne4DKJWctjElLD"]},"id":"a5980205-9b05-44ff-9790-ffaff6937e21","isHidden":false,"type":"gallery"}]
+
+----
+
+Uuid: nhXTUhzsCNMK85fZ

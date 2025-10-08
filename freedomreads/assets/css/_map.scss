@@ -1,0 +1,146 @@
+
+#mapdetail{
+	@extend .sans-serif;
+	position: absolute;
+	left: var(--pad-body);
+	top: var(--pad-body);
+	width: 350px;
+	padding: var(--pad-small);
+	background: var(--color-bg);
+	z-index: 20;
+	display: none;
+	&[data-active="true"]{
+		display: block;
+	}
+
+
+
+	@include at-media(mobile-lg){
+		position: fixed;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		width: 80%;
+	}
+}
+
+.block-map{
+	 .grid {
+		grid-row-gap: 0;
+	 }
+	h2{
+		grid-column: 1/-1;
+		padding-bottom: 0;
+		margin-bottom: 0;
+		padding-bottom: var(--pad-xs);
+
+	}
+	p {
+		grid-column: 1/-1;
+		padding-bottom: var(--pad);
+	}
+}
+.map-stats{
+	padding: var(--pad-body) 0 var(--pad-section);
+	
+}
+
+.number{
+	@extend .sans-serif-cond;
+	color: var(--color-gray-dark);	
+	font-size: var(--size-xxlarge);
+	font-weight: var(--wght-heavy);
+}
+.statistic{
+	grid-column-start: auto;
+	grid-column-end: span 4;
+}
+
+
+
+
+#map-container{
+	background: #a8a8a8;
+	--color-marker: var(--color-bg);
+	width: 100%;
+	min-height: 500px;
+	max-height: 630px;
+	height: 70vh;
+	position: relative;
+	color: var(--color-black);
+	@include at-media(tablet-lg){
+		height: 50vh;
+	}
+	@include at-media(mobile-lg){
+    height: 300px;
+    min-height: 0;
+  }
+
+  #mapbox{
+  	width: 100%;
+  	height: 100%;
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  }
+  #mapbox{
+  	visibility: hidden;
+  }
+
+	.mapboxgl-ctrl-attrib-inner{
+		@extend .sans-serif;
+		font-size: 10px;
+	}
+	.mapboxgl-popup-content {
+		@extend .sans-serif;
+		border-radius: 0;
+		padding: var(--pad-small);
+		background: var(--color-marker);
+		color: var(--color-black);
+		font-size: var(--size-body);
+		font-weight: 700;
+	}
+	.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip{
+		border-top-color: var(--color-marker);
+	}
+	.mapboxgl-popup-anchor-top .mapboxgl-popup-tip{
+		border-bottom-color: var(--color-marker);
+	}
+	.mapboxgl-popup-anchor-right .mapboxgl-popup-tip{
+		border-left-color: var(--color-marker);
+	}
+	.mapboxgl-popup-anchor-left .mapboxgl-popup-tip{
+		border-right-color: var(--color-marker);
+	}
+	.popup-content{
+		font-size: var(--size-caption);
+		.prison-name{
+			@extend .sans-serif-cond;
+			font-size: var(--size-base);
+			font-weight: 700;
+			line-height: var(--lineheight-small);
+		}
+		figure{
+			margin-top: var(--pad-xs);
+			border-top: 3px solid;
+			padding-top: var(--pad-small);
+			max-height: 250px;
+			overflow: hidden;
+			img{
+				object-fit: cover;
+				width: 100%;
+				height: 100%;
+			}
+		}
+		figcaption{
+			font-size: var(--size-caption);
+			line-height: var(--lineheight-medium);
+		}
+	}
+}
+
+// #mapstatic{ //static placeholder until interactive features load
+//   background-image: url("https://api.mapbox.com/styles/v1/freedomreads/cluuiqypb004t01omd0ym8lco/static/-98.30,36.00,3.5/1200x630?access_token=pk.eyJ1IjoiZnJlZWRvbXJlYWRzIiwiYSI6ImNsdWJwM3Y5djB4N3UybW54aWw1cnVta3UifQ.nXaU5D0OsxOe4IxH2R_fBw");
+//   background-size: cover;
+//   background-position: center center;
+// }

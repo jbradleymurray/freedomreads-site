@@ -1,0 +1,44 @@
+Title: Freedom Libraries to Open in New York Prison
+
+----
+
+Featureimg: 
+
+----
+
+Introduction: Freedom Libraries, conceived by former prisoner-turned-acclaimed-poet, open at Otisville Correctional Facility
+
+----
+
+Blocks: [{"content":{"text":"<p>The national non-profit <a href=\"https://freedomreads.org/\" target=\"_blank\">Freedom Reads</a> announced today the opening of three Freedom Libraries at <a href=\"https://doccs.ny.gov/location/otisville-correctional-facility\" target=\"_blank\">Otisville Correctional Facility</a> in southeastern New York state. Two of the libraries will be dedicated for use by incarcerated individuals and the additional library will be available to the staff. Otisville Correctional Facility will be the first New York Department of Corrections and Community Supervision (DOCCS) institution to open Freedom Libraries. DOCCS and Freedom Reads plan to open future libraries in several other facilities, including Albion, Groveland, and Mid-State Correctional Facilities, later this year.</p><p>The libraries, the brainchild of 2021 MacArthur Fellow and Yale Law School graduate Reginald Dwayne Betts who was sentenced to nine years in prison at age 16, are spaces in prisons to encourage the full realization of self. The libraries are handcrafted out of wood and curved to contrast the straight lines and bars of prisons as well as to evoke Martin Luther King Jr.'s line about the \"arc of the universe\" bending \"toward justice.\" Centering beauty and dignity, the Freedom Libraries seek to create a space in prisons to encourage community and the exploration of new possibilities.</p><p>Betts' nonprofit is a first-of-its-kind organization that empowers people through literature to imagine new possibilities for their lives. Books in the Freedom Library have been carefully curated through consultations with thousands of poets, novelists, philosophers, teachers, friends, and voracious readers, resulting in a collection of books that are not only beloved, but indispensable. The libraries include contemporary poets, novelists, and essayists alongside classic works from Homer's <em>The Odyssey </em>to the <em>Narrative of the Life of Frederick Douglass</em>, that remind us the book has long been a freedom project. Freedom Reads aims to build 1,000 Freedom Libraries in prisons nationwide.</p><p>Otisville Correctional Facility is also a participating site in Freedom Reads' Freedom Talks initiative, a program that brings writers and performers inside prisons to bridge the gap between those incarcerated and the world of contemporary arts and letters. In conjunction with the installation of the Freedom Libraries, Betts will perform for an audience at Otisville his one-man show <a href=\"https://www.artidea.org/felon\" target=\"_blank\"><em>FELON: An American Washi Tale</em></a>, in which he explores love, fatherhood, the power of literature, and the lingering consequences of having a criminal record. The show is based on Betts' poetry collection <a href=\"https://wwnorton.com/books/9780393652147\" target=\"_blank\"><em>FELON</em></a>. To date, Otisville has also welcomed two of Freedom Reads' Literary Ambassadors, poet Terrance Hayes and writer Jacqueline Woodson, to give readings of their work and engage with incarcerated participants. </p><p>\"We are grateful that the New York State Department of Corrections and Community Supervision shares our goal of creating opportunities for daily engagement with literature inside their facilities and a space in prison for books, inquiry, imagination, and community,\" said Reginald Dwayne Betts, Founder and Executive Director of Freedom Reads. \"With the opening of several Freedom Libraries at the Otisville Correctional Facility, we aim to support people in prison to imagine new possibilities for their lives.\"</p><p>Acting Commissioner Anthony J. Annucci said, \"The Department could not be more pleased to welcome Mr. Betts to perform at Otisville Correctional Facility, and to accept the organization's gracious offer to open three Freedom Libraries that will serve both incarcerated individuals and staff. We look forward to a continued partnership with Freedom Reads and the ability to open more Freedom Libraries at facilities across New York State in the near future.\"</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"d08c014e-8b9d-4739-b250-9e5b94f01760","isHidden":false,"type":"text"}]
+
+----
+
+Newstags: Openings, Freedom Library
+
+----
+
+Published: 2022-08-30 00:00:00
+
+----
+
+Location: Hamden, Conn.
+
+----
+
+Contactinfo:
+
+- 
+  name: Ivan Dominguez
+  position: 'Chief Communications Officer & Director of Development'
+  organization: Freedom Reads
+  email: ivan@freedomreads.org
+  phone: ""
+
+----
+
+Posted: https://www.newswire.com/news/freedom-libraries-to-open-in-new-york-prison-21806442?_gl=1*1q8wq4a*_ga*MTkwMTQ2ODUzMi4xNjkwNDgyMTA1*_ga_MX6T5V36WQ*MTY5NzQ2ODY0OS4xMy4xLjE2OTc0Njg3MDUuNC4wLjA.
+
+----
+
+Uuid: QNsYizxAC7SZPET1

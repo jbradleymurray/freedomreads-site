@@ -1,0 +1,5 @@
+title: Editor
+permissions:
+  users: false
+  user:
+    changeRole: false

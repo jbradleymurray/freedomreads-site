@@ -1,0 +1,21 @@
+Title: Home
+
+----
+
+Hero: - file://ifLr8GdL4zSv41Sm
+
+----
+
+Herotext: Freedom begins<br>with a book.
+
+----
+
+Introduction: Amidst the chaos and control that characterizes prisons, it is difficult to bring into focus the intellectual, cultural, and emotional loss that incarcerated people experience. Freedom Reads is the only organization in the nation transforming the experience of incarceration by opening libraries in cellblocks.
+
+----
+
+Blocks: [{"content":{"text":"<p>Prisons are the loneliest places on Earth. This is a fact that Freedom Reads Founder and CEO, Reginald Dwayne Betts, knows all too well. Locked up as a teenager after pleading guilty to carjacking, Dwayne spent nearly nine years in prison. A year after landing in prison at 16, he was sent to solitary confinement where officers confiscated the few paperback books he had — books were contraband in the hole.</p><p>To combat the sorrow, isolation, and oppression of prison cells, some of the men in solitary created an underground library, sans brick and mortar, a card catalog, or even bookcases. The wildly inventive book delivery system was a spectacle of hope. On some days, from his cell in solitary, Dwayne could see a rope made from a torn sheet suspended in the air, pulled back and forth by the hands of men in buildings 40-feet apart. Books would arrive in a pillowcase traveling along this ingenious pulley system. And when they arrived, a book would land in your cell after one simple request: “Ay, somebody send me a book.”</p><p>Prison is many things to many different people, but in that moment, prison became a community of people, working together to enrich their environments, against the odds, by transforming a place of desolation into one in which a radical idea would have a chance to blossom — freedom begins with a book.</p><p>Freedom Reads is a first of its kind organization that inspires and confronts what prison does to the spirit. We bring beautiful, handcrafted bookcases into prisons, transforming cellblocks into Freedom Libraries. The library is a physical intervention into the landscape of plastic and steel and loneliness that characterizes incarceration. In an environment where the freedom to think, to contribute to a community, and even to dream about what is possible is too often curtailed, Freedom Reads reminds those Inside that they have not been forgotten.</p>","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":null,"link":""},"id":"daa75e1e-a661-4c40-8169-88956308316b","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/dfJkI9-CV8o?si=Vp0Uv0JvTdZPrgnB","caption":"","layout":"contentwidth","sidebar":"true","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"Freedom Library","external":null,"link":"page://mJ4Opjag77cTpWgy"},"id":"d81594fa-9fac-49eb-809c-193decd5cb93","isHidden":false,"type":"video"},{"content":{"text":"It was a great surprise upon returning from work for the day and seeing all of those books and new shelves that they were on. I would like to share what I saw through my eyes; people sitting Indian style around the bookcase and one older person sitting in a chair reading the back cover of a book while several others were discussing the books. It was kind of like seeing children on Christmas morning after all the presents were opened. I saw a couple of people out of their cell who you never see unless it’s meal time. Your saying of freedom begins with a book is spot on.","citation":"Chief “Bear,” Freedom Library Patron at Maine State Prison","inline":"false","image":[],"sidebar":"true","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"Donate","external":null,"link":"page://tVVrSfjy1VOgr8nU"},"id":"20c6b3b4-b4df-478e-9cb6-f6b74596b2c4","isHidden":false,"type":"quote-custom"},{"content":{"image":["file://lSyEnx9iH7EzxNQQ"],"layout":"contentwidth","sidebar":"false","pagefeature":"true","sbheading":"","sbdescription":"","buttontext":"","external":false,"link":""},"id":"ba02962f-7932-4d2a-ac9b-09ea5c38306f","isHidden":false,"type":"image"}]
+
+----
+
+Uuid: 8paB8bq3jZ3C65Dq
