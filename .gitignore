@@ -1,19 +1,22 @@
 # Kirby system files
-freedomreads/site/accounts
-freedomreads/site/cache
-freedomreads/site/sessions
-freedomreads/media
-freedomreads/storage
+/site/accounts
+/site/cache
+/site/sessions
+/media
+/content
+/storage
 
 # dependencies
-freedomreads/node_modules
-freedomreads/vendor
+/node_modules
+/vendor
 
 # local configs
 .env
 .env.*
-freedomreads/site/config/config.local.php
+/site/config/config.local.php
 
 # Local development files
 LocalValetDriver.php
 .DS_Store
+.license
+.htaccess
