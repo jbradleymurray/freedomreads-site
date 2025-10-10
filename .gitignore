@@ -20,3 +20,4 @@ LocalValetDriver.php
 .DS_Store
 .license
 .htaccess
+*.log
