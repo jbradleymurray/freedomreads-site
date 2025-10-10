@@ -15,9 +15,10 @@ columns:
       blocks:
         label: Story
         type: blocks
-        fieldsets: 
+        fieldsets:
           - heading
           - text
+          - markdown
         uploads: false
   - width: 1/3
     sections:

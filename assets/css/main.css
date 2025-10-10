@@ -4928,3 +4928,45 @@ body.shibumi h3 {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+/* Neon Donation Form Embed Styles */
+.donation-form {
+  max-width: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#neon-donate-embed {
+  width: 100%;
+}
+
+#neon-form-embed-18-container {
+  width: 100%;
+  display: block;
+}
+
+#neon-form-embed-18 {
+  width: 100%;
+  min-height: 1200px;
+  border: none;
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .donation-form {
+    max-width: 800px;
+  }
+}
+
+@media (max-width: 767px) {
+  #neon-form-embed-18 {
+    min-height: 1400px;
+  }
+}
+
+/* Additional Neon container styling */
+#neon-donate-container {
+  width: 100%;
+  display: block;
+  min-height: 100px;
+}
