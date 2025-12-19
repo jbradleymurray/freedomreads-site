@@ -1,0 +1,31 @@
+title: Donate Thank You Page
+columns:
+  - width: 2/3
+    fields:
+      hero:
+        label: Hero Image
+        type: files
+        multiple: false
+      herotext:
+        label: Hero Text
+        type: text
+      introduction:
+        label: Introduction Text
+        type: textarea
+        buttons:
+          - bold
+          - italic
+          - link
+      blocks:
+        label: Content
+        type: blocks
+        fieldsets:
+          - heading
+          - text
+          - markdown
+        uploads: false
+  - width: 1/3
+    sections:
+      files:
+        label: All Images On This Page
+        type: files

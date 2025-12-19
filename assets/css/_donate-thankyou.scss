@@ -1,0 +1,282 @@
+/*--------------------------------------------------------------
+DONATE THANK YOU PAGES STYLES
+--------------------------------------------------------------*/
+
+/* VERSION 1: Neon-style centered card design */
+.donate-thankyou.version-1 {
+    .thankyou-neon-style {
+        min-height: calc(100vh - var(--height-nav));
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: var(--pad-section) var(--pad-body);
+        background-color: var(--color-bg);
+    }
+
+    .thankyou-card {
+        background: var(--color-white);
+        max-width: 560px;
+        width: 100%;
+        padding: 3rem 2.5rem;
+        text-align: center;
+        border: 1px solid rgba(41, 36, 36, 0.1);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        @extend .sans-serif;
+    }
+
+    .donation-amount {
+        font-size: 3rem;
+        font-weight: 700;
+        color: #292424;
+        margin-bottom: 1rem;
+        line-height: 1.2;
+        @extend .sans-serif;
+    }
+
+    .thankyou-heading {
+        font-size: 1.75rem;
+        font-weight: 700;
+        color: #292424;
+        margin-bottom: 1.5rem;
+        padding: 0;
+        @extend .sans-serif;
+    }
+
+    .thankyou-message {
+        color: #6c757d;
+        font-size: var(--size-body);
+        line-height: var(--lineheight);
+        margin-bottom: 2rem;
+        @extend .sans-serif;
+
+        p {
+            margin: 0;
+        }
+
+        strong {
+            color: var(--color-theme-dark);
+        }
+    }
+
+    .share-section {
+        margin-top: 2.5rem;
+    }
+
+    .share-divider {
+        border: none;
+        border-top: 1px solid rgba(41, 36, 36, 0.15);
+        margin: 0 0 1.5rem 0;
+    }
+
+    .share-label {
+        font-size: var(--size-body);
+        color: #6c757d;
+        margin-bottom: 1rem;
+        @extend .sans-serif;
+    }
+
+    .social-buttons {
+        display: flex;
+        gap: 0.75rem;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .social-btn {
+        width: 44px;
+        height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 4px;
+        transition: opacity 0.2s ease;
+        text-decoration: none;
+        background-color: #3E5C76;
+
+        &:hover {
+            opacity: 0.85;
+        }
+
+        svg {
+            fill: #ffffff;
+            width: auto;
+            height: 18px;
+        }
+
+        svg path {
+            fill: #ffffff;
+        }
+    }
+
+    @include at-media(mobile-lg) {
+        .thankyou-card {
+            padding: 2rem 1.5rem;
+        }
+
+        .donation-amount {
+            font-size: var(--size-xlarge);
+        }
+    }
+}
+
+/* VERSION 2: Site-branded design matching blog posts */
+.donate-thankyou.version-2 {
+    // Intro section matching post-intro
+    .thankyou-intro {
+        grid-column: 1/-1;
+        padding: var(--pad-section) 0 var(--pad-section) 0;
+
+        .text {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+            padding: 0 var(--pad-body);
+        }
+
+        .success-indicator {
+            margin: 0 auto 1.5rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            svg {
+                width: 60px;
+                height: 60px;
+            }
+        }
+
+        h1 {
+            font-size: var(--size-xlarge);
+            font-weight: var(--wght-heavy);
+            color: var(--color-theme-dark);
+            padding: 0 0 var(--pad-small) 0;
+        }
+
+        .donation-amount-v2 {
+            font-size: var(--size-large);
+            font-weight: var(--wght-bold);
+            color: var(--color-theme-dark);
+            padding: var(--pad-small) 0;
+
+            strong {
+                color: var(--color-black);
+            }
+        }
+
+        .p-intro {
+            font-size: var(--size-large);
+            line-height: var(--lineheight-medium);
+            color: var(--color-theme-dark);
+            padding-top: var(--pad-small);
+        }
+
+        .thankyou-body {
+            margin-top: var(--pad);
+            text-align: center;
+
+            p {
+                font-size: var(--size-body);
+                line-height: var(--lineheight);
+                color: var(--color-theme-dark);
+                margin-bottom: var(--pad-small);
+            }
+        }
+    }
+
+    .thankyou-actions {
+        display: flex;
+        gap: var(--pad);
+        justify-content: center;
+        flex-wrap: wrap;
+        margin: var(--pad-section) 0 var(--pad) 0;
+
+        .btn-page {
+            margin-top: 0;
+        }
+    }
+
+    .social-share-section {
+        padding: var(--pad) 0 0 0;
+        text-align: center;
+
+        .share-label {
+            font-size: var(--size-body);
+            font-weight: var(--wght-bold);
+            color: var(--color-theme-dark);
+            margin-bottom: var(--pad-small);
+        }
+
+        .social-links-thankyou {
+            display: flex;
+            gap: var(--pad);
+            justify-content: center;
+            align-items: center;
+            list-style: none;
+
+            li {
+                list-style: none;
+            }
+
+            a {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: var(--pad-xs);
+                transition: opacity 0.2s ease;
+
+                &:hover {
+                    opacity: 0.7;
+                }
+
+                svg {
+                    fill: var(--color-theme-dark);
+                    height: 23px;
+                    width: auto;
+                }
+
+                .knockout {
+                    fill: var(--color-bg);
+                }
+            }
+        }
+    }
+
+    @include at-media(mobile-lg) {
+        .thankyou-intro {
+            padding: var(--pad) 0;
+
+            h1 {
+                font-size: var(--size-large);
+            }
+
+            .success-indicator svg {
+                width: 50px;
+                height: 50px;
+            }
+
+            .p-intro {
+                font-size: var(--size-body);
+            }
+
+            .text {
+                padding: 0 var(--pad-mobile);
+            }
+        }
+
+        .thankyou-actions {
+            flex-direction: column;
+            padding: 0 var(--pad-mobile);
+
+            .btn-page {
+                width: 100%;
+                text-align: center;
+            }
+        }
+
+        .social-share-section {
+            .social-links-thankyou {
+                gap: var(--pad-small);
+            }
+        }
+    }
+}
