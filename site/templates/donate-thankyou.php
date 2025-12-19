@@ -122,4 +122,20 @@ $siteUrl = $site->url();
         </div>
     <?php endif; ?>
 </main>
+
+<?php if ($isVersion1 && isset($_GET['amount']) && $_GET['amount']): ?>
+<script>
+  fbq('track', 'Purchase', {
+    currency: 'USD',
+    value: <?= number_format((float)$_GET['amount'], 2, '.', '') ?>
+  });
+</script>
+<?php elseif ($isVersion1): ?>
+<script>
+  fbq('track', 'Purchase', {
+    currency: 'USD'
+  });
+</script>
+<?php endif; ?>
+
 <?php snippet('footer') ?>
