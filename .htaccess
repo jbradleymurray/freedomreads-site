@@ -43,6 +43,9 @@ RewriteRule ^kirby/(.*) index.php [L]
 # exception for proxy.php
 RewriteRule ^proxy\.php$ - [L]
 
+# exception for webhooks directory
+RewriteRule ^webhooks/ - [L]
+
 # make site links work
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d

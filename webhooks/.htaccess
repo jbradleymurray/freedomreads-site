@@ -1,3 +1,9 @@
+# Allow access to PHP files in this directory
+<FilesMatch "\.php$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
+
 # Protect webhook log files from direct access
 <Files "neon-webhook.log">
     Order Allow,Deny
