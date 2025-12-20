@@ -13,11 +13,11 @@
 // ============================================
 
 $config = [
-    'meta_pixel_id'     => 'YOUR_PIXEL_ID_HERE',
+    'meta_pixel_id'     => '725901587225841',
     'meta_access_token' => 'YOUR_ACCESS_TOKEN_HERE',
     'meta_api_version'  => 'v21.0',
     'event_source_url'  => 'https://freedomreads.org/donate',
-    'debug_mode'        => false,  // Set to true during testing
+    'debug_mode'        => true,  // Set to false after testing is complete
     'log_file'          => __DIR__ . '/neon-webhook.log'
 ];
 
