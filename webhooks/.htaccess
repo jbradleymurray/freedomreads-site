@@ -1,0 +1,11 @@
+# Protect webhook log files from direct access
+<Files "neon-webhook.log">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+# Block access to any .log files in this directory
+<FilesMatch "\.log$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
