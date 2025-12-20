@@ -67,8 +67,8 @@ if ($eventTrigger !== 'createDonation') {
     exit;
 }
 
-// Extract donation data
-$donation = $payload['data']['donation'] ?? [];
+// Extract donation data - Neon sends it directly under 'data', not 'data.donation'
+$donation = $payload['data'] ?? [];
 
 if (empty($donation)) {
     logMessage("No donation data in payload", $config);
@@ -77,24 +77,17 @@ if (empty($donation)) {
     exit;
 }
 
-// Extract relevant fields from Neon webhook
-// Note: Field names may vary - check actual Neon webhook payload
+// Extract relevant fields from Neon webhook (based on actual payload structure)
 $amount = $donation['amount'] ?? 0;
-$donorName = $donation['donorName'] ?? '';
+$donationId = $donation['id'] ?? '';  // Neon uses 'id', not 'donationId'
 $accountId = $donation['accountId'] ?? '';
-$donationId = $donation['donationId'] ?? '';
 
-// Neon may send name as single field - split if needed
-$nameParts = explode(' ', $donorName, 2);
-$firstName = $nameParts[0] ?? '';
-$lastName = $nameParts[1] ?? '';
-
-// Email might be in different locations depending on Neon's payload structure
-// Check the actual webhook payload and adjust as needed
-$email = $donation['email']
-    ?? $donation['donorEmail']
-    ?? $payload['data']['account']['email']
-    ?? '';
+// Neon doesn't include donor personal info in createDonation webhook
+// We'll send what we have - Meta can still attribute based on browser session
+// The Pixel on the browser side will capture email/name from the form
+$firstName = '';
+$lastName = '';
+$email = '';
 
 logMessage("Processing donation: ID={$donationId}, Amount={$amount}, Email={$email}", $config);
 
