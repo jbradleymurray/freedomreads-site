@@ -82,14 +82,18 @@ $amount = $donation['amount'] ?? 0;
 $donationId = $donation['id'] ?? '';  // Neon uses 'id', not 'donationId'
 $accountId = $donation['accountId'] ?? '';
 
-// Neon doesn't include donor personal info in createDonation webhook
-// We'll send what we have - Meta can still attribute based on browser session
-// The Pixel on the browser side will capture email/name from the form
-$firstName = '';
-$lastName = '';
+// Extract cardholder name from payment data
+$cardHolderName = $donation['payments'][0]['creditCardOnline']['cardHolderName'] ?? '';
+
+// Split name into first and last
+$nameParts = explode(' ', $cardHolderName, 2);
+$firstName = $nameParts[0] ?? '';
+$lastName = $nameParts[1] ?? '';
+
+// Email is not included in Neon's createDonation webhook
 $email = '';
 
-logMessage("Processing donation: ID={$donationId}, Amount={$amount}, Email={$email}", $config);
+logMessage("Processing donation: ID={$donationId}, Amount={$amount}, Name={$cardHolderName}", $config);
 
 // ============================================
 // BUILD META CAPI PAYLOAD
